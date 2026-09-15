@@ -25,5 +25,59 @@
     "paths": "[\"/crawlers/claudebot\"]",
     "formats": "[\"html\"]",
     "verified_share": 0
+  },
+  {
+    "id": 10,
+    "date": "2026-09-14",
+    "entity_id": 1,
+    "requests": 3,
+    "paths": "[\"/\"]",
+    "formats": "[\"html\"]",
+    "verified_share": 0
+  },
+  {
+    "id": 11,
+    "date": "2026-09-14",
+    "entity_id": 2,
+    "requests": 2,
+    "paths": "[\"/robots.txt\"]",
+    "formats": "[\"txt\"]",
+    "verified_share": 1
+  },
+  {
+    "id": 12,
+    "date": "2026-09-14",
+    "entity_id": 5,
+    "requests": 535,
+    "paths": "[\"/\",\"/robots.txt\",\"/sitemap.xml\",\"/method\",\"/changes\",\"/data\",\"/data/latest\",\"/observed\",\"/questions\",\"/observed/perplexitybot\",\"/observed/googlebot\",\"/claims\",\"/observed/perplexity-user\",\"/observed/applebot\",\"/crawlers\",\"/observed/bingbot\",\"/claims/116\",\"/crawlers/perplexitybot\",\"/claims/2\",\"/observed/googleother\",\"/crawlers/googlebot\",\"/claims/39\",\"/observed/gptbot\",\"/claims/97\",\"/claims/3\",\"/claims/4\",\"/claims/32\",\"/claims/7\",\"/claims/71\",\"/observed/google-extended\",\"/claims/83\",\"/claims/5\",\"/claims/76\",\"/claims/89\",\"/claims/8\",\"/claims/91\",\"/claims/73\",\"/claims/33\",\"/claims/46\",\"/claims/63\",\"/claims/72\",\"/claims/85\",\"/claims/45\",\"/claims/44\",\"/claims/41\",\"/claims/52\",\"/claims/87\",\"/claims/69\",\"/claims/40\",\"/claims/79\",\"/claims/6\",\"/claims/35\",\"/claims/95\",\"/claims/64\",\"/claims/86\",\"/claims/80\",\"/claims/22\",\"/claims/82\",\"/claims/9\",\"/crawlers/perplexity-user\",\"/claims/74\",\"/claims/53\",\"/claims/28\",\"/claims/67\",\"/claims/129\",\"/claims/75\",\"/claims/90\",\"/claims/48\",\"/claims/92\",\"/claims/29\",\"/claims/98\",\"/claims/124\",\"/claims/49\",\"/claims/77\",\"/claims/65\",\"/claims/1\",\"/claims/84\",\"/claims/30\",\"/claims/37\",\"/claims/47\",\"/claims/96\",\"/claims/68\",\"/claims/36\",\"/claims/58\",\"/claims/70\",\"/claims/59\",\"/claims/16\",\"/claims/60\",\"/claims/23\",\"/claims/34\",\"/claims/112\",\"/claims/21\",\"/claims/38\",\"/claims/56\",\"/claims/78\",\"/claims/10\",\"/claims/13\",\"/claims/43\",\"/claims/19\",\"/claims/18\"]",
+    "formats": "[\"html\",\"txt\",\"xml\",\"json\",\"md\",\"csv\"]",
+    "verified_share": 0.9981308411214953
+  },
+  {
+    "id": 13,
+    "date": "2026-09-14",
+    "entity_id": 10,
+    "requests": 79,
+    "paths": "[\"/robots.txt\",\"/favicon.ico\",\"/\",\"/crawlers/google-extended\",\"/crawlers/applebot\",\"/crawlers/claudebot\",\"/changes\",\"/sitemap.xml\",\"/crawlers\",\"/claims\",\"/claims/12\",\"/observed\",\"/claims/88\",\"/data\",\"/method\",\"/claims/47\",\"/claims/48\",\"/claims/52\",\"/claims/61\",\"/claims/54\",\"/claims/53\",\"/claims/14\",\"/claims/82\",\"/claims/78\",\"/claims/55\",\"/claims/59\",\"/crawlers/googlebot\",\"/crawlers/claude-user\",\"/crawlers/googleother\",\"/crawlers/chatgpt-user\",\"/claims/108\",\"/crawlers/oai-searchbot\",\"/crawlers/claude-searchbot\",\"/crawlers/perplexity-user\",\"/crawlers/applebot-extended\",\"/claims/103\",\"/crawlers/oai-adsbot\",\"/claims/107\",\"/observed/oai-searchbot\",\"/crawlers/perplexitybot\",\"/observed/gptbot\",\"/claims/83\",\"/claims/105\"]",
+    "formats": "[\"txt\",\"html\",\"xml\"]",
+    "verified_share": 0.9873417721518988
+  },
+  {
+    "id": 14,
+    "date": "2026-09-14",
+    "entity_id": 11,
+    "requests": 76,
+    "paths": "[\"/\",\"/crawlers/claude-user\",\"/crawlers/perplexity-user\",\"/crawlers/applebot-extended\",\"/mcp\",\"/crawlers/oai-adsbot\",\"/crawlers/google-extended\",\"/crawlers/claudebot\",\"/crawlers/perplexitybot\",\"/crawlers/applebot\",\"/crawlers/bingbot\",\"/changes\",\"/crawlers/googlebot\",\"/crawlers\",\"/claims/57\",\"/crawlers/claude-searchbot\",\"/claims\",\"/claims/12\",\"/crawlers/chatgpt-user\",\"/claims/88\",\"/crawlers/googleother\",\"/observed\",\"/crawlers/gptbot\",\"/claims/50\",\"/claims/54\",\"/claims/129\",\"/data\",\"/claims/53\",\"/claims/61\",\"/method\",\"/claims/47\",\"/claims/48\",\"/claims/56\",\"/claims/49\",\"/claims/52\",\"/questions\",\"/crawlers/oai-searchbot\",\"/claims/58\",\"/claims/14\",\"/claims/82\",\"/changes.xml\",\"/claims/78\",\"/claims/55\",\"/claims/59\",\"/data/latest/observation_daily.json\",\"/claims/126\",\"/claims/108\",\"/claims/106\",\"/observed/claudebot\",\"/claims/103\",\"/observed/gptbot\",\"/observed/oai-searchbot\",\"/claims/107\",\"/claims/27\",\"/claims/122\",\"/claims/84\",\"/claims/124\",\"/claims/80\",\"/claims/21\",\"/claims/83\",\"/claims/111\",\"/data/latest/notes.json\",\"/claims/105\",\"/claims/36\",\"/claims/127\"]",
+    "formats": "[\"html\",\"json\",\"xml\"]",
+    "verified_share": 1
+  },
+  {
+    "id": 15,
+    "date": "2026-09-14",
+    "entity_id": 14,
+    "requests": 6,
+    "paths": "[\"/robots.txt\",\"/\"]",
+    "formats": "[\"txt\",\"html\"]",
+    "verified_share": 1
   }
 ]

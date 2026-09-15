@@ -1,1 +1,442 @@
-[]
+[
+  {
+    "id": 7,
+    "ts_first": "2026-09-15T01:36:40Z",
+    "ts_last": "2026-09-15T01:36:40Z",
+    "text_norm": "why wasn t a specific page cited by an ai answer instead of a competitor s page",
+    "count": 2,
+    "sources": "[\"prompt_batch\", \"engine:perplexity\", \"engine:chatgpt\"]",
+    "matched_claim_ids": "[]",
+    "gap": 1
+  },
+  {
+    "id": 8,
+    "ts_first": "2026-09-15T01:36:40Z",
+    "ts_last": "2026-09-15T01:36:40Z",
+    "text_norm": "which single factor cost a page the citation authority freshnes formatting entity recognition crawl recency embedding similarity safety filtering or personalization",
+    "count": 1,
+    "sources": "[\"prompt_batch\", \"engine:perplexity\"]",
+    "matched_claim_ids": "[]",
+    "gap": 1
+  },
+  {
+    "id": 9,
+    "ts_first": "2026-09-15T01:36:40Z",
+    "ts_last": "2026-09-15T01:36:40Z",
+    "text_norm": "if a specific on page change is made such as a new heading faq schema or new backlink will the page be cited next time",
+    "count": 1,
+    "sources": "[\"prompt_batch\", \"engine:perplexity\"]",
+    "matched_claim_ids": "[]",
+    "gap": 1
+  },
+  {
+    "id": 10,
+    "ts_first": "2026-09-15T01:36:40Z",
+    "ts_last": "2026-09-15T01:36:40Z",
+    "text_norm": "what percentage of citation probability com from traditional google or bing ranking",
+    "count": 1,
+    "sources": "[\"prompt_batch\", \"engine:perplexity\"]",
+    "matched_claim_ids": "[]",
+    "gap": 1
+  },
+  {
+    "id": 11,
+    "ts_first": "2026-09-15T01:36:40Z",
+    "ts_last": "2026-09-15T01:36:40Z",
+    "text_norm": "how much do backlink brand mention structured data review forum discussion publisher reputation and content freshnes each matter to being cited",
+    "count": 2,
+    "sources": "[\"prompt_batch\", \"engine:perplexity\", \"engine:chatgpt\"]",
+    "matched_claim_ids": "[]",
+    "gap": 1
+  },
+  {
+    "id": 12,
+    "ts_first": "2026-09-15T01:36:40Z",
+    "ts_last": "2026-09-15T01:36:40Z",
+    "text_norm": "what is the exact source ranking or citation formula used by chatgpt search perplexity gemini or claude",
+    "count": 1,
+    "sources": "[\"prompt_batch\", \"engine:perplexity\"]",
+    "matched_claim_ids": "[]",
+    "gap": 1
+  },
+  {
+    "id": 13,
+    "ts_first": "2026-09-15T01:36:40Z",
+    "ts_last": "2026-09-15T01:36:40Z",
+    "text_norm": "does ranking in the top three organic search result guarantee inclusion in an ai generated answer",
+    "count": 1,
+    "sources": "[\"prompt_batch\", \"engine:perplexity\"]",
+    "matched_claim_ids": "[]",
+    "gap": 1
+  },
+  {
+    "id": 14,
+    "ts_first": "2026-09-15T01:36:40Z",
+    "ts_last": "2026-09-15T01:36:40Z",
+    "text_norm": "does schema markup directly increase ai citation or does it merely make content easier to extract",
+    "count": 2,
+    "sources": "[\"prompt_batch\", \"engine:perplexity\", \"engine:chatgpt\"]",
+    "matched_claim_ids": "[]",
+    "gap": 1
+  },
+  {
+    "id": 15,
+    "ts_first": "2026-09-15T01:36:40Z",
+    "ts_last": "2026-09-15T01:36:40Z",
+    "text_norm": "did a named ai crawler actually crawl a given page and was that page used in a future model s training",
+    "count": 1,
+    "sources": "[\"prompt_batch\", \"engine:perplexity\"]",
+    "matched_claim_ids": "[]",
+    "gap": 1
+  },
+  {
+    "id": 16,
+    "ts_first": "2026-09-15T01:36:40Z",
+    "ts_last": "2026-09-15T01:36:40Z",
+    "text_norm": "did a search oriented crawler such as oai searchbot index a specific url",
+    "count": 1,
+    "sources": "[\"prompt_batch\", \"engine:perplexity\"]",
+    "matched_claim_ids": "[]",
+    "gap": 1
+  },
+  {
+    "id": 17,
+    "ts_first": "2026-09-15T01:36:40Z",
+    "ts_last": "2026-09-15T01:36:40Z",
+    "text_norm": "when did an ai platform last refresh its cached copy of a page",
+    "count": 1,
+    "sources": "[\"prompt_batch\", \"engine:perplexity\"]",
+    "matched_claim_ids": "[]",
+    "gap": 1
+  },
+  {
+    "id": 18,
+    "ts_first": "2026-09-15T01:36:40Z",
+    "ts_last": "2026-09-15T01:36:40Z",
+    "text_norm": "which exact pag of a site are currently in an ai engine s retrieval index",
+    "count": 1,
+    "sources": "[\"prompt_batch\", \"engine:perplexity\"]",
+    "matched_claim_ids": "[]",
+    "gap": 1
+  },
+  {
+    "id": 19,
+    "ts_first": "2026-09-15T01:36:40Z",
+    "ts_last": "2026-09-15T01:36:40Z",
+    "text_norm": "was a page excluded from an ai answer because of robot txt a cdn or waf challenge a rendering failure duplicate content handling a quality assessment or lack of query relevance",
+    "count": 1,
+    "sources": "[\"prompt_batch\", \"engine:perplexity\"]",
+    "matched_claim_ids": "[]",
+    "gap": 1
+  },
+  {
+    "id": 20,
+    "ts_first": "2026-09-15T01:36:40Z",
+    "ts_last": "2026-09-15T01:36:40Z",
+    "text_norm": "is a user agent string seen in a server log authentic spoofed or a third party proxy",
+    "count": 1,
+    "sources": "[\"prompt_batch\", \"engine:perplexity\"]",
+    "matched_claim_ids": "[]",
+    "gap": 1
+  },
+  {
+    "id": 21,
+    "ts_first": "2026-09-15T01:36:40Z",
+    "ts_last": "2026-09-15T02:19:35Z",
+    "text_norm": "will a compliant named ai crawler alway avoid urls disallowed in robot txt",
+    "count": 2,
+    "sources": "[\"prompt_batch\", \"engine:perplexity\", \"engine:claude\"]",
+    "matched_claim_ids": "[]",
+    "gap": 1
+  },
+  {
+    "id": 22,
+    "ts_first": "2026-09-15T01:36:40Z",
+    "ts_last": "2026-09-15T01:36:40Z",
+    "text_norm": "does robot txt provide any legal protection against content being copied or used for training",
+    "count": 1,
+    "sources": "[\"prompt_batch\", \"engine:perplexity\"]",
+    "matched_claim_ids": "[]",
+    "gap": 1
+  },
+  {
+    "id": 23,
+    "ts_first": "2026-09-15T01:36:40Z",
+    "ts_last": "2026-09-15T01:36:40Z",
+    "text_norm": "does blocking a training oriented crawler prevent all future model exposure to that content",
+    "count": 1,
+    "sources": "[\"prompt_batch\", \"engine:perplexity\"]",
+    "matched_claim_ids": "[]",
+    "gap": 1
+  },
+  {
+    "id": 24,
+    "ts_first": "2026-09-15T01:36:40Z",
+    "ts_last": "2026-09-15T01:36:40Z",
+    "text_norm": "does blocking an ai crawler in robot txt prevent a page from being cited by that engine",
+    "count": 2,
+    "sources": "[\"prompt_batch\", \"engine:perplexity\", \"engine:chatgpt\"]",
+    "matched_claim_ids": "[]",
+    "gap": 1
+  },
+  {
+    "id": 25,
+    "ts_first": "2026-09-15T01:36:40Z",
+    "ts_last": "2026-09-15T01:36:40Z",
+    "text_norm": "what does an optimal ai focused robot txt file look like for a busines that want citation but not training use",
+    "count": 2,
+    "sources": "[\"prompt_batch\", \"engine:perplexity\", \"engine:chatgpt\"]",
+    "matched_claim_ids": "[]",
+    "gap": 1
+  },
+  {
+    "id": 26,
+    "ts_first": "2026-09-15T01:36:40Z",
+    "ts_last": "2026-09-15T02:19:35Z",
+    "text_norm": "can robot txt cleanly separate allow this page for search or citation from block it for training and does that distinction hold acros every major ai platform",
+    "count": 4,
+    "sources": "[\"prompt_batch\", \"engine:perplexity\", \"engine:chatgpt\", \"engine:claude\", \"engine:gemini\"]",
+    "matched_claim_ids": "[]",
+    "gap": 1
+  },
+  {
+    "id": 27,
+    "ts_first": "2026-09-15T01:36:40Z",
+    "ts_last": "2026-09-15T01:36:40Z",
+    "text_norm": "which exact topic will generate ai search traffic for a given niche in the near future",
+    "count": 1,
+    "sources": "[\"prompt_batch\", \"engine:perplexity\"]",
+    "matched_claim_ids": "[]",
+    "gap": 1
+  },
+  {
+    "id": 28,
+    "ts_first": "2026-09-15T01:36:40Z",
+    "ts_last": "2026-09-15T01:36:40Z",
+    "text_norm": "how many cited fact expert quot faqs tabl or product spec does a page need to be cited by an ai engine",
+    "count": 1,
+    "sources": "[\"prompt_batch\", \"engine:perplexity\"]",
+    "matched_claim_ids": "[]",
+    "gap": 1
+  },
+  {
+    "id": 29,
+    "ts_first": "2026-09-15T01:36:40Z",
+    "ts_last": "2026-09-15T01:36:40Z",
+    "text_norm": "does a shorter or longer page for example 40 150 or 2 000 word maximize the likelihood of being cited",
+    "count": 1,
+    "sources": "[\"prompt_batch\", \"engine:perplexity\"]",
+    "matched_claim_ids": "[]",
+    "gap": 1
+  },
+  {
+    "id": 30,
+    "ts_first": "2026-09-15T01:36:40Z",
+    "ts_last": "2026-09-15T02:19:35Z",
+    "text_norm": "does publishing an llms txt file actually help a site get cited by chatgpt perplexity gemini or claude",
+    "count": 3,
+    "sources": "[\"prompt_batch\", \"engine:perplexity\", \"engine:claude\", \"engine:gemini\"]",
+    "matched_claim_ids": "[]",
+    "gap": 1
+  },
+  {
+    "id": 31,
+    "ts_first": "2026-09-15T01:36:40Z",
+    "ts_last": "2026-09-15T01:36:40Z",
+    "text_norm": "should content be written specifically for ai system and would that reduce conventional search performance",
+    "count": 1,
+    "sources": "[\"prompt_batch\", \"engine:perplexity\"]",
+    "matched_claim_ids": "[]",
+    "gap": 1
+  },
+  {
+    "id": 32,
+    "ts_first": "2026-09-15T01:36:40Z",
+    "ts_last": "2026-09-15T01:36:40Z",
+    "text_norm": "does first party original research outrank an authoritative secondary source for citation and does that differ by engine",
+    "count": 1,
+    "sources": "[\"prompt_batch\", \"engine:perplexity\"]",
+    "matched_claim_ids": "[]",
+    "gap": 1
+  },
+  {
+    "id": 33,
+    "ts_first": "2026-09-15T01:36:40Z",
+    "ts_last": "2026-09-15T02:19:35Z",
+    "text_norm": "how can a local service busines get cited by an ai engine instead of a directory review platform or national publisher",
+    "count": 2,
+    "sources": "[\"prompt_batch\", \"engine:perplexity\", \"engine:claude\"]",
+    "matched_claim_ids": "[]",
+    "gap": 1
+  },
+  {
+    "id": 34,
+    "ts_first": "2026-09-15T01:36:40Z",
+    "ts_last": "2026-09-15T02:19:35Z",
+    "text_norm": "how can ai citation performance be measured accurately given there is no equivalent of a search console report for citation",
+    "count": 4,
+    "sources": "[\"prompt_batch\", \"engine:perplexity\", \"engine:chatgpt\", \"engine:claude\", \"engine:gemini\"]",
+    "matched_claim_ids": "[]",
+    "gap": 1
+  },
+  {
+    "id": 35,
+    "ts_first": "2026-09-15T01:36:40Z",
+    "ts_last": "2026-09-15T01:36:40Z",
+    "text_norm": "is a given url currently present in an ai platform s retrieval index or corpu",
+    "count": 1,
+    "sources": "[\"prompt_batch\", \"engine:perplexity\"]",
+    "matched_claim_ids": "[]",
+    "gap": 1
+  },
+  {
+    "id": 36,
+    "ts_first": "2026-09-15T01:36:40Z",
+    "ts_last": "2026-09-15T01:36:40Z",
+    "text_norm": "for which prompt was a given page a retrieval candidate",
+    "count": 1,
+    "sources": "[\"prompt_batch\", \"engine:perplexity\"]",
+    "matched_claim_ids": "[]",
+    "gap": 1
+  },
+  {
+    "id": 37,
+    "ts_first": "2026-09-15T01:36:40Z",
+    "ts_last": "2026-09-15T02:19:35Z",
+    "text_norm": "did an ai generated answer rely materially on a page s content even though that page was not cited",
+    "count": 2,
+    "sources": "[\"prompt_batch\", \"engine:perplexity\", \"engine:gemini\"]",
+    "matched_claim_ids": "[]",
+    "gap": 1
+  },
+  {
+    "id": 38,
+    "ts_first": "2026-09-15T01:36:40Z",
+    "ts_last": "2026-09-15T02:19:35Z",
+    "text_norm": "was a specific document used in a model s training fine tuning or evaluation",
+    "count": 3,
+    "sources": "[\"prompt_batch\", \"engine:perplexity\", \"engine:claude\", \"engine:gemini\"]",
+    "matched_claim_ids": "[]",
+    "gap": 1
+  },
+  {
+    "id": 39,
+    "ts_first": "2026-09-15T01:36:40Z",
+    "ts_last": "2026-09-15T01:36:40Z",
+    "text_norm": "how much does allowing an ai crawler actually increase the probability of a page being cited",
+    "count": 1,
+    "sources": "[\"prompt_batch\", \"engine:chatgpt\"]",
+    "matched_claim_ids": "[]",
+    "gap": 1
+  },
+  {
+    "id": 40,
+    "ts_first": "2026-09-15T01:36:40Z",
+    "ts_last": "2026-09-15T01:36:40Z",
+    "text_norm": "which crawler or pathway actually caused a specific citation direct crawl an existing search index a link from another page a user triggered fetch or a third party data provider",
+    "count": 1,
+    "sources": "[\"prompt_batch\", \"engine:chatgpt\"]",
+    "matched_claim_ids": "[]",
+    "gap": 1
+  },
+  {
+    "id": 41,
+    "ts_first": "2026-09-15T01:36:40Z",
+    "ts_last": "2026-09-15T01:36:40Z",
+    "text_norm": "does improving direct ai crawler acces increase ai search visibility independently of conventional google or bing ranking",
+    "count": 1,
+    "sources": "[\"prompt_batch\", \"engine:chatgpt\"]",
+    "matched_claim_ids": "[]",
+    "gap": 1
+  },
+  {
+    "id": 42,
+    "ts_first": "2026-09-15T01:36:40Z",
+    "ts_last": "2026-09-15T02:19:35Z",
+    "text_norm": "what mak an ai system select one page over dozen of other that contain substantially the same answer",
+    "count": 2,
+    "sources": "[\"prompt_batch\", \"engine:chatgpt\", \"engine:claude\"]",
+    "matched_claim_ids": "[]",
+    "gap": 1
+  },
+  {
+    "id": 43,
+    "ts_first": "2026-09-15T01:36:40Z",
+    "ts_last": "2026-09-15T01:36:40Z",
+    "text_norm": "does the exact wording or phrasing of a fact affect whether an ai system select that passage for citation",
+    "count": 1,
+    "sources": "[\"prompt_batch\", \"engine:chatgpt\"]",
+    "matched_claim_ids": "[]",
+    "gap": 1
+  },
+  {
+    "id": 44,
+    "ts_first": "2026-09-15T01:36:40Z",
+    "ts_last": "2026-09-15T01:36:40Z",
+    "text_norm": "do controlled experiment show how much structured data such as schema entity markup or author credential increas ai retrieval or citation rat",
+    "count": 1,
+    "sources": "[\"prompt_batch\", \"engine:chatgpt\"]",
+    "matched_claim_ids": "[]",
+    "gap": 1
+  },
+  {
+    "id": 45,
+    "ts_first": "2026-09-15T01:36:40Z",
+    "ts_last": "2026-09-15T01:36:40Z",
+    "text_norm": "is there a standard agreed metric for ai search visibility given that answer change by session model version location and personalization",
+    "count": 1,
+    "sources": "[\"prompt_batch\", \"engine:chatgpt\"]",
+    "matched_claim_ids": "[]",
+    "gap": 1
+  },
+  {
+    "id": 46,
+    "ts_first": "2026-09-15T01:36:40Z",
+    "ts_last": "2026-09-15T01:36:40Z",
+    "text_norm": "do generative engine optimization techniqu have a proven causal effect on citation beyond correlational case studi",
+    "count": 1,
+    "sources": "[\"prompt_batch\", \"engine:chatgpt\"]",
+    "matched_claim_ids": "[]",
+    "gap": 1
+  },
+  {
+    "id": 47,
+    "ts_first": "2026-09-15T02:18:46Z",
+    "ts_last": "2026-09-15T02:18:46Z",
+    "text_norm": "is there a current dated changelog of ai crawler user agent nam given vendor rename split and add agent without announcement and third party list go stale silently",
+    "count": 1,
+    "sources": "[\"prompt_batch\", \"engine:claude\"]",
+    "matched_claim_ids": "[]",
+    "gap": 1
+  },
+  {
+    "id": 48,
+    "ts_first": "2026-09-15T02:18:46Z",
+    "ts_last": "2026-09-15T02:18:46Z",
+    "text_norm": "after unblocking a previously disallowed ai crawler how long does it take before pag start appearing in that engine s answer",
+    "count": 1,
+    "sources": "[\"prompt_batch\", \"engine:claude\"]",
+    "matched_claim_ids": "[]",
+    "gap": 1
+  },
+  {
+    "id": 49,
+    "ts_first": "2026-09-15T02:18:46Z",
+    "ts_last": "2026-09-15T02:18:46Z",
+    "text_norm": "which underlying search index feed which ai assistant and how does that mapping change over time",
+    "count": 1,
+    "sources": "[\"prompt_batch\", \"engine:claude\"]",
+    "matched_claim_ids": "[]",
+    "gap": 1
+  },
+  {
+    "id": 50,
+    "ts_first": "2026-09-15T02:18:46Z",
+    "ts_last": "2026-09-15T02:18:46Z",
+    "text_norm": "do ai crawler actually render javascript when fetching a page with current per crawler data",
+    "count": 1,
+    "sources": "[\"prompt_batch\", \"engine:claude\"]",
+    "matched_claim_ids": "[]",
+    "gap": 1
+  }
+]
