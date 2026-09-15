@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Rattlesnakes By Mail"
+authors:
+  - name: "Peter Benes"
+  - name: "Benes the Menace"
+url: "https://rattlesnakesbymail.com"
+repository-code: "https://github.com/crank-box/rattlesnakesbymail-data"
+license: CC-BY-4.0

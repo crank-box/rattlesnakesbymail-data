@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "date": "2026-09-13",
+    "entity_id": 1,
+    "requests": 1,
+    "paths": "[\"/crawlers/gptbot\"]",
+    "formats": "[\"html\"]",
+    "verified_share": 0
+  },
+  {
+    "id": 2,
+    "date": "2026-09-13",
+    "entity_id": 2,
+    "requests": 1,
+    "paths": "[\"/robots.txt\"]",
+    "formats": "[\"txt\"]",
+    "verified_share": 1
+  },
+  {
+    "id": 3,
+    "date": "2026-09-13",
+    "entity_id": 5,
+    "requests": 1,
+    "paths": "[\"/crawlers/claudebot\"]",
+    "formats": "[\"html\"]",
+    "verified_share": 0
+  }
+]

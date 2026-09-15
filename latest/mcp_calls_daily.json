@@ -1,0 +1,86 @@
+[
+  {
+    "date": "2026-09-14",
+    "tool": "ask",
+    "client_name": "mcp-smoke",
+    "calls": 3,
+    "avg_latency_ms": 153
+  },
+  {
+    "date": "2026-09-14",
+    "tool": "ask",
+    "client_name": "smoke-test",
+    "calls": 1,
+    "avg_latency_ms": 75
+  },
+  {
+    "date": "2026-09-14",
+    "tool": "identify_user_agent",
+    "client_name": "mcp-smoke",
+    "calls": 6,
+    "avg_latency_ms": 104
+  },
+  {
+    "date": "2026-09-14",
+    "tool": "identify_user_agent",
+    "client_name": "smoke-test",
+    "calls": 2,
+    "avg_latency_ms": 126
+  },
+  {
+    "date": "2026-09-14",
+    "tool": "identify_user_agent",
+    "client_name": "unknown",
+    "calls": 1,
+    "avg_latency_ms": 115
+  },
+  {
+    "date": "2026-09-14",
+    "tool": "list_changes",
+    "client_name": "mcp-smoke",
+    "calls": 6,
+    "avg_latency_ms": 122
+  },
+  {
+    "date": "2026-09-14",
+    "tool": "list_changes",
+    "client_name": "smoke-test",
+    "calls": 2,
+    "avg_latency_ms": 150
+  },
+  {
+    "date": "2026-09-14",
+    "tool": "lookup_crawler",
+    "client_name": "mcp-client-check.py",
+    "calls": 2,
+    "avg_latency_ms": 61
+  },
+  {
+    "date": "2026-09-14",
+    "tool": "lookup_crawler",
+    "client_name": "mcp-smoke",
+    "calls": 9,
+    "avg_latency_ms": 149
+  },
+  {
+    "date": "2026-09-14",
+    "tool": "lookup_crawler",
+    "client_name": "smoke-test",
+    "calls": 3,
+    "avg_latency_ms": 253
+  },
+  {
+    "date": "2026-09-14",
+    "tool": "submit_note",
+    "client_name": "mcp-smoke",
+    "calls": 6,
+    "avg_latency_ms": 431
+  },
+  {
+    "date": "2026-09-14",
+    "tool": "submit_note",
+    "client_name": "smoke-test",
+    "calls": 2,
+    "avg_latency_ms": 218
+  }
+]

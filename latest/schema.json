@@ -1,0 +1,310 @@
+{
+  "schema_version": "1",
+  "generated_at": "2026-09-15T01:12:33.123Z",
+  "tables": {
+    "entities": {
+      "columns": [
+        {
+          "name": "id",
+          "description": "Numeric identifier for the entity, stable across the record's lifetime."
+        },
+        {
+          "name": "slug",
+          "description": "URL-safe identifier used in /crawlers/<slug> and /observed/<slug>."
+        },
+        {
+          "name": "vendor",
+          "description": "The company or organization that operates or documents the entity."
+        },
+        {
+          "name": "name",
+          "description": "Display name of the entity."
+        },
+        {
+          "name": "kind",
+          "description": "One of crawler, fetcher, search_bot, ads_bot, engine, policy_token."
+        },
+        {
+          "name": "purpose",
+          "description": "One of training, search, user_fetch, ads, mixed, or empty when undocumented."
+        },
+        {
+          "name": "ua_token",
+          "description": "The token expected in the entity's User-Agent header, when documented."
+        },
+        {
+          "name": "ua_pattern",
+          "description": "The regular expression the instrument uses to match this entity's User-Agent header."
+        },
+        {
+          "name": "robots_token",
+          "description": "The token the entity's operator documents for robots.txt directives."
+        },
+        {
+          "name": "ip_list_url",
+          "description": "URL of the vendor's published IP range list, when one exists."
+        },
+        {
+          "name": "docs_url",
+          "description": "URL of the vendor's primary documentation for this entity."
+        },
+        {
+          "name": "first_documented",
+          "description": "ISO date the entity was first documented by its vendor, when known."
+        },
+        {
+          "name": "first_seen_here",
+          "description": "ISO date this site first logged a request from this entity."
+        },
+        {
+          "name": "last_seen_here",
+          "description": "ISO date this site last logged a request from this entity."
+        },
+        {
+          "name": "status",
+          "description": "One of active, retired, unverified."
+        },
+        {
+          "name": "notes",
+          "description": "Free-text identity notes about the entity. Policy facts live in claims, not here."
+        },
+        {
+          "name": "created_at",
+          "description": "ISO timestamp the row was created."
+        },
+        {
+          "name": "updated_at",
+          "description": "ISO timestamp the row was last updated."
+        }
+      ]
+    },
+    "claims": {
+      "columns": [
+        {
+          "name": "id",
+          "description": "Numeric identifier for the claim, used in the claim URL pattern."
+        },
+        {
+          "name": "entity_id",
+          "description": "The entities.id this claim is about."
+        },
+        {
+          "name": "slug",
+          "description": "Optional URL-safe identifier for the claim."
+        },
+        {
+          "name": "field",
+          "description": "The fact this claim states, for example respects_robots_txt."
+        },
+        {
+          "name": "value",
+          "description": "The short typed value of the claim, for example yes, no, or a token."
+        },
+        {
+          "name": "statement",
+          "description": "One canonical English sentence stating the fact."
+        },
+        {
+          "name": "evidence_url",
+          "description": "Source URL the claim was verified against."
+        },
+        {
+          "name": "evidence_quote",
+          "description": "A verbatim quote of 300 characters or fewer from the evidence URL."
+        },
+        {
+          "name": "method",
+          "description": "One of vendor_doc, observed_here, third_party, test_here."
+        },
+        {
+          "name": "verified_at",
+          "description": "ISO date this site checked the evidence URL."
+        },
+        {
+          "name": "confidence",
+          "description": "One of high, medium, low."
+        },
+        {
+          "name": "status",
+          "description": "One of current, superseded, disputed."
+        },
+        {
+          "name": "supersedes_id",
+          "description": "The claims.id this claim replaces, when it supersedes an earlier claim."
+        },
+        {
+          "name": "evidence_date",
+          "description": "ISO date the evidence source itself carries, when the source shows one."
+        },
+        {
+          "name": "created_at",
+          "description": "ISO timestamp the row was created."
+        },
+        {
+          "name": "updated_at",
+          "description": "ISO timestamp the row was last updated."
+        }
+      ]
+    },
+    "changes": {
+      "columns": [
+        {
+          "name": "id",
+          "description": "Numeric identifier for the change row."
+        },
+        {
+          "name": "claim_id",
+          "description": "The claims.id this change is about, when the change is about one claim."
+        },
+        {
+          "name": "entity_id",
+          "description": "The entities.id this change is about."
+        },
+        {
+          "name": "changed_at",
+          "description": "ISO date the change was recorded."
+        },
+        {
+          "name": "kind",
+          "description": "One of new, updated, superseded, retired, disputed."
+        },
+        {
+          "name": "old_value",
+          "description": "The claim value before the change, when applicable."
+        },
+        {
+          "name": "new_value",
+          "description": "The claim value after the change, when applicable."
+        },
+        {
+          "name": "evidence_url",
+          "description": "Source URL supporting the change, when one was recorded."
+        },
+        {
+          "name": "note",
+          "description": "A free-text note about the change, written by a reviewer."
+        }
+      ]
+    },
+    "observation_daily": {
+      "columns": [
+        {
+          "name": "id",
+          "description": "Numeric identifier for the daily rollup row."
+        },
+        {
+          "name": "date",
+          "description": "ISO date the requests were counted on."
+        },
+        {
+          "name": "entity_id",
+          "description": "The entities.id these requests are attributed to."
+        },
+        {
+          "name": "requests",
+          "description": "Count of requests from this entity on this date."
+        },
+        {
+          "name": "paths",
+          "description": "A JSON array of distinct paths requested, capped at 100 per day."
+        },
+        {
+          "name": "formats",
+          "description": "A JSON array of distinct response formats served (html, md, json, txt, xml, csv)."
+        },
+        {
+          "name": "verified_share",
+          "description": "The share of requests whose identity was verified against a published IP range or Cloudflare's verified-bot signal, from 0 to 1."
+        }
+      ]
+    },
+    "questions": {
+      "columns": [
+        {
+          "name": "id",
+          "description": "Numeric identifier for the question."
+        },
+        {
+          "name": "ts_first",
+          "description": "ISO timestamp the question was first asked."
+        },
+        {
+          "name": "ts_last",
+          "description": "ISO timestamp the question was most recently asked."
+        },
+        {
+          "name": "text_norm",
+          "description": "The normalised text of the question: lowercase, punctuation stripped, lightly stemmed."
+        },
+        {
+          "name": "count",
+          "description": "How many times this normalised question has been asked."
+        },
+        {
+          "name": "sources",
+          "description": "A JSON array of sources the question arrived from, for example search, mcp, seeded, prompt_batch, note."
+        },
+        {
+          "name": "matched_claim_ids",
+          "description": "A JSON array of claims.id values this question matched, when any did."
+        },
+        {
+          "name": "gap",
+          "description": "1 when no published claim matched the question, 0 otherwise."
+        }
+      ]
+    },
+    "notes": {
+      "columns": [
+        {
+          "name": "id",
+          "description": "Numeric identifier for the note."
+        },
+        {
+          "name": "ts",
+          "description": "ISO timestamp the note was submitted."
+        },
+        {
+          "name": "target_type",
+          "description": "One of claim, entity, question."
+        },
+        {
+          "name": "target_id",
+          "description": "The id of the claim, entity, or question this note is about."
+        },
+        {
+          "name": "body",
+          "description": "The text of the note, as submitted."
+        },
+        {
+          "name": "author_claim",
+          "description": "Free text the submitter gave for who or what they are, for example a model, agent, or human."
+        }
+      ]
+    },
+    "mcp_calls_daily": {
+      "columns": [
+        {
+          "name": "date",
+          "description": "ISO date the calls were made on."
+        },
+        {
+          "name": "tool",
+          "description": "The MCP tool name called, for example lookup_crawler."
+        },
+        {
+          "name": "client_name",
+          "description": "The MCP client name reported at initialize, or unknown."
+        },
+        {
+          "name": "calls",
+          "description": "Count of calls to this tool by this client on this date."
+        },
+        {
+          "name": "avg_latency_ms",
+          "description": "Mean latency in milliseconds across these calls, rounded to the nearest integer."
+        }
+      ]
+    }
+  }
+}

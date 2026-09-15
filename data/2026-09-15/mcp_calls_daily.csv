@@ -1,0 +1,13 @@
+date,tool,client_name,calls,avg_latency_ms
+2026-09-14,ask,mcp-smoke,3,153
+2026-09-14,ask,smoke-test,1,75
+2026-09-14,identify_user_agent,mcp-smoke,6,104
+2026-09-14,identify_user_agent,smoke-test,2,126
+2026-09-14,identify_user_agent,unknown,1,115
+2026-09-14,list_changes,mcp-smoke,6,122
+2026-09-14,list_changes,smoke-test,2,150
+2026-09-14,lookup_crawler,mcp-client-check.py,2,61
+2026-09-14,lookup_crawler,mcp-smoke,9,149
+2026-09-14,lookup_crawler,smoke-test,3,253
+2026-09-14,submit_note,mcp-smoke,6,431
+2026-09-14,submit_note,smoke-test,2,218
