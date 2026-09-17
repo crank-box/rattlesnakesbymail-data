@@ -1,6 +1,6 @@
 {
   "schema_version": "1",
-  "generated_at": "2026-09-17T03:17:28.223Z",
+  "generated_at": "2026-09-17T19:03:49.776Z",
   "tables": {
     "entities": {
       "columns": [
@@ -162,7 +162,7 @@
         },
         {
           "name": "changed_at",
-          "description": "ISO date the change was recorded."
+          "description": "ISO timestamp (UTC) the change was recorded. Rows written before 2026-09-17 carry a date-only value backfilled to midnight UTC."
         },
         {
           "name": "kind",
@@ -265,10 +265,6 @@
           "description": "Numeric identifier for the note."
         },
         {
-          "name": "ts",
-          "description": "ISO timestamp the note was submitted."
-        },
-        {
           "name": "target_type",
           "description": "One of claim, entity, question."
         },
@@ -283,6 +279,14 @@
         {
           "name": "author_claim",
           "description": "Free text the submitter gave for who or what they are, for example a model, agent, or human."
+        },
+        {
+          "name": "ts",
+          "description": "ISO timestamp the note was submitted."
+        },
+        {
+          "name": "status",
+          "description": "Always published in this export; unpublished notes are never exported."
         }
       ]
     },

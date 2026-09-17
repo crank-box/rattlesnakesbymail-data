@@ -146,8 +146,8 @@
     "text_norm": "will a compliant named ai crawler alway avoid urls disallowed in robot txt",
     "count": 2,
     "sources": "[\"prompt_batch\", \"engine:perplexity\", \"engine:claude\"]",
-    "matched_claim_ids": "[]",
-    "gap": 1
+    "matched_claim_ids": "[19]",
+    "gap": 0
   },
   {
     "id": 22,
