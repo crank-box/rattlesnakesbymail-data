@@ -7,3 +7,8 @@ date,tool,client_name,calls,avg_latency_ms
 2026-09-14,submit_note,smoke-test,8,378
 2026-09-15,ask,unknown,4,187
 2026-09-15,list_changes,unknown,3,171
+2026-09-17,ask,smoke-test,1,82
+2026-09-17,identify_user_agent,smoke-test,2,197
+2026-09-17,list_changes,smoke-test,2,180
+2026-09-17,lookup_crawler,smoke-test,1,227
+2026-09-17,submit_note,smoke-test,5,159

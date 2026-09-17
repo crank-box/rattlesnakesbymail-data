@@ -54,5 +54,40 @@
     "client_name": "unknown",
     "calls": 3,
     "avg_latency_ms": 171
+  },
+  {
+    "date": "2026-09-17",
+    "tool": "ask",
+    "client_name": "smoke-test",
+    "calls": 1,
+    "avg_latency_ms": 82
+  },
+  {
+    "date": "2026-09-17",
+    "tool": "identify_user_agent",
+    "client_name": "smoke-test",
+    "calls": 2,
+    "avg_latency_ms": 197
+  },
+  {
+    "date": "2026-09-17",
+    "tool": "list_changes",
+    "client_name": "smoke-test",
+    "calls": 2,
+    "avg_latency_ms": 180
+  },
+  {
+    "date": "2026-09-17",
+    "tool": "lookup_crawler",
+    "client_name": "smoke-test",
+    "calls": 1,
+    "avg_latency_ms": 227
+  },
+  {
+    "date": "2026-09-17",
+    "tool": "submit_note",
+    "client_name": "smoke-test",
+    "calls": 5,
+    "avg_latency_ms": 159
   }
 ]
