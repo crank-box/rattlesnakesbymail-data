@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2026-09-14",
+    "tool": "ask",
+    "client_name": "smoke-test",
+    "calls": 4,
+    "avg_latency_ms": 134
+  },
+  {
+    "date": "2026-09-14",
+    "tool": "identify_user_agent",
+    "client_name": "smoke-test",
+    "calls": 8,
+    "avg_latency_ms": 109
+  },
+  {
+    "date": "2026-09-14",
+    "tool": "identify_user_agent",
+    "client_name": "unknown",
+    "calls": 1,
+    "avg_latency_ms": 115
+  },
+  {
+    "date": "2026-09-14",
+    "tool": "list_changes",
+    "client_name": "smoke-test",
+    "calls": 8,
+    "avg_latency_ms": 129
+  },
+  {
+    "date": "2026-09-14",
+    "tool": "lookup_crawler",
+    "client_name": "smoke-test",
+    "calls": 14,
+    "avg_latency_ms": 159
+  },
+  {
+    "date": "2026-09-14",
+    "tool": "submit_note",
+    "client_name": "smoke-test",
+    "calls": 8,
+    "avg_latency_ms": 378
+  },
+  {
+    "date": "2026-09-15",
+    "tool": "ask",
+    "client_name": "unknown",
+    "calls": 4,
+    "avg_latency_ms": 187
+  },
+  {
+    "date": "2026-09-15",
+    "tool": "list_changes",
+    "client_name": "unknown",
+    "calls": 3,
+    "avg_latency_ms": 171
+  }
+]

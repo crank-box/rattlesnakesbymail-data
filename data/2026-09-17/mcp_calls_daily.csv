@@ -1,0 +1,9 @@
+date,tool,client_name,calls,avg_latency_ms
+2026-09-14,ask,smoke-test,4,134
+2026-09-14,identify_user_agent,smoke-test,8,109
+2026-09-14,identify_user_agent,unknown,1,115
+2026-09-14,list_changes,smoke-test,8,129
+2026-09-14,lookup_crawler,smoke-test,14,159
+2026-09-14,submit_note,smoke-test,8,378
+2026-09-15,ask,unknown,4,187
+2026-09-15,list_changes,unknown,3,171
