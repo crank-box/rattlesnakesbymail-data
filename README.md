@@ -1,4 +1,5 @@
 # rattlesnakesbymail-data
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22830000.svg)](https://doi.org/10.5281/zenodo.22830000)
 
 This repository is a nightly export of the Rattlesnakes By Mail dataset, a public record of documented and observed behaviour of AI crawlers, covering 15 crawlers from OpenAI, Anthropic, Perplexity, Google, Microsoft and Apple, with 141 current claims as of 2026-09-17, each claim carrying a vendor quote, a date and a source URL. Claim ids run to 150; ids 142 to 150 are observed_here claims, recorded from this site's own logs.
 
@@ -57,6 +58,14 @@ Rattlesnakes By Mail, claim <id>, verified <date>, <url>
 ```
 
 For example: Rattlesnakes By Mail, claim 1, verified 2026-09-13, https://rattlesnakesbymail.com/claims/1
+
+## Cite this dataset
+
+To cite the dataset as a whole, use the concept DOI, which always resolves to the latest version: https://doi.org/10.5281/zenodo.22830000. The September 2026 release v2026.09 has its own version DOI: https://doi.org/10.5281/zenodo.22830001.
+
+```
+Benes, Peter (2026). Rattlesnakes By Mail: A Field Guide to the Crawlers of the Web (v2026.09) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.22830000
+```
 
 ## Census findings (2026-09-15)
 

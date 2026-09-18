@@ -7,7 +7,15 @@ authors:
     affiliation: "benesthemenace.com"
 url: "https://rattlesnakesbymail.com"
 repository-code: "https://github.com/crank-box/rattlesnakesbymail-data"
+doi: 10.5281/zenodo.22830000
 license: CC-BY-4.0
 date-released: "2026-09-18"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.22830001
+    description: "Version DOI for v2026.09"
+  - type: url
+    value: "https://zenodo.org/records/22830001"
+    description: "Zenodo record for v2026.09"
 version: "v2026.09"
 type: dataset
