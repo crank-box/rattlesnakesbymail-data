@@ -1,0 +1,34 @@
+{
+  "upload_type": "dataset",
+  "title": "Rattlesnakes By Mail: A Field Guide to the Crawlers of the Web",
+  "description": "<p>Rattlesnakes By Mail is a public record of documented and observed behaviour of AI crawlers, covering entities from OpenAI, Anthropic, Perplexity, Google, Microsoft and Apple. Each claim carries a vendor quote, a date and a source URL. This dataset is a nightly export of the site's public tables: entities, claims, changes, observation_daily, questions, notes and mcp_calls_daily, exported as JSON and CSV.</p>",
+  "creators": [
+    {
+      "name": "Benes, Peter",
+      "affiliation": "benesthemenace.com"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "AI crawlers",
+    "user agents",
+    "robots.txt",
+    "web crawling",
+    "large language models",
+    "search engines",
+    "dataset"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://rattlesnakesbymail.com",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://rattlesnakesbymail.com/method",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    }
+  ],
+  "version": "v2026.09"
+}

@@ -1,9 +1,13 @@
 cff-version: 1.2.0
 message: "If you use this dataset, please cite it as below."
-title: "Rattlesnakes By Mail"
+title: "Rattlesnakes By Mail: A Field Guide to the Crawlers of the Web"
 authors:
-  - name: "Peter Benes"
-  - name: "Benes the Menace"
+  - family-names: Benes
+    given-names: Peter
+    affiliation: "benesthemenace.com"
 url: "https://rattlesnakesbymail.com"
 repository-code: "https://github.com/crank-box/rattlesnakesbymail-data"
 license: CC-BY-4.0
+date-released: "2026-09-18"
+version: "v2026.09"
+type: dataset
