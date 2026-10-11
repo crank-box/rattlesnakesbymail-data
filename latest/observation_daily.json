@@ -1558,5 +1558,65 @@
     "formats": "[\"html\",\"xml\"]",
     "verified_share": 1,
     "verified_requests": 9
+  },
+  {
+    "id": 163,
+    "date": "2026-10-10",
+    "entity_id": 1,
+    "requests": 3,
+    "paths": "[\"/sitemap.xml\",\"/sitemap-index.xml\",\"/sitemap-machine.xml\"]",
+    "formats": "[\"xml\"]",
+    "verified_share": 1,
+    "verified_requests": 3
+  },
+  {
+    "id": 164,
+    "date": "2026-10-10",
+    "entity_id": 2,
+    "requests": 8,
+    "paths": "[\"/robots.txt\",\"/questions\",\"/fields\",\"/compare\"]",
+    "formats": "[\"txt\",\"html\"]",
+    "verified_share": 1,
+    "verified_requests": 8
+  },
+  {
+    "id": 165,
+    "date": "2026-10-10",
+    "entity_id": 3,
+    "requests": 1,
+    "paths": "[\"/changes\"]",
+    "formats": "[\"html\"]",
+    "verified_share": 1,
+    "verified_requests": 1
+  },
+  {
+    "id": 166,
+    "date": "2026-10-10",
+    "entity_id": 5,
+    "requests": 55,
+    "paths": "[\"/robots.txt\",\"/sitemap-machine.xml\",\"/sitemap-index.xml\",\"/sitemap.xml\",\"/claims/132\",\"/crawlers/chatgpt-user\",\"/crawlers/claudebot\"]",
+    "formats": "[\"txt\",\"xml\",\"html\"]",
+    "verified_share": 1,
+    "verified_requests": 55
+  },
+  {
+    "id": 167,
+    "date": "2026-10-10",
+    "entity_id": 10,
+    "requests": 19,
+    "paths": "[\"/robots.txt\",\"/data\",\"/fields/cites_sources\",\"/fields/scope_of_crawling\",\"/fields/anti_circumvention_stance\",\"/fields/robots_token_differs_from_ua\"]",
+    "formats": "[\"txt\",\"html\"]",
+    "verified_share": 1,
+    "verified_requests": 19
+  },
+  {
+    "id": 168,
+    "date": "2026-10-10",
+    "entity_id": 13,
+    "requests": 21,
+    "paths": "[\"/compare/claude-searchbot-vs-oai-searchbot\",\"/compare/bingbot-vs-claudebot\",\"/crawlers/applebot\",\"/fields/robots_txt_fetch_marker\",\"/compare/applebot-vs-googlebot\",\"/data\",\"/claims/102\",\"/\",\"/compare\",\"/changes\",\"/compare/claude-user-vs-oai-adsbot\",\"/robots.txt\",\"/compare/oai-searchbot-vs-perplexity-user\",\"/data/latest\",\"/claims/70\",\"/claims\",\"/claims/53\",\"/compare/applebot-extended-vs-oai-searchbot\",\"/compare/chatgpt-user-vs-claudebot\"]",
+    "formats": "[\"html\",\"txt\"]",
+    "verified_share": 1,
+    "verified_requests": 21
   }
 ]
