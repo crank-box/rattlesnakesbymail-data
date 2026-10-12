@@ -176,4 +176,9 @@ date,tool,client_name,calls,avg_latency_ms
 2026-10-10,lookup_crawler,unknown,13,159
 2026-10-10,submit_note,mcp-contract-check,4,48
 2026-10-10,submit_note,mcp-probe,2,0
+2026-10-11,identify_user_agent,BrickBlueBot,1,40
+2026-10-11,list_changes,BrickBlueBot,1,154
+2026-10-11,list_changes,rokmcp-probe,1,157
+2026-10-11,lookup_crawler,BrickBlueBot,1,132
 2026-10-11,lookup_crawler,katalir-verify,1,187
+2026-10-12,__verifymcp_auth_probe_8cb4acb2d5671ade__,verifymcp-probe,1,0

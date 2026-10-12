@@ -1240,9 +1240,44 @@
   },
   {
     "date": "2026-10-11",
+    "tool": "identify_user_agent",
+    "client_name": "BrickBlueBot",
+    "calls": 1,
+    "avg_latency_ms": 40
+  },
+  {
+    "date": "2026-10-11",
+    "tool": "list_changes",
+    "client_name": "BrickBlueBot",
+    "calls": 1,
+    "avg_latency_ms": 154
+  },
+  {
+    "date": "2026-10-11",
+    "tool": "list_changes",
+    "client_name": "rokmcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 157
+  },
+  {
+    "date": "2026-10-11",
+    "tool": "lookup_crawler",
+    "client_name": "BrickBlueBot",
+    "calls": 1,
+    "avg_latency_ms": 132
+  },
+  {
+    "date": "2026-10-11",
     "tool": "lookup_crawler",
     "client_name": "katalir-verify",
     "calls": 1,
     "avg_latency_ms": 187
+  },
+  {
+    "date": "2026-10-12",
+    "tool": "__verifymcp_auth_probe_8cb4acb2d5671ade__",
+    "client_name": "verifymcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 0
   }
 ]

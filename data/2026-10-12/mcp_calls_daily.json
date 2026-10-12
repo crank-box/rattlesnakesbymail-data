@@ -1,0 +1,1283 @@
+[
+  {
+    "date": "2026-09-14",
+    "tool": "ask",
+    "client_name": "smoke-test",
+    "calls": 4,
+    "avg_latency_ms": 134
+  },
+  {
+    "date": "2026-09-14",
+    "tool": "identify_user_agent",
+    "client_name": "smoke-test",
+    "calls": 8,
+    "avg_latency_ms": 109
+  },
+  {
+    "date": "2026-09-14",
+    "tool": "identify_user_agent",
+    "client_name": "unknown",
+    "calls": 1,
+    "avg_latency_ms": 115
+  },
+  {
+    "date": "2026-09-14",
+    "tool": "list_changes",
+    "client_name": "smoke-test",
+    "calls": 8,
+    "avg_latency_ms": 129
+  },
+  {
+    "date": "2026-09-14",
+    "tool": "lookup_crawler",
+    "client_name": "smoke-test",
+    "calls": 14,
+    "avg_latency_ms": 159
+  },
+  {
+    "date": "2026-09-14",
+    "tool": "submit_note",
+    "client_name": "smoke-test",
+    "calls": 8,
+    "avg_latency_ms": 378
+  },
+  {
+    "date": "2026-09-15",
+    "tool": "ask",
+    "client_name": "unknown",
+    "calls": 4,
+    "avg_latency_ms": 187
+  },
+  {
+    "date": "2026-09-15",
+    "tool": "list_changes",
+    "client_name": "unknown",
+    "calls": 3,
+    "avg_latency_ms": 171
+  },
+  {
+    "date": "2026-09-17",
+    "tool": "ask",
+    "client_name": "smoke-test",
+    "calls": 8,
+    "avg_latency_ms": 81
+  },
+  {
+    "date": "2026-09-17",
+    "tool": "identify_user_agent",
+    "client_name": "smoke-test",
+    "calls": 16,
+    "avg_latency_ms": 165
+  },
+  {
+    "date": "2026-09-17",
+    "tool": "list_changes",
+    "client_name": "smoke-test",
+    "calls": 16,
+    "avg_latency_ms": 167
+  },
+  {
+    "date": "2026-09-17",
+    "tool": "lookup_crawler",
+    "client_name": "smoke-test",
+    "calls": 25,
+    "avg_latency_ms": 468
+  },
+  {
+    "date": "2026-09-17",
+    "tool": "submit_note",
+    "client_name": "smoke-test",
+    "calls": 20,
+    "avg_latency_ms": 255
+  },
+  {
+    "date": "2026-09-18",
+    "tool": "ask",
+    "client_name": "smoke-test",
+    "calls": 3,
+    "avg_latency_ms": 82
+  },
+  {
+    "date": "2026-09-18",
+    "tool": "identify_user_agent",
+    "client_name": "smoke-test",
+    "calls": 6,
+    "avg_latency_ms": 147
+  },
+  {
+    "date": "2026-09-18",
+    "tool": "list_changes",
+    "client_name": "smoke-test",
+    "calls": 6,
+    "avg_latency_ms": 188
+  },
+  {
+    "date": "2026-09-18",
+    "tool": "lookup_crawler",
+    "client_name": "smoke-test",
+    "calls": 9,
+    "avg_latency_ms": 801
+  },
+  {
+    "date": "2026-09-18",
+    "tool": "submit_note",
+    "client_name": "smoke-test",
+    "calls": 6,
+    "avg_latency_ms": 236
+  },
+  {
+    "date": "2026-09-18",
+    "tool": "terminal_execute",
+    "client_name": "unknown",
+    "calls": 5,
+    "avg_latency_ms": 0
+  },
+  {
+    "date": "2026-09-19",
+    "tool": "__verifymcp_auth_probe_3d0d2b52443f4ac0__",
+    "client_name": "verifymcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 0
+  },
+  {
+    "date": "2026-09-19",
+    "tool": "ask",
+    "client_name": "smoke-test",
+    "calls": 2,
+    "avg_latency_ms": 80
+  },
+  {
+    "date": "2026-09-19",
+    "tool": "identify_user_agent",
+    "client_name": "smoke-test",
+    "calls": 4,
+    "avg_latency_ms": 139
+  },
+  {
+    "date": "2026-09-19",
+    "tool": "list_changes",
+    "client_name": "smoke-test",
+    "calls": 4,
+    "avg_latency_ms": 143
+  },
+  {
+    "date": "2026-09-19",
+    "tool": "lookup_crawler",
+    "client_name": "smoke-test",
+    "calls": 6,
+    "avg_latency_ms": 760
+  },
+  {
+    "date": "2026-09-19",
+    "tool": "submit_note",
+    "client_name": "smoke-test",
+    "calls": 4,
+    "avg_latency_ms": 193
+  },
+  {
+    "date": "2026-09-20",
+    "tool": "__verifymcp_auth_probe_36762d94ea581b50__",
+    "client_name": "verifymcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 0
+  },
+  {
+    "date": "2026-09-20",
+    "tool": "list_changes",
+    "client_name": "Smithery Connect",
+    "calls": 1,
+    "avg_latency_ms": 95
+  },
+  {
+    "date": "2026-09-20",
+    "tool": "list_changes",
+    "client_name": "brick.blue",
+    "calls": 1,
+    "avg_latency_ms": 163
+  },
+  {
+    "date": "2026-09-20",
+    "tool": "list_changes",
+    "client_name": "mcphub-probe",
+    "calls": 1,
+    "avg_latency_ms": 159
+  },
+  {
+    "date": "2026-09-20",
+    "tool": "list_changes",
+    "client_name": "rokmcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 224
+  },
+  {
+    "date": "2026-09-20",
+    "tool": "lookup_crawler",
+    "client_name": "sasame-audit",
+    "calls": 2,
+    "avg_latency_ms": 96
+  },
+  {
+    "date": "2026-09-21",
+    "tool": "__verifymcp_auth_probe_f39856cc99b33355__",
+    "client_name": "verifymcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 0
+  },
+  {
+    "date": "2026-09-21",
+    "tool": "ask",
+    "client_name": "Smithery Connect",
+    "calls": 8,
+    "avg_latency_ms": 178
+  },
+  {
+    "date": "2026-09-21",
+    "tool": "list_changes",
+    "client_name": "Smithery Connect",
+    "calls": 10,
+    "avg_latency_ms": 120
+  },
+  {
+    "date": "2026-09-21",
+    "tool": "list_changes",
+    "client_name": "brick.blue",
+    "calls": 1,
+    "avg_latency_ms": 174
+  },
+  {
+    "date": "2026-09-21",
+    "tool": "list_changes",
+    "client_name": "rokmcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 187
+  },
+  {
+    "date": "2026-09-21",
+    "tool": "lookup_crawler",
+    "client_name": "Smithery Connect",
+    "calls": 18,
+    "avg_latency_ms": 768
+  },
+  {
+    "date": "2026-09-21",
+    "tool": "lookup_crawler",
+    "client_name": "sasame-audit",
+    "calls": 2,
+    "avg_latency_ms": 108
+  },
+  {
+    "date": "2026-09-22",
+    "tool": "__verifymcp_auth_probe_ea7f8a5121e37ce7__",
+    "client_name": "verifymcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 0
+  },
+  {
+    "date": "2026-09-22",
+    "tool": "ask",
+    "client_name": "unknown",
+    "calls": 3,
+    "avg_latency_ms": 278
+  },
+  {
+    "date": "2026-09-22",
+    "tool": "list_changes",
+    "client_name": "brick.blue",
+    "calls": 1,
+    "avg_latency_ms": 158
+  },
+  {
+    "date": "2026-09-22",
+    "tool": "list_changes",
+    "client_name": "rokmcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 209
+  },
+  {
+    "date": "2026-09-22",
+    "tool": "list_changes",
+    "client_name": "unknown",
+    "calls": 6,
+    "avg_latency_ms": 148
+  },
+  {
+    "date": "2026-09-22",
+    "tool": "lookup_crawler",
+    "client_name": "sasame-audit",
+    "calls": 2,
+    "avg_latency_ms": 112
+  },
+  {
+    "date": "2026-09-22",
+    "tool": "lookup_crawler",
+    "client_name": "unknown",
+    "calls": 23,
+    "avg_latency_ms": 684
+  },
+  {
+    "date": "2026-09-23",
+    "tool": "__verifymcp_auth_probe_6c89ad7df63c4af2__",
+    "client_name": "verifymcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 0
+  },
+  {
+    "date": "2026-09-23",
+    "tool": "ask",
+    "client_name": "unknown",
+    "calls": 1,
+    "avg_latency_ms": 145
+  },
+  {
+    "date": "2026-09-23",
+    "tool": "list_changes",
+    "client_name": "brick.blue",
+    "calls": 1,
+    "avg_latency_ms": 166
+  },
+  {
+    "date": "2026-09-23",
+    "tool": "list_changes",
+    "client_name": "rokmcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 771
+  },
+  {
+    "date": "2026-09-23",
+    "tool": "list_changes",
+    "client_name": "unknown",
+    "calls": 2,
+    "avg_latency_ms": 113
+  },
+  {
+    "date": "2026-09-23",
+    "tool": "lookup_crawler",
+    "client_name": "unknown",
+    "calls": 17,
+    "avg_latency_ms": 891
+  },
+  {
+    "date": "2026-09-24",
+    "tool": "__verifymcp_auth_probe_0b31434418dc6807__",
+    "client_name": "verifymcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 0
+  },
+  {
+    "date": "2026-09-24",
+    "tool": "list_changes",
+    "client_name": "brick.blue",
+    "calls": 1,
+    "avg_latency_ms": 162
+  },
+  {
+    "date": "2026-09-24",
+    "tool": "list_changes",
+    "client_name": "mcp-vouch",
+    "calls": 1,
+    "avg_latency_ms": 219
+  },
+  {
+    "date": "2026-09-24",
+    "tool": "list_changes",
+    "client_name": "rokmcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 186
+  },
+  {
+    "date": "2026-09-24",
+    "tool": "lookup_crawler",
+    "client_name": "sasame-audit",
+    "calls": 2,
+    "avg_latency_ms": 147
+  },
+  {
+    "date": "2026-09-25",
+    "tool": "__verifymcp_auth_probe_33aac644163efb55__",
+    "client_name": "verifymcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 0
+  },
+  {
+    "date": "2026-09-25",
+    "tool": "list_changes",
+    "client_name": "brick.blue",
+    "calls": 1,
+    "avg_latency_ms": 14078
+  },
+  {
+    "date": "2026-09-25",
+    "tool": "list_changes",
+    "client_name": "rokmcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 151
+  },
+  {
+    "date": "2026-09-25",
+    "tool": "lookup_crawler",
+    "client_name": "sasame-audit",
+    "calls": 2,
+    "avg_latency_ms": 124
+  },
+  {
+    "date": "2026-09-26",
+    "tool": "__verifymcp_auth_probe_4b48a92bad1f8b56__",
+    "client_name": "verifymcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 0
+  },
+  {
+    "date": "2026-09-26",
+    "tool": "list_changes",
+    "client_name": "brick.blue",
+    "calls": 1,
+    "avg_latency_ms": 153
+  },
+  {
+    "date": "2026-09-26",
+    "tool": "list_changes",
+    "client_name": "katalir-readonly-verifier",
+    "calls": 2,
+    "avg_latency_ms": 486
+  },
+  {
+    "date": "2026-09-26",
+    "tool": "list_changes",
+    "client_name": "rokmcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 170
+  },
+  {
+    "date": "2026-09-26",
+    "tool": "lookup_crawler",
+    "client_name": "sasame-audit",
+    "calls": 2,
+    "avg_latency_ms": 101
+  },
+  {
+    "date": "2026-09-26",
+    "tool": "lookup_crawler",
+    "client_name": "unknown",
+    "calls": 2,
+    "avg_latency_ms": 181
+  },
+  {
+    "date": "2026-09-27",
+    "tool": "__verifymcp_auth_probe_cd5b2aee05c01658__",
+    "client_name": "verifymcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 0
+  },
+  {
+    "date": "2026-09-27",
+    "tool": "list_changes",
+    "client_name": "agent-scout",
+    "calls": 2,
+    "avg_latency_ms": 299
+  },
+  {
+    "date": "2026-09-27",
+    "tool": "list_changes",
+    "client_name": "brick.blue",
+    "calls": 1,
+    "avg_latency_ms": 149
+  },
+  {
+    "date": "2026-09-27",
+    "tool": "list_changes",
+    "client_name": "mcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 274
+  },
+  {
+    "date": "2026-09-27",
+    "tool": "list_changes",
+    "client_name": "rokmcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 177
+  },
+  {
+    "date": "2026-09-27",
+    "tool": "lookup_crawler",
+    "client_name": "agent-scout",
+    "calls": 2,
+    "avg_latency_ms": 524
+  },
+  {
+    "date": "2026-09-27",
+    "tool": "lookup_crawler",
+    "client_name": "sasame-audit",
+    "calls": 2,
+    "avg_latency_ms": 115
+  },
+  {
+    "date": "2026-09-28",
+    "tool": "__verifymcp_auth_probe_24167e09021e82a9__",
+    "client_name": "verifymcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 0
+  },
+  {
+    "date": "2026-09-28",
+    "tool": "list_changes",
+    "client_name": "rokmcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 143
+  },
+  {
+    "date": "2026-09-28",
+    "tool": "lookup_crawler",
+    "client_name": "sasame-audit",
+    "calls": 2,
+    "avg_latency_ms": 105
+  },
+  {
+    "date": "2026-09-29",
+    "tool": "__verifymcp_auth_probe_e40c24d9c5eb065b__",
+    "client_name": "verifymcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 0
+  },
+  {
+    "date": "2026-09-29",
+    "tool": "list_changes",
+    "client_name": "brick.blue",
+    "calls": 1,
+    "avg_latency_ms": 1225
+  },
+  {
+    "date": "2026-09-29",
+    "tool": "list_changes",
+    "client_name": "rokmcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 150
+  },
+  {
+    "date": "2026-09-29",
+    "tool": "lookup_crawler",
+    "client_name": "sasame-audit",
+    "calls": 2,
+    "avg_latency_ms": 100
+  },
+  {
+    "date": "2026-09-30",
+    "tool": "__verifymcp_auth_probe_dd2b7ea5241f5d4d__",
+    "client_name": "verifymcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 0
+  },
+  {
+    "date": "2026-09-30",
+    "tool": "ask",
+    "client_name": "smoke-test",
+    "calls": 6,
+    "avg_latency_ms": 89
+  },
+  {
+    "date": "2026-09-30",
+    "tool": "identify_user_agent",
+    "client_name": "brick.blue",
+    "calls": 1,
+    "avg_latency_ms": 24
+  },
+  {
+    "date": "2026-09-30",
+    "tool": "identify_user_agent",
+    "client_name": "smoke-test",
+    "calls": 12,
+    "avg_latency_ms": 139
+  },
+  {
+    "date": "2026-09-30",
+    "tool": "list_changes",
+    "client_name": "brick.blue",
+    "calls": 1,
+    "avg_latency_ms": 139
+  },
+  {
+    "date": "2026-09-30",
+    "tool": "list_changes",
+    "client_name": "rokmcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 156
+  },
+  {
+    "date": "2026-09-30",
+    "tool": "list_changes",
+    "client_name": "smoke-test",
+    "calls": 12,
+    "avg_latency_ms": 158
+  },
+  {
+    "date": "2026-09-30",
+    "tool": "lookup_crawler",
+    "client_name": "brick.blue",
+    "calls": 1,
+    "avg_latency_ms": 23
+  },
+  {
+    "date": "2026-09-30",
+    "tool": "lookup_crawler",
+    "client_name": "smoke-test",
+    "calls": 18,
+    "avg_latency_ms": 476
+  },
+  {
+    "date": "2026-09-30",
+    "tool": "submit_note",
+    "client_name": "smoke-test",
+    "calls": 12,
+    "avg_latency_ms": 230
+  },
+  {
+    "date": "2026-10-01",
+    "tool": "__verifymcp_auth_probe_64c2ecfb3ef4c021__",
+    "client_name": "verifymcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 0
+  },
+  {
+    "date": "2026-10-01",
+    "tool": "identify_user_agent",
+    "client_name": "brick.blue",
+    "calls": 1,
+    "avg_latency_ms": 42
+  },
+  {
+    "date": "2026-10-01",
+    "tool": "list_changes",
+    "client_name": "Tendle",
+    "calls": 2,
+    "avg_latency_ms": 183
+  },
+  {
+    "date": "2026-10-01",
+    "tool": "list_changes",
+    "client_name": "agent-index-prober",
+    "calls": 1,
+    "avg_latency_ms": 198
+  },
+  {
+    "date": "2026-10-01",
+    "tool": "list_changes",
+    "client_name": "brick.blue",
+    "calls": 1,
+    "avg_latency_ms": 154
+  },
+  {
+    "date": "2026-10-01",
+    "tool": "list_changes",
+    "client_name": "rokmcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 169
+  },
+  {
+    "date": "2026-10-01",
+    "tool": "lookup_crawler",
+    "client_name": "agent-index-prober",
+    "calls": 1,
+    "avg_latency_ms": 3088
+  },
+  {
+    "date": "2026-10-01",
+    "tool": "lookup_crawler",
+    "client_name": "agent-scout",
+    "calls": 2,
+    "avg_latency_ms": 208
+  },
+  {
+    "date": "2026-10-01",
+    "tool": "lookup_crawler",
+    "client_name": "brick.blue",
+    "calls": 1,
+    "avg_latency_ms": 35
+  },
+  {
+    "date": "2026-10-01",
+    "tool": "lookup_crawler",
+    "client_name": "sasame-audit",
+    "calls": 2,
+    "avg_latency_ms": 113
+  },
+  {
+    "date": "2026-10-02",
+    "tool": "__verifymcp_auth_probe_cfe8f5a9a561ac55__",
+    "client_name": "verifymcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 0
+  },
+  {
+    "date": "2026-10-02",
+    "tool": "identify_user_agent",
+    "client_name": "brick.blue",
+    "calls": 1,
+    "avg_latency_ms": 33
+  },
+  {
+    "date": "2026-10-02",
+    "tool": "identify_user_agent",
+    "client_name": "unknown",
+    "calls": 1,
+    "avg_latency_ms": 126
+  },
+  {
+    "date": "2026-10-02",
+    "tool": "list_changes",
+    "client_name": "brick.blue",
+    "calls": 1,
+    "avg_latency_ms": 161
+  },
+  {
+    "date": "2026-10-02",
+    "tool": "list_changes",
+    "client_name": "unknown",
+    "calls": 2,
+    "avg_latency_ms": 139
+  },
+  {
+    "date": "2026-10-02",
+    "tool": "lookup_crawler",
+    "client_name": "brick.blue",
+    "calls": 1,
+    "avg_latency_ms": 34
+  },
+  {
+    "date": "2026-10-02",
+    "tool": "lookup_crawler",
+    "client_name": "sasame-audit",
+    "calls": 2,
+    "avg_latency_ms": 87
+  },
+  {
+    "date": "2026-10-02",
+    "tool": "lookup_crawler",
+    "client_name": "unknown",
+    "calls": 3,
+    "avg_latency_ms": 691
+  },
+  {
+    "date": "2026-10-03",
+    "tool": "__verifymcp_auth_probe_7578453c163d6bb9__",
+    "client_name": "verifymcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 0
+  },
+  {
+    "date": "2026-10-03",
+    "tool": "list_changes",
+    "client_name": "brick.blue",
+    "calls": 1,
+    "avg_latency_ms": 154
+  },
+  {
+    "date": "2026-10-03",
+    "tool": "list_changes",
+    "client_name": "rokmcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 183
+  },
+  {
+    "date": "2026-10-03",
+    "tool": "lookup_crawler",
+    "client_name": "sasame-audit",
+    "calls": 2,
+    "avg_latency_ms": 92
+  },
+  {
+    "date": "2026-10-04",
+    "tool": "__verifymcp_auth_probe_19b4455c127de7a2__",
+    "client_name": "verifymcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 0
+  },
+  {
+    "date": "2026-10-04",
+    "tool": "identify_user_agent",
+    "client_name": "brick.blue",
+    "calls": 1,
+    "avg_latency_ms": 34
+  },
+  {
+    "date": "2026-10-04",
+    "tool": "list_changes",
+    "client_name": "brick.blue",
+    "calls": 1,
+    "avg_latency_ms": 146
+  },
+  {
+    "date": "2026-10-04",
+    "tool": "list_changes",
+    "client_name": "rokmcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 150
+  },
+  {
+    "date": "2026-10-04",
+    "tool": "lookup_crawler",
+    "client_name": "agent-scout",
+    "calls": 2,
+    "avg_latency_ms": 138
+  },
+  {
+    "date": "2026-10-04",
+    "tool": "lookup_crawler",
+    "client_name": "brick.blue",
+    "calls": 1,
+    "avg_latency_ms": 28
+  },
+  {
+    "date": "2026-10-04",
+    "tool": "lookup_crawler",
+    "client_name": "sasame-audit",
+    "calls": 2,
+    "avg_latency_ms": 94
+  },
+  {
+    "date": "2026-10-05",
+    "tool": "__verifymcp_auth_probe_9b0e787860ea607b__",
+    "client_name": "verifymcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 0
+  },
+  {
+    "date": "2026-10-05",
+    "tool": "identify_user_agent",
+    "client_name": "brick.blue",
+    "calls": 1,
+    "avg_latency_ms": 33
+  },
+  {
+    "date": "2026-10-05",
+    "tool": "list_changes",
+    "client_name": "brick.blue",
+    "calls": 1,
+    "avg_latency_ms": 184
+  },
+  {
+    "date": "2026-10-05",
+    "tool": "list_changes",
+    "client_name": "rokmcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 151
+  },
+  {
+    "date": "2026-10-05",
+    "tool": "list_changes",
+    "client_name": "smithery-explore",
+    "calls": 1,
+    "avg_latency_ms": 216
+  },
+  {
+    "date": "2026-10-05",
+    "tool": "lookup_crawler",
+    "client_name": "brick.blue",
+    "calls": 1,
+    "avg_latency_ms": 34
+  },
+  {
+    "date": "2026-10-05",
+    "tool": "lookup_crawler",
+    "client_name": "sasame-audit",
+    "calls": 2,
+    "avg_latency_ms": 94
+  },
+  {
+    "date": "2026-10-06",
+    "tool": "__verifymcp_auth_probe_9b74194f4e0a9780__",
+    "client_name": "verifymcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 0
+  },
+  {
+    "date": "2026-10-06",
+    "tool": "identify_user_agent",
+    "client_name": "brick.blue",
+    "calls": 1,
+    "avg_latency_ms": 76
+  },
+  {
+    "date": "2026-10-06",
+    "tool": "list_changes",
+    "client_name": "FaceabotProbe",
+    "calls": 1,
+    "avg_latency_ms": 509
+  },
+  {
+    "date": "2026-10-06",
+    "tool": "list_changes",
+    "client_name": "brick.blue",
+    "calls": 1,
+    "avg_latency_ms": 140
+  },
+  {
+    "date": "2026-10-06",
+    "tool": "list_changes",
+    "client_name": "rokmcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 167
+  },
+  {
+    "date": "2026-10-06",
+    "tool": "lookup_crawler",
+    "client_name": "brick.blue",
+    "calls": 1,
+    "avg_latency_ms": 21
+  },
+  {
+    "date": "2026-10-06",
+    "tool": "lookup_crawler",
+    "client_name": "sasame-audit",
+    "calls": 2,
+    "avg_latency_ms": 101
+  },
+  {
+    "date": "2026-10-07",
+    "tool": "__verifymcp_auth_probe_df954391420561a9__",
+    "client_name": "verifymcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 0
+  },
+  {
+    "date": "2026-10-07",
+    "tool": "identify_user_agent",
+    "client_name": "BrickBlueBot",
+    "calls": 1,
+    "avg_latency_ms": 82
+  },
+  {
+    "date": "2026-10-07",
+    "tool": "list_changes",
+    "client_name": "BrickBlueBot",
+    "calls": 1,
+    "avg_latency_ms": 168
+  },
+  {
+    "date": "2026-10-07",
+    "tool": "list_changes",
+    "client_name": "FaceabotProbe",
+    "calls": 2,
+    "avg_latency_ms": 331
+  },
+  {
+    "date": "2026-10-07",
+    "tool": "list_changes",
+    "client_name": "unknown",
+    "calls": 1,
+    "avg_latency_ms": 148
+  },
+  {
+    "date": "2026-10-07",
+    "tool": "lookup_crawler",
+    "client_name": "BrickBlueBot",
+    "calls": 1,
+    "avg_latency_ms": 34
+  },
+  {
+    "date": "2026-10-08",
+    "tool": "__verifymcp_auth_probe_13c8b12a30eda234__",
+    "client_name": "verifymcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 0
+  },
+  {
+    "date": "2026-10-08",
+    "tool": "identify_user_agent",
+    "client_name": "BrickBlueBot",
+    "calls": 1,
+    "avg_latency_ms": 41
+  },
+  {
+    "date": "2026-10-08",
+    "tool": "list_changes",
+    "client_name": "BrickBlueBot",
+    "calls": 1,
+    "avg_latency_ms": 147
+  },
+  {
+    "date": "2026-10-08",
+    "tool": "list_changes",
+    "client_name": "FaceabotProbe",
+    "calls": 3,
+    "avg_latency_ms": 530
+  },
+  {
+    "date": "2026-10-08",
+    "tool": "list_changes",
+    "client_name": "rokmcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 176
+  },
+  {
+    "date": "2026-10-08",
+    "tool": "lookup_crawler",
+    "client_name": "BrickBlueBot",
+    "calls": 1,
+    "avg_latency_ms": 27
+  },
+  {
+    "date": "2026-10-08",
+    "tool": "lookup_crawler",
+    "client_name": "sasame-audit",
+    "calls": 2,
+    "avg_latency_ms": 100
+  },
+  {
+    "date": "2026-10-09",
+    "tool": "__verifymcp_auth_probe_169dc2a3d26ea959__",
+    "client_name": "verifymcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 0
+  },
+  {
+    "date": "2026-10-09",
+    "tool": "identify_user_agent",
+    "client_name": "BrickBlueBot",
+    "calls": 1,
+    "avg_latency_ms": 40
+  },
+  {
+    "date": "2026-10-09",
+    "tool": "list_changes",
+    "client_name": "BrickBlueBot",
+    "calls": 1,
+    "avg_latency_ms": 168
+  },
+  {
+    "date": "2026-10-09",
+    "tool": "list_changes",
+    "client_name": "FaceabotProbe",
+    "calls": 3,
+    "avg_latency_ms": 609
+  },
+  {
+    "date": "2026-10-09",
+    "tool": "list_changes",
+    "client_name": "rokmcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 153
+  },
+  {
+    "date": "2026-10-09",
+    "tool": "lookup_crawler",
+    "client_name": "BrickBlueBot",
+    "calls": 1,
+    "avg_latency_ms": 95
+  },
+  {
+    "date": "2026-10-09",
+    "tool": "lookup_crawler",
+    "client_name": "sasame-audit",
+    "calls": 2,
+    "avg_latency_ms": 154
+  },
+  {
+    "date": "2026-10-10",
+    "tool": "__mcp_doctor_nonexistent_tool__",
+    "client_name": "unknown",
+    "calls": 1,
+    "avg_latency_ms": 0
+  },
+  {
+    "date": "2026-10-10",
+    "tool": "__mcp_probe_no_such_tool__",
+    "client_name": "mcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 0
+  },
+  {
+    "date": "2026-10-10",
+    "tool": "__nonexistent__",
+    "client_name": "unknown",
+    "calls": 1,
+    "avg_latency_ms": 0
+  },
+  {
+    "date": "2026-10-10",
+    "tool": "__test_large_payload__",
+    "client_name": "unknown",
+    "calls": 1,
+    "avg_latency_ms": 0
+  },
+  {
+    "date": "2026-10-10",
+    "tool": "__verifymcp_auth_probe_aa328e0766a97c8c__",
+    "client_name": "verifymcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 0
+  },
+  {
+    "date": "2026-10-10",
+    "tool": "ask",
+    "client_name": "mcp-contract-check",
+    "calls": 2,
+    "avg_latency_ms": 545
+  },
+  {
+    "date": "2026-10-10",
+    "tool": "ask",
+    "client_name": "mcp-probe",
+    "calls": 2,
+    "avg_latency_ms": 550
+  },
+  {
+    "date": "2026-10-10",
+    "tool": "identify_user_agent",
+    "client_name": "BrickBlueBot",
+    "calls": 1,
+    "avg_latency_ms": 36
+  },
+  {
+    "date": "2026-10-10",
+    "tool": "identify_user_agent",
+    "client_name": "mcp",
+    "calls": 1,
+    "avg_latency_ms": 197
+  },
+  {
+    "date": "2026-10-10",
+    "tool": "identify_user_agent",
+    "client_name": "mcp-contract-check",
+    "calls": 2,
+    "avg_latency_ms": 188
+  },
+  {
+    "date": "2026-10-10",
+    "tool": "identify_user_agent",
+    "client_name": "mcp-probe",
+    "calls": 2,
+    "avg_latency_ms": 188
+  },
+  {
+    "date": "2026-10-10",
+    "tool": "list_changes",
+    "client_name": "BrickBlueBot",
+    "calls": 1,
+    "avg_latency_ms": 156
+  },
+  {
+    "date": "2026-10-10",
+    "tool": "list_changes",
+    "client_name": "mcp",
+    "calls": 1,
+    "avg_latency_ms": 416
+  },
+  {
+    "date": "2026-10-10",
+    "tool": "list_changes",
+    "client_name": "mcp-contract-check",
+    "calls": 5,
+    "avg_latency_ms": 458
+  },
+  {
+    "date": "2026-10-10",
+    "tool": "list_changes",
+    "client_name": "mcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 415
+  },
+  {
+    "date": "2026-10-10",
+    "tool": "list_changes",
+    "client_name": "rokmcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 163
+  },
+  {
+    "date": "2026-10-10",
+    "tool": "lookup_crawler",
+    "client_name": "BrickBlueBot",
+    "calls": 1,
+    "avg_latency_ms": 91
+  },
+  {
+    "date": "2026-10-10",
+    "tool": "lookup_crawler",
+    "client_name": "mcp",
+    "calls": 1,
+    "avg_latency_ms": 515
+  },
+  {
+    "date": "2026-10-10",
+    "tool": "lookup_crawler",
+    "client_name": "mcp-contract-check",
+    "calls": 2,
+    "avg_latency_ms": 313
+  },
+  {
+    "date": "2026-10-10",
+    "tool": "lookup_crawler",
+    "client_name": "mcp-probe",
+    "calls": 2,
+    "avg_latency_ms": 370
+  },
+  {
+    "date": "2026-10-10",
+    "tool": "lookup_crawler",
+    "client_name": "sasame-audit",
+    "calls": 2,
+    "avg_latency_ms": 129
+  },
+  {
+    "date": "2026-10-10",
+    "tool": "lookup_crawler",
+    "client_name": "unknown",
+    "calls": 13,
+    "avg_latency_ms": 159
+  },
+  {
+    "date": "2026-10-10",
+    "tool": "submit_note",
+    "client_name": "mcp-contract-check",
+    "calls": 4,
+    "avg_latency_ms": 48
+  },
+  {
+    "date": "2026-10-10",
+    "tool": "submit_note",
+    "client_name": "mcp-probe",
+    "calls": 2,
+    "avg_latency_ms": 0
+  },
+  {
+    "date": "2026-10-11",
+    "tool": "identify_user_agent",
+    "client_name": "BrickBlueBot",
+    "calls": 1,
+    "avg_latency_ms": 40
+  },
+  {
+    "date": "2026-10-11",
+    "tool": "list_changes",
+    "client_name": "BrickBlueBot",
+    "calls": 1,
+    "avg_latency_ms": 154
+  },
+  {
+    "date": "2026-10-11",
+    "tool": "list_changes",
+    "client_name": "rokmcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 157
+  },
+  {
+    "date": "2026-10-11",
+    "tool": "lookup_crawler",
+    "client_name": "BrickBlueBot",
+    "calls": 1,
+    "avg_latency_ms": 132
+  },
+  {
+    "date": "2026-10-11",
+    "tool": "lookup_crawler",
+    "client_name": "katalir-verify",
+    "calls": 1,
+    "avg_latency_ms": 187
+  },
+  {
+    "date": "2026-10-12",
+    "tool": "__verifymcp_auth_probe_8cb4acb2d5671ade__",
+    "client_name": "verifymcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 0
+  }
+]

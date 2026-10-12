@@ -1618,5 +1618,55 @@
     "formats": "[\"html\",\"txt\"]",
     "verified_share": 1,
     "verified_requests": 21
+  },
+  {
+    "id": 169,
+    "date": "2026-10-11",
+    "entity_id": 1,
+    "requests": 3,
+    "paths": "[\"/sitemap-index.xml\",\"/sitemap.xml\",\"/sitemap-machine.xml\"]",
+    "formats": "[\"xml\"]",
+    "verified_share": 1,
+    "verified_requests": 3
+  },
+  {
+    "id": 170,
+    "date": "2026-10-11",
+    "entity_id": 2,
+    "requests": 28,
+    "paths": "[\"/robots.txt\",\"/crawlers/gptbot\",\"/claims/80\",\"/compare/googlebot-vs-gptbot\",\"/compare/claude-user-vs-gptbot\",\"/claims/84\",\"/claims/81\",\"/claims/83\",\"/compare/chatgpt-user-vs-gptbot\",\"/compare/gptbot-vs-perplexitybot\",\"/compare/googleother-vs-gptbot\",\"/compare/gptbot-vs-oai-adsbot\",\"/compare/applebot-vs-gptbot\",\"/claims/82\",\"/compare/applebot-extended-vs-gptbot\",\"/compare/claudebot-vs-gptbot\",\"/compare/claude-searchbot-vs-gptbot\",\"/compare/bingbot-vs-gptbot\",\"/claims/78\",\"/compare/gptbot-vs-oai-searchbot\",\"/claims/79\",\"/compare/google-extended-vs-gptbot\",\"/compare/gptbot-vs-perplexity-user\",\"/claims/85\",\"/crawlers/gptbot.md\",\"/crawlers/gptbot.json\",\"/favicon.ico\"]",
+    "formats": "[\"txt\",\"html\",\"md\",\"json\"]",
+    "verified_share": 1,
+    "verified_requests": 28
+  },
+  {
+    "id": 171,
+    "date": "2026-10-11",
+    "entity_id": 5,
+    "requests": 62,
+    "paths": "[\"/claims/132.json\",\"/claims/132.md\",\"/robots.txt\",\"/crawlers/claudebot.md\",\"/crawlers/claudebot.json\",\"/crawlers/chatgpt-user.md\",\"/crawlers/chatgpt-user.json\",\"/sitemap-index.xml\",\"/sitemap.xml\",\"/sitemap-machine.xml\"]",
+    "formats": "[\"json\",\"md\",\"txt\",\"xml\"]",
+    "verified_share": 1,
+    "verified_requests": 62
+  },
+  {
+    "id": 172,
+    "date": "2026-10-11",
+    "entity_id": 10,
+    "requests": 9,
+    "paths": "[\"/robots.txt\",\"/fields/observed_first_request_path\",\"/fields/fallback_to_googlebot_rules\",\"/\"]",
+    "formats": "[\"txt\",\"html\"]",
+    "verified_share": 1,
+    "verified_requests": 9
+  },
+  {
+    "id": 173,
+    "date": "2026-10-11",
+    "entity_id": 13,
+    "requests": 7,
+    "paths": "[\"/claims/61\",\"/data\",\"/claims/150\",\"/compare/claude-user-vs-google-extended\",\"/data/latest\",\"/\",\"/claims/90\"]",
+    "formats": "[\"html\"]",
+    "verified_share": 1,
+    "verified_requests": 7
   }
 ]
