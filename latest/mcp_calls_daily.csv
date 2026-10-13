@@ -182,3 +182,8 @@ date,tool,client_name,calls,avg_latency_ms
 2026-10-11,lookup_crawler,BrickBlueBot,1,132
 2026-10-11,lookup_crawler,katalir-verify,1,187
 2026-10-12,__verifymcp_auth_probe_8cb4acb2d5671ade__,verifymcp-probe,1,0
+2026-10-12,identify_user_agent,BrickBlueBot,1,39
+2026-10-12,list_changes,BrickBlueBot,1,175
+2026-10-12,list_changes,rokmcp-probe,1,169
+2026-10-12,lookup_crawler,BrickBlueBot,1,44
+2026-10-13,__verifymcp_auth_probe_4bfe816a09eea863__,verifymcp-probe,1,0

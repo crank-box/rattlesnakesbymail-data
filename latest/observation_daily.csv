@@ -166,3 +166,9 @@ id,date,entity_id,requests,paths,formats,verified_share,verified_requests
 171,2026-10-11,5,62,"[""/claims/132.json"",""/claims/132.md"",""/robots.txt"",""/crawlers/claudebot.md"",""/crawlers/claudebot.json"",""/crawlers/chatgpt-user.md"",""/crawlers/chatgpt-user.json"",""/sitemap-index.xml"",""/sitemap.xml"",""/sitemap-machine.xml""]","[""json"",""md"",""txt"",""xml""]",1,62
 172,2026-10-11,10,9,"[""/robots.txt"",""/fields/observed_first_request_path"",""/fields/fallback_to_googlebot_rules"",""/""]","[""txt"",""html""]",1,9
 173,2026-10-11,13,7,"[""/claims/61"",""/data"",""/claims/150"",""/compare/claude-user-vs-google-extended"",""/data/latest"",""/"",""/claims/90""]","[""html""]",1,7
+174,2026-10-12,1,3,"[""/sitemap.xml"",""/sitemap-index.xml"",""/sitemap-machine.xml""]","[""xml""]",1,3
+175,2026-10-12,2,4,"[""/robots.txt""]","[""txt""]",1,4
+176,2026-10-12,3,1,"[""/""]","[""html""]",0,0
+177,2026-10-12,5,48,"[""/robots.txt"",""/sitemap.xml"",""/sitemap-machine.xml"",""/sitemap-index.xml""]","[""txt"",""xml""]",1,48
+178,2026-10-12,10,7,"[""/robots.txt"",""/crawlers/applebot-extended"",""/sitemap.xml"",""/"",""/crawlers/googlebot""]","[""txt"",""html"",""xml""]",1,7
+179,2026-10-12,13,7,"[""/data"",""/compare/google-extended-vs-googlebot"",""/compare/bingbot-vs-chatgpt-user"",""/claims/15"",""/compare/chatgpt-user-vs-oai-searchbot"",""/fields/opt_out_mechanism"",""/compare/oai-adsbot-vs-perplexity-user""]","[""html""]",1,7

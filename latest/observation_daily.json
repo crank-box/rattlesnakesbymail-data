@@ -1668,5 +1668,65 @@
     "formats": "[\"html\"]",
     "verified_share": 1,
     "verified_requests": 7
+  },
+  {
+    "id": 174,
+    "date": "2026-10-12",
+    "entity_id": 1,
+    "requests": 3,
+    "paths": "[\"/sitemap.xml\",\"/sitemap-index.xml\",\"/sitemap-machine.xml\"]",
+    "formats": "[\"xml\"]",
+    "verified_share": 1,
+    "verified_requests": 3
+  },
+  {
+    "id": 175,
+    "date": "2026-10-12",
+    "entity_id": 2,
+    "requests": 4,
+    "paths": "[\"/robots.txt\"]",
+    "formats": "[\"txt\"]",
+    "verified_share": 1,
+    "verified_requests": 4
+  },
+  {
+    "id": 176,
+    "date": "2026-10-12",
+    "entity_id": 3,
+    "requests": 1,
+    "paths": "[\"/\"]",
+    "formats": "[\"html\"]",
+    "verified_share": 0,
+    "verified_requests": 0
+  },
+  {
+    "id": 177,
+    "date": "2026-10-12",
+    "entity_id": 5,
+    "requests": 48,
+    "paths": "[\"/robots.txt\",\"/sitemap.xml\",\"/sitemap-machine.xml\",\"/sitemap-index.xml\"]",
+    "formats": "[\"txt\",\"xml\"]",
+    "verified_share": 1,
+    "verified_requests": 48
+  },
+  {
+    "id": 178,
+    "date": "2026-10-12",
+    "entity_id": 10,
+    "requests": 7,
+    "paths": "[\"/robots.txt\",\"/crawlers/applebot-extended\",\"/sitemap.xml\",\"/\",\"/crawlers/googlebot\"]",
+    "formats": "[\"txt\",\"html\",\"xml\"]",
+    "verified_share": 1,
+    "verified_requests": 7
+  },
+  {
+    "id": 179,
+    "date": "2026-10-12",
+    "entity_id": 13,
+    "requests": 7,
+    "paths": "[\"/data\",\"/compare/google-extended-vs-googlebot\",\"/compare/bingbot-vs-chatgpt-user\",\"/claims/15\",\"/compare/chatgpt-user-vs-oai-searchbot\",\"/fields/opt_out_mechanism\",\"/compare/oai-adsbot-vs-perplexity-user\"]",
+    "formats": "[\"html\"]",
+    "verified_share": 1,
+    "verified_requests": 7
   }
 ]
