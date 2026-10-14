@@ -1728,5 +1728,55 @@
     "formats": "[\"html\"]",
     "verified_share": 1,
     "verified_requests": 7
+  },
+  {
+    "id": 180,
+    "date": "2026-10-13",
+    "entity_id": 1,
+    "requests": 3,
+    "paths": "[\"/sitemap-index.xml\",\"/sitemap.xml\",\"/sitemap-machine.xml\"]",
+    "formats": "[\"xml\"]",
+    "verified_share": 1,
+    "verified_requests": 3
+  },
+  {
+    "id": 181,
+    "date": "2026-10-13",
+    "entity_id": 2,
+    "requests": 22,
+    "paths": "[\"/robots.txt\",\"/data\",\"/data/latest/notes.json\",\"/data/latest/entities.json\",\"/data/latest/claims.json\",\"/data/latest/questions.csv\",\"/data/latest/mcp_calls_daily.json\",\"/data.json\",\"/data/latest/mcp_calls_daily.csv\",\"/changes.xml\",\"/data.md\",\"/data/latest/changes.csv\",\"/data/latest.json\",\"/data/latest/notes.csv\",\"/data/latest/questions.json\",\"/data/latest/observation_daily.csv\",\"/data/latest/observation_daily.json\",\"/data/latest/claims.csv\",\"/data/latest/changes.json\",\"/data/latest/entities.csv\"]",
+    "formats": "[\"txt\",\"html\",\"json\",\"csv\",\"xml\",\"md\"]",
+    "verified_share": 1,
+    "verified_requests": 22
+  },
+  {
+    "id": 182,
+    "date": "2026-10-13",
+    "entity_id": 5,
+    "requests": 48,
+    "paths": "[\"/robots.txt\",\"/sitemap-index.xml\",\"/sitemap-machine.xml\",\"/sitemap.xml\"]",
+    "formats": "[\"txt\",\"xml\"]",
+    "verified_share": 1,
+    "verified_requests": 48
+  },
+  {
+    "id": 183,
+    "date": "2026-10-13",
+    "entity_id": 10,
+    "requests": 9,
+    "paths": "[\"/robots.txt\",\"/claims/82\",\"/crawlers\",\"/crawlers/googlebot\",\"/crawlers/applebot-extended\"]",
+    "formats": "[\"txt\",\"html\"]",
+    "verified_share": 1,
+    "verified_requests": 9
+  },
+  {
+    "id": 184,
+    "date": "2026-10-13",
+    "entity_id": 13,
+    "requests": 9,
+    "paths": "[\"/robots.txt\",\"/changes\",\"/data\",\"/claims/57\",\"/\",\"/fields/verifiable_by_rdns\",\"/fields/anti_circumvention_stance\",\"/claims/21\",\"/claims/17\"]",
+    "formats": "[\"txt\",\"html\"]",
+    "verified_share": 1,
+    "verified_requests": 9
   }
 ]
