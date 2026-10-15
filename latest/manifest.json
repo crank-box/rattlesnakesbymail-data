@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-14",
-  "generated_at": "2026-10-14T03:18:01.224Z",
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T03:18:00.539Z",
   "site": "Rattlesnakes By Mail",
   "site_url": "https://rattlesnakesbymail.com",
   "license": "CC BY 4.0",
@@ -12,9 +12,9 @@
     "entities": 15,
     "claims": 141,
     "changes": 141,
-    "observation_daily": 178,
+    "observation_daily": 184,
     "questions": 49,
     "notes": 2,
-    "mcp_calls_daily": 194
+    "mcp_calls_daily": 199
   }
 }

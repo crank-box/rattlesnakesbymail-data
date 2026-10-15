@@ -1778,5 +1778,65 @@
     "formats": "[\"txt\",\"html\"]",
     "verified_share": 1,
     "verified_requests": 9
+  },
+  {
+    "id": 185,
+    "date": "2026-10-14",
+    "entity_id": 1,
+    "requests": 3,
+    "paths": "[\"/sitemap-index.xml\",\"/sitemap-machine.xml\",\"/sitemap.xml\"]",
+    "formats": "[\"xml\"]",
+    "verified_share": 1,
+    "verified_requests": 3
+  },
+  {
+    "id": 186,
+    "date": "2026-10-14",
+    "entity_id": 2,
+    "requests": 44,
+    "paths": "[\"/robots.txt\",\"/\",\"/crawlers/claude-user\",\"/claims/148\",\"/claims/23\",\"/claims/61\",\"/questions/eaaa86558b443873916376dc4d0546f60ee5d890631698c41768fb619582451c\",\"/observed/gptbot\",\"/claims/8\",\"/crawlers/bingbot\",\"/crawlers/oai-searchbot\",\"/.md\",\"/crawlers/googleother\",\"/changes\",\"/crawlers/perplexity-user\",\"/claims/150\",\"/crawlers/google-extended\",\"/crawlers/googlebot\",\"/claims/62\",\"/crawlers/applebot-extended\",\"/claims/59\",\"/claims/132\",\"/claims/19\",\"/crawlers/claudebot\",\"/crawlers/chatgpt-user\",\"/claims/60\",\"/observed/bingbot\",\"/claims/47\",\"/observed/applebot\",\"/observed/claudebot\",\"/observed/googlebot\",\"/observed/googleother\",\"/claims/149\",\"/claims/66\",\"/crawlers/perplexitybot\",\"/.json\",\"/data\"]",
+    "formats": "[\"txt\",\"html\",\"md\",\"json\"]",
+    "verified_share": 1,
+    "verified_requests": 44
+  },
+  {
+    "id": 187,
+    "date": "2026-10-14",
+    "entity_id": 5,
+    "requests": 47,
+    "paths": "[\"/robots.txt\",\"/sitemap-index.xml\",\"/sitemap-machine.xml\",\"/sitemap.xml\"]",
+    "formats": "[\"txt\",\"xml\"]",
+    "verified_share": 1,
+    "verified_requests": 47
+  },
+  {
+    "id": 188,
+    "date": "2026-10-14",
+    "entity_id": 10,
+    "requests": 15,
+    "paths": "[\"/robots.txt\",\"/crawlers/googlebot\",\"/crawlers/perplexitybot\",\"/crawlers\",\"/questions\",\"/crawlers/oai-searchbot\"]",
+    "formats": "[\"txt\",\"html\"]",
+    "verified_share": 1,
+    "verified_requests": 15
+  },
+  {
+    "id": 189,
+    "date": "2026-10-14",
+    "entity_id": 13,
+    "requests": 7,
+    "paths": "[\"/robots.txt\",\"/claims/46\",\"/claims/118\",\"/data\",\"/compare/applebot-vs-oai-adsbot\",\"/data/latest\",\"/compare/applebot-extended-vs-google-extended\"]",
+    "formats": "[\"txt\",\"html\"]",
+    "verified_share": 1,
+    "verified_requests": 7
+  },
+  {
+    "id": 190,
+    "date": "2026-10-14",
+    "entity_id": 14,
+    "requests": 1,
+    "paths": "[\"/robots.txt\"]",
+    "formats": "[\"txt\"]",
+    "verified_share": 1,
+    "verified_requests": 1
   }
 ]
