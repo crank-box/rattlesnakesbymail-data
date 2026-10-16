@@ -198,3 +198,8 @@ date,tool,client_name,calls,avg_latency_ms
 2026-10-14,list_changes,rokmcp-probe,1,214
 2026-10-14,lookup_crawler,BrickBlueBot,1,58
 2026-10-15,__verifymcp_auth_probe_bb7f82919eec1a5d__,verifymcp-probe,1,0
+2026-10-15,identify_user_agent,BrickBlueBot,1,29
+2026-10-15,list_changes,BrickBlueBot,1,165
+2026-10-15,list_changes,rokmcp-probe,1,178
+2026-10-15,lookup_crawler,BrickBlueBot,1,28
+2026-10-16,__verifymcp_auth_probe_a4b7b23b3817d343__,verifymcp-probe,1,0
