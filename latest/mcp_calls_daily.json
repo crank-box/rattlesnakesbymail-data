@@ -1426,5 +1426,19 @@
     "client_name": "verifymcp-probe",
     "calls": 1,
     "avg_latency_ms": 0
+  },
+  {
+    "date": "2026-10-16",
+    "tool": "list_changes",
+    "client_name": "rokmcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 221
+  },
+  {
+    "date": "2026-10-17",
+    "tool": "__verifymcp_auth_probe_a7a92158f4b74326__",
+    "client_name": "verifymcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 0
   }
 ]
