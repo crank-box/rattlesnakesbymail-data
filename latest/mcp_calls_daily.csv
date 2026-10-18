@@ -205,3 +205,10 @@ date,tool,client_name,calls,avg_latency_ms
 2026-10-16,__verifymcp_auth_probe_a4b7b23b3817d343__,verifymcp-probe,1,0
 2026-10-16,list_changes,rokmcp-probe,1,221
 2026-10-17,__verifymcp_auth_probe_a7a92158f4b74326__,verifymcp-probe,1,0
+2026-10-17,identify_user_agent,BrickBlueBot,1,29
+2026-10-17,list_changes,BrickBlueBot,1,143
+2026-10-17,list_changes,agent-collector,1,164
+2026-10-17,list_changes,connect-mcp-test,1,180
+2026-10-17,list_changes,rokmcp-probe,1,167
+2026-10-17,lookup_crawler,BrickBlueBot,1,29
+2026-10-18,__verifymcp_auth_probe_9de848cb95734497__,verifymcp-probe,1,0

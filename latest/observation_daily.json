@@ -1938,5 +1938,65 @@
     "formats": "[\"html\",\"txt\",\"xml\"]",
     "verified_share": 1,
     "verified_requests": 12
+  },
+  {
+    "id": 201,
+    "date": "2026-10-17",
+    "entity_id": 1,
+    "requests": 3,
+    "paths": "[\"/sitemap-index.xml\",\"/sitemap-machine.xml\",\"/sitemap.xml\"]",
+    "formats": "[\"xml\"]",
+    "verified_share": 1,
+    "verified_requests": 3
+  },
+  {
+    "id": 202,
+    "date": "2026-10-17",
+    "entity_id": 2,
+    "requests": 5,
+    "paths": "[\"/robots.txt\",\"/\",\"/data\"]",
+    "formats": "[\"txt\",\"html\"]",
+    "verified_share": 1,
+    "verified_requests": 5
+  },
+  {
+    "id": 203,
+    "date": "2026-10-17",
+    "entity_id": 5,
+    "requests": 44,
+    "paths": "[\"/robots.txt\",\"/sitemap-machine.xml\",\"/sitemap-index.xml\",\"/sitemap.xml\"]",
+    "formats": "[\"txt\",\"xml\"]",
+    "verified_share": 1,
+    "verified_requests": 44
+  },
+  {
+    "id": 204,
+    "date": "2026-10-17",
+    "entity_id": 10,
+    "requests": 6,
+    "paths": "[\"/robots.txt\",\"/questions/b906094064ac6f4a0b93a1e80f5c08f85bcc55d61e111a7470c0060db6b8a635\",\"/data\",\"/crawlers/claude-user\"]",
+    "formats": "[\"txt\",\"html\"]",
+    "verified_share": 1,
+    "verified_requests": 6
+  },
+  {
+    "id": 205,
+    "date": "2026-10-17",
+    "entity_id": 13,
+    "requests": 9,
+    "paths": "[\"/compare/chatgpt-user-vs-claude-user\",\"/claims/110\",\"/claims/42\",\"/crawlers/claude-searchbot\",\"/claims/54\",\"/claims/77\",\"/compare/applebot-vs-perplexitybot\",\"/changes\",\"/claims/148\"]",
+    "formats": "[\"html\"]",
+    "verified_share": 1,
+    "verified_requests": 9
+  },
+  {
+    "id": 206,
+    "date": "2026-10-17",
+    "entity_id": 14,
+    "requests": 7,
+    "paths": "[\"/robots.txt\",\"/compare/claude-searchbot-vs-perplexitybot.json\",\"/compare/claude-user-vs-googlebot\",\"/compare/claude-searchbot-vs-google-extended.json\",\"/compare/claude-searchbot-vs-googleother.json\"]",
+    "formats": "[\"txt\",\"json\",\"html\"]",
+    "verified_share": 1,
+    "verified_requests": 7
   }
 ]
