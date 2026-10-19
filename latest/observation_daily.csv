@@ -199,3 +199,9 @@ id,date,entity_id,requests,paths,formats,verified_share,verified_requests
 204,2026-10-17,10,6,"[""/robots.txt"",""/questions/b906094064ac6f4a0b93a1e80f5c08f85bcc55d61e111a7470c0060db6b8a635"",""/data"",""/crawlers/claude-user""]","[""txt"",""html""]",1,6
 205,2026-10-17,13,9,"[""/compare/chatgpt-user-vs-claude-user"",""/claims/110"",""/claims/42"",""/crawlers/claude-searchbot"",""/claims/54"",""/claims/77"",""/compare/applebot-vs-perplexitybot"",""/changes"",""/claims/148""]","[""html""]",1,9
 206,2026-10-17,14,7,"[""/robots.txt"",""/compare/claude-searchbot-vs-perplexitybot.json"",""/compare/claude-user-vs-googlebot"",""/compare/claude-searchbot-vs-google-extended.json"",""/compare/claude-searchbot-vs-googleother.json""]","[""txt"",""json"",""html""]",1,7
+207,2026-10-18,1,3,"[""/sitemap-index.xml"",""/sitemap-machine.xml"",""/sitemap.xml""]","[""xml""]",1,3
+208,2026-10-18,2,6,"[""/robots.txt"",""/"",""/data""]","[""txt"",""html""]",1,6
+209,2026-10-18,5,46,"[""/robots.txt"",""/sitemap.xml"",""/sitemap-index.xml"",""/sitemap-machine.xml"",""/snapshots"",""/snapshots.md"",""/snapshots.json""]","[""txt"",""xml"",""html"",""md"",""json""]",1,46
+210,2026-10-18,10,9,"[""/method"",""/robots.txt"",""/data"",""/"",""/crawlers/claudebot""]","[""html"",""txt""]",0.8888888888888888,8
+211,2026-10-18,13,11,"[""/claims/69"",""/claims/33"",""/fields/fallback_to_googlebot_rules"",""/fields/observed_verified_request_ratio_census"",""/robots.txt"",""/claims/30"",""/compare/bingbot-vs-claude-searchbot"",""/claims/124"",""/"",""/observed/claude-searchbot"",""/claims/81""]","[""html"",""txt""]",1,11
+212,2026-10-18,14,7,"[""/compare/claude-user-vs-claudebot"",""/robots.txt"",""/compare/claude-searchbot-vs-perplexity-user.json"",""/compare/applebot-extended-vs-claude-searchbot.json"",""/compare/applebot-vs-claude-searchbot.json"",""/compare/bingbot-vs-claude-searchbot.json""]","[""html"",""txt"",""json""]",1,7

@@ -1998,5 +1998,65 @@
     "formats": "[\"txt\",\"json\",\"html\"]",
     "verified_share": 1,
     "verified_requests": 7
+  },
+  {
+    "id": 207,
+    "date": "2026-10-18",
+    "entity_id": 1,
+    "requests": 3,
+    "paths": "[\"/sitemap-index.xml\",\"/sitemap-machine.xml\",\"/sitemap.xml\"]",
+    "formats": "[\"xml\"]",
+    "verified_share": 1,
+    "verified_requests": 3
+  },
+  {
+    "id": 208,
+    "date": "2026-10-18",
+    "entity_id": 2,
+    "requests": 6,
+    "paths": "[\"/robots.txt\",\"/\",\"/data\"]",
+    "formats": "[\"txt\",\"html\"]",
+    "verified_share": 1,
+    "verified_requests": 6
+  },
+  {
+    "id": 209,
+    "date": "2026-10-18",
+    "entity_id": 5,
+    "requests": 46,
+    "paths": "[\"/robots.txt\",\"/sitemap.xml\",\"/sitemap-index.xml\",\"/sitemap-machine.xml\",\"/snapshots\",\"/snapshots.md\",\"/snapshots.json\"]",
+    "formats": "[\"txt\",\"xml\",\"html\",\"md\",\"json\"]",
+    "verified_share": 1,
+    "verified_requests": 46
+  },
+  {
+    "id": 210,
+    "date": "2026-10-18",
+    "entity_id": 10,
+    "requests": 9,
+    "paths": "[\"/method\",\"/robots.txt\",\"/data\",\"/\",\"/crawlers/claudebot\"]",
+    "formats": "[\"html\",\"txt\"]",
+    "verified_share": 0.8888888888888888,
+    "verified_requests": 8
+  },
+  {
+    "id": 211,
+    "date": "2026-10-18",
+    "entity_id": 13,
+    "requests": 11,
+    "paths": "[\"/claims/69\",\"/claims/33\",\"/fields/fallback_to_googlebot_rules\",\"/fields/observed_verified_request_ratio_census\",\"/robots.txt\",\"/claims/30\",\"/compare/bingbot-vs-claude-searchbot\",\"/claims/124\",\"/\",\"/observed/claude-searchbot\",\"/claims/81\"]",
+    "formats": "[\"html\",\"txt\"]",
+    "verified_share": 1,
+    "verified_requests": 11
+  },
+  {
+    "id": 212,
+    "date": "2026-10-18",
+    "entity_id": 14,
+    "requests": 7,
+    "paths": "[\"/compare/claude-user-vs-claudebot\",\"/robots.txt\",\"/compare/claude-searchbot-vs-perplexity-user.json\",\"/compare/applebot-extended-vs-claude-searchbot.json\",\"/compare/applebot-vs-claude-searchbot.json\",\"/compare/bingbot-vs-claude-searchbot.json\"]",
+    "formats": "[\"html\",\"txt\",\"json\"]",
+    "verified_share": 1,
+    "verified_requests": 7
   }
 ]
