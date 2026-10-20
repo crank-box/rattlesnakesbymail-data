@@ -2058,5 +2058,55 @@
     "formats": "[\"html\",\"txt\",\"json\"]",
     "verified_share": 1,
     "verified_requests": 7
+  },
+  {
+    "id": 213,
+    "date": "2026-10-19",
+    "entity_id": 1,
+    "requests": 3,
+    "paths": "[\"/sitemap-index.xml\",\"/sitemap-machine.xml\",\"/sitemap.xml\"]",
+    "formats": "[\"xml\"]",
+    "verified_share": 1,
+    "verified_requests": 3
+  },
+  {
+    "id": 214,
+    "date": "2026-10-19",
+    "entity_id": 2,
+    "requests": 5,
+    "paths": "[\"/robots.txt\",\"/\",\"/data\"]",
+    "formats": "[\"txt\",\"html\"]",
+    "verified_share": 1,
+    "verified_requests": 5
+  },
+  {
+    "id": 215,
+    "date": "2026-10-19",
+    "entity_id": 8,
+    "requests": 2,
+    "paths": "[\"/robots.txt\",\"/\"]",
+    "formats": "[\"txt\",\"html\"]",
+    "verified_share": 1,
+    "verified_requests": 2
+  },
+  {
+    "id": 216,
+    "date": "2026-10-19",
+    "entity_id": 10,
+    "requests": 20,
+    "paths": "[\"/.js\",\"/robots.txt\",\"/\",\"/claims/39\",\"/claims/68\",\"/claims/48\",\"/questions/064f0033dab1091575ab29137f558668ff6193e891221987fd9523c31b4ff78f\",\"/crawlers/googleother\",\"/questions/b906094064ac6f4a0b93a1e80f5c08f85bcc55d61e111a7470c0060db6b8a635\",\"/claims/43\"]",
+    "formats": "[\"html\",\"txt\"]",
+    "verified_share": 0.95,
+    "verified_requests": 19
+  },
+  {
+    "id": 217,
+    "date": "2026-10-19",
+    "entity_id": 13,
+    "requests": 12,
+    "paths": "[\"/observed/claude-user\",\"/claims/82\",\"/claims/66\",\"/method\",\"/\",\"/claims/130\",\"/claims/22\",\"/claims/5\",\"/compare/applebot-extended-vs-bingbot\",\"/compare/applebot-extended-vs-claudebot\",\"/compare/claude-searchbot-vs-oai-adsbot\",\"/compare/google-extended-vs-perplexitybot\"]",
+    "formats": "[\"html\"]",
+    "verified_share": 1,
+    "verified_requests": 12
   }
 ]
