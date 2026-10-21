@@ -2108,5 +2108,55 @@
     "formats": "[\"html\"]",
     "verified_share": 1,
     "verified_requests": 12
+  },
+  {
+    "id": 218,
+    "date": "2026-10-20",
+    "entity_id": 1,
+    "requests": 3,
+    "paths": "[\"/sitemap-index.xml\",\"/sitemap.xml\",\"/sitemap-machine.xml\"]",
+    "formats": "[\"xml\"]",
+    "verified_share": 1,
+    "verified_requests": 3
+  },
+  {
+    "id": 219,
+    "date": "2026-10-20",
+    "entity_id": 2,
+    "requests": 3,
+    "paths": "[\"/robots.txt\"]",
+    "formats": "[\"txt\"]",
+    "verified_share": 1,
+    "verified_requests": 3
+  },
+  {
+    "id": 220,
+    "date": "2026-10-20",
+    "entity_id": 10,
+    "requests": 16,
+    "paths": "[\"/robots.txt\",\"/data\",\"/fields/anti_circumvention_stance\",\"/fields/publishes_ip_list\",\"/claims/43\",\"/crawlers/claudebot\",\"/claims\",\"/crawlers/claude-searchbot\",\"/crawlers/perplexitybot\"]",
+    "formats": "[\"txt\",\"html\"]",
+    "verified_share": 1,
+    "verified_requests": 16
+  },
+  {
+    "id": 221,
+    "date": "2026-10-20",
+    "entity_id": 13,
+    "requests": 15,
+    "paths": "[\"/compare/applebot-extended-vs-googlebot\",\"/compare/googlebot-vs-gptbot\",\"/\",\"/compare/oai-adsbot-vs-oai-searchbot\",\"/compare/claudebot-vs-googlebot\",\"/robots.txt\",\"/fields/honours_crawl_delay\",\"/claims.json\",\"/compare/chatgpt-user-vs-gptbot\",\"/changes\",\"/compare/applebot-extended-vs-gptbot\",\"/claims/127\",\"/method\",\"/claims/29\",\"/fields/publishes_ip_list\"]",
+    "formats": "[\"html\",\"txt\",\"json\"]",
+    "verified_share": 1,
+    "verified_requests": 15
+  },
+  {
+    "id": 222,
+    "date": "2026-10-20",
+    "entity_id": 14,
+    "requests": 4,
+    "paths": "[\"/robots.txt\",\"/compare/claude-user-vs-googlebot.md\",\"/compare/claude-searchbot-vs-claudebot.json\"]",
+    "formats": "[\"txt\",\"md\",\"json\"]",
+    "verified_share": 1,
+    "verified_requests": 4
   }
 ]
