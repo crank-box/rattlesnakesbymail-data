@@ -227,3 +227,11 @@ date,tool,client_name,calls,avg_latency_ms
 2026-10-20,list_changes,rokmcp-probe,1,221
 2026-10-20,lookup_crawler,BrickBlueBot,1,69
 2026-10-21,__verifymcp_auth_probe_6a11e7f54ae154bd__,verifymcp-probe,1,0
+2026-10-21,identify_user_agent,BrickBlueBot,1,259
+2026-10-21,identify_user_agent,phase-a,5,207
+2026-10-21,list_changes,BrickBlueBot,1,265
+2026-10-21,list_changes,phase-a,5,453
+2026-10-21,list_changes,rokmcp-probe,1,214
+2026-10-21,lookup_crawler,BrickBlueBot,1,230
+2026-10-21,lookup_crawler,phase-a,5,483
+2026-10-22,__verifymcp_auth_probe_a48341d559c2b497__,verifymcp-probe,1,0
