@@ -2228,5 +2228,45 @@
     "formats": "[\"txt\",\"json\",\"md\"]",
     "verified_share": 1,
     "verified_requests": 4
+  },
+  {
+    "id": 230,
+    "date": "2026-10-22",
+    "entity_id": 1,
+    "requests": 8,
+    "paths": "[\"/sitemap-index.xml\",\"/sitemap.xml\",\"/sitemap-machine.xml\",\"/llms.txt\",\"/\",\"/.md\",\"/.json\",\"/fields/cites_sources\"]",
+    "formats": "[\"xml\",\"txt\",\"html\",\"md\",\"json\"]",
+    "verified_share": 0.875,
+    "verified_requests": 7
+  },
+  {
+    "id": 231,
+    "date": "2026-10-22",
+    "entity_id": 2,
+    "requests": 6,
+    "paths": "[\"/robots.txt\",\"/data\"]",
+    "formats": "[\"txt\",\"html\"]",
+    "verified_share": 1,
+    "verified_requests": 6
+  },
+  {
+    "id": 232,
+    "date": "2026-10-22",
+    "entity_id": 10,
+    "requests": 29,
+    "paths": "[\"/robots.txt\",\"/fields/observed_first_request_path\",\"/data\",\"/fields/cites_sources\",\"/snapshots.json\",\"/snapshots/2026-10.md\",\"/snapshots/2026-10.csv\",\"/snapshots/2026-10.json\",\"/snapshots/2026-09.csv\",\"/snapshots/2026-09.json\",\"/snapshots/2026-09.md\",\"/questions/b1e41a4bbf179782994c46b459051bcdc8aa89f52103797e09588426375babdd\",\"/claims/82\",\"/questions/b35153b6fa9fcd738d70181548629cfc6af43dffe53d915d005f9434c55934e3\",\"/questions/b906094064ac6f4a0b93a1e80f5c08f85bcc55d61e111a7470c0060db6b8a635\",\"/snapshots/2026-10\",\"/questions/ad86eb3ffc87efd1193f2c197e68578302af90fd56f3c3c47c71e1667afc68d6\",\"/questions/5d6dd57f58b6d5635f4b8879d7bbac4209829087fb894e9f82e6c25ac5729768\",\"/questions/04bc3496ca5e873179cdaa0304b17d77da22a5435c83472d0b62f386ed4c1533\",\"/claims/43\"]",
+    "formats": "[\"txt\",\"html\",\"json\",\"md\",\"csv\"]",
+    "verified_share": 1,
+    "verified_requests": 29
+  },
+  {
+    "id": 233,
+    "date": "2026-10-22",
+    "entity_id": 13,
+    "requests": 16,
+    "paths": "[\"/claims/148\",\"/claims/95\",\"/data\",\"/\",\"/claims/9\",\"/claims/85.json\",\"/fields/what_it_controls\",\"/observed/google-extended\",\"/questions\",\"/claims/73\",\"/claims\",\"/changes\",\"/claims/57\",\"/observed/applebot-extended\",\"/compare/applebot-extended-vs-oai-adsbot\"]",
+    "formats": "[\"html\",\"json\"]",
+    "verified_share": 1,
+    "verified_requests": 16
   }
 ]
