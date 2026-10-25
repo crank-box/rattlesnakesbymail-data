@@ -247,4 +247,10 @@ date,tool,client_name,calls,avg_latency_ms
 2026-10-23,lookup_crawler,BrickBlueBot,1,23
 2026-10-23,lookup_crawler,mcp-browser,1,511
 2026-10-24,__verifymcp_auth_probe_44998c83398c3dd1__,verifymcp-probe,1,0
+2026-10-24,identify_user_agent,BrickBlueBot,1,30
+2026-10-24,list_changes,BrickBlueBot,1,167
+2026-10-24,list_changes,mcp-observatory,2,461
 2026-10-24,list_changes,rokmcp-probe,1,1508
+2026-10-24,lookup_crawler,BrickBlueBot,1,36
+2026-10-25,__verifymcp_auth_probe_664c87a3663a383d__,verifymcp-probe,1,0
+2026-10-25,list_changes,rokmcp-probe,1,146

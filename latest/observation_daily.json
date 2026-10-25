@@ -2328,5 +2328,55 @@
     "formats": "[\"html\",\"csv\",\"xml\",\"txt\"]",
     "verified_share": 1,
     "verified_requests": 20
+  },
+  {
+    "id": 240,
+    "date": "2026-10-24",
+    "entity_id": 1,
+    "requests": 3,
+    "paths": "[\"/sitemap-index.xml\",\"/sitemap-machine.xml\",\"/sitemap.xml\"]",
+    "formats": "[\"xml\"]",
+    "verified_share": 1,
+    "verified_requests": 3
+  },
+  {
+    "id": 241,
+    "date": "2026-10-24",
+    "entity_id": 2,
+    "requests": 5,
+    "paths": "[\"/robots.txt\",\"/\",\"/data\"]",
+    "formats": "[\"txt\",\"html\"]",
+    "verified_share": 1,
+    "verified_requests": 5
+  },
+  {
+    "id": 242,
+    "date": "2026-10-24",
+    "entity_id": 5,
+    "requests": 55,
+    "paths": "[\"/robots.txt\",\"/sitemap-machine.xml\",\"/sitemap-index.xml\",\"/sitemap.xml\",\"/questions/e08c55e6af0f8858dae0af2af4eb4caafe28dfb739f1ed4163e9cb0d954bb2ff.json\"]",
+    "formats": "[\"txt\",\"xml\",\"json\"]",
+    "verified_share": 1,
+    "verified_requests": 55
+  },
+  {
+    "id": 243,
+    "date": "2026-10-24",
+    "entity_id": 10,
+    "requests": 16,
+    "paths": "[\"/robots.txt\",\"/data\",\"/fields/publishes_ip_list\",\"/claims/77\",\"/snapshots.json\",\"/\",\"/compare/applebot-extended-vs-claude-user\",\"/claims/43\",\"/snapshots/2026-10\",\"/crawlers/chatgpt-user\"]",
+    "formats": "[\"txt\",\"html\",\"json\"]",
+    "verified_share": 1,
+    "verified_requests": 16
+  },
+  {
+    "id": 244,
+    "date": "2026-10-24",
+    "entity_id": 13,
+    "requests": 16,
+    "paths": "[\"/compare/gptbot-vs-perplexitybot\",\"/compare/google-extended-vs-gptbot\",\"/claims/144\",\"/data/latest\",\"/robots.txt\",\"/claims/23\",\"/claims/98\",\"/\",\"/claims/123\",\"/crawlers/applebot\",\"/compare/claude-user-vs-perplexity-user\",\"/sitemap.xml\",\"/claims/48\",\"/compare/google-extended-vs-oai-adsbot\",\"/claims/142\"]",
+    "formats": "[\"html\",\"txt\",\"xml\"]",
+    "verified_share": 1,
+    "verified_requests": 16
   }
 ]
