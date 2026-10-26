@@ -2378,5 +2378,55 @@
     "formats": "[\"html\",\"txt\",\"xml\"]",
     "verified_share": 1,
     "verified_requests": 16
+  },
+  {
+    "id": 245,
+    "date": "2026-10-25",
+    "entity_id": 1,
+    "requests": 3,
+    "paths": "[\"/sitemap-index.xml\",\"/sitemap.xml\",\"/sitemap-machine.xml\"]",
+    "formats": "[\"xml\"]",
+    "verified_share": 1,
+    "verified_requests": 3
+  },
+  {
+    "id": 246,
+    "date": "2026-10-25",
+    "entity_id": 2,
+    "requests": 2,
+    "paths": "[\"/robots.txt\"]",
+    "formats": "[\"txt\"]",
+    "verified_share": 1,
+    "verified_requests": 2
+  },
+  {
+    "id": 247,
+    "date": "2026-10-25",
+    "entity_id": 5,
+    "requests": 55,
+    "paths": "[\"/robots.txt\",\"/sitemap-machine.xml\",\"/sitemap-index.xml\",\"/sitemap.xml\"]",
+    "formats": "[\"txt\",\"xml\"]",
+    "verified_share": 1,
+    "verified_requests": 55
+  },
+  {
+    "id": 248,
+    "date": "2026-10-25",
+    "entity_id": 10,
+    "requests": 20,
+    "paths": "[\"/robots.txt\",\"/\",\"/favicon.ico\",\"/notes\",\"/search\",\"/crawlers/oai-searchbot\",\"/snapshots/2026-09.md\",\"/questions/6aa719abee602154bcfb38fc2c503493d4145501e25912e781b11faaa58f7b96\",\"/questions/62283b8afc52091cd7cc5c2fbea34e6abe849012ec779dd4dfabd0553e908f92\",\"/changes\",\"/snapshots/2026-10.md\",\"/snapshots/2026-10.csv\",\"/snapshots/2026-10.json\"]",
+    "formats": "[\"txt\",\"html\",\"md\",\"csv\",\"json\"]",
+    "verified_share": 1,
+    "verified_requests": 20
+  },
+  {
+    "id": 249,
+    "date": "2026-10-25",
+    "entity_id": 13,
+    "requests": 21,
+    "paths": "[\"/changes\",\"/data\",\"/compare/claude-searchbot-vs-gptbot\",\"/observed/oai-searchbot\",\"/claims/26\",\"/claims/35\",\"/data/latest/observation_daily.json\",\"/\",\"/fields/fallback_to_googlebot_rules\",\"/sitemap.xml\",\"/fields/robots_token_differs_from_ua\",\"/compare/applebot-vs-google-extended\",\"/claims/47\",\"/claims/39\",\"/claims/94\",\"/robots.txt\",\"/crawlers/claudebot\",\"/claims/9\",\"/data/latest\",\"/fields/what_it_controls\",\"/claims/16\"]",
+    "formats": "[\"html\",\"json\",\"xml\",\"txt\"]",
+    "verified_share": 1,
+    "verified_requests": 21
   }
 ]
