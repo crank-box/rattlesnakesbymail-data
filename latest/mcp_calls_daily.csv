@@ -265,3 +265,10 @@ date,tool,client_name,calls,avg_latency_ms
 2026-10-26,list_changes,rokmcp-probe,1,155
 2026-10-26,lookup_crawler,BrickBlueBot,1,28
 2026-10-27,__verifymcp_auth_probe_9d6b94d0e0b2df21__,verifymcp-probe,1,0
+2026-10-27,get_snapshot,BrickBlueBot,1,22
+2026-10-27,list_changes,FaceabotProbe,1,204
+2026-10-27,list_changes,rokmcp-probe,1,138
+2026-10-28,__verifymcp_auth_probe_5887e10ecf28e8ce__,verifymcp-probe,1,0
+2026-10-28,identify_user_agent,BrickBlueBot,1,30
+2026-10-28,list_changes,BrickBlueBot,1,149
+2026-10-28,lookup_crawler,BrickBlueBot,1,25

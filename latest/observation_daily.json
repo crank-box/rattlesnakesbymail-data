@@ -2498,5 +2498,55 @@
     "formats": "[\"txt\",\"json\"]",
     "verified_share": 1,
     "verified_requests": 2
+  },
+  {
+    "id": 257,
+    "date": "2026-10-27",
+    "entity_id": 1,
+    "requests": 4,
+    "paths": "[\"/sitemap-index.xml\",\"/sitemap-machine.xml\",\"/sitemap.xml\",\"/.well-known/agent-card.json\"]",
+    "formats": "[\"xml\",\"json\"]",
+    "verified_share": 1,
+    "verified_requests": 4
+  },
+  {
+    "id": 258,
+    "date": "2026-10-27",
+    "entity_id": 2,
+    "requests": 6,
+    "paths": "[\"/data\",\"/robots.txt\",\"/\"]",
+    "formats": "[\"html\",\"txt\"]",
+    "verified_share": 1,
+    "verified_requests": 6
+  },
+  {
+    "id": 259,
+    "date": "2026-10-27",
+    "entity_id": 5,
+    "requests": 31,
+    "paths": "[\"/robots.txt\",\"/sitemap.xml\",\"/sitemap-index.xml\",\"/sitemap-machine.xml\"]",
+    "formats": "[\"txt\",\"xml\"]",
+    "verified_share": 1,
+    "verified_requests": 31
+  },
+  {
+    "id": 260,
+    "date": "2026-10-27",
+    "entity_id": 10,
+    "requests": 29,
+    "paths": "[\"/robots.txt\",\"/snapshots/2026-10\",\"/questions/ead6f2ea7befe0fc2648df1d7c8f962c9401177a05083ad897c5c091b77e478e\",\"/crawlers/claude-user\",\"/questions/79eecbe2d7bc2af29cfcce69b6efa8c4f7a0ddf030db007febb54b96ecf43744\",\"/crawlers/googleother\",\"/questions/c9bda3cd18b64dcd629f9501c7c4828409827a87b8cb7c3ebe39c6e0ed4fe655\",\"/\",\"/questions/51970f2a642188fdd2973fc74cc4ba88eb887493a2c7bf670b8fd84f326afbb5\",\"/questions/44b47f316eb91d7f8193930add0ac1a207a59de7fa38768c9f96d8b21fee11ba\",\"/claims/43\",\"/questions/3050a0ef31fe84bc2169c49e6513e17941f48a2c15f4720e45038792c2c8d29d\",\"/claims/92\",\"/claims/88\",\"/claims/116\",\"/snapshots/2026-10.csv\",\"/crawlers/perplexitybot\",\"/questions/c1a2c20f142a7c2d2066ae6d41474c312396a2936a5ee55deb438dc71de7c81a\",\"/crawlers/claudebot\"]",
+    "formats": "[\"txt\",\"html\",\"csv\"]",
+    "verified_share": 1,
+    "verified_requests": 29
+  },
+  {
+    "id": 261,
+    "date": "2026-10-27",
+    "entity_id": 13,
+    "requests": 24,
+    "paths": "[\"/compare/gptbot-vs-oai-searchbot\",\"/observed/google-extended\",\"/data\",\"/sitemap.xml\",\"/claims/48\",\"/claims/14\",\"/fields/user_fetch_exception_documented\",\"/observed\",\"/\",\"/compare/claude-user-vs-perplexitybot\",\"/observed/perplexity-user\",\"/fields/respects_robots_txt\",\"/questions/a800346ce1243a685d6780ae2b5f91c373e30ceeb909dadca8f8eb1c84bfcf06\",\"/compare/claudebot-vs-oai-adsbot\",\"/questions/62283b8afc52091cd7cc5c2fbea34e6abe849012ec779dd4dfabd0553e908f92\",\"/fields/what_it_controls\",\"/robots.txt\",\"/claims/28\",\"/claims/116\",\"/observed/claudebot\",\"/fields/observed_requested_mcp_endpoint\",\"/claims/32\"]",
+    "formats": "[\"html\",\"xml\",\"txt\"]",
+    "verified_share": 1,
+    "verified_requests": 24
   }
 ]
