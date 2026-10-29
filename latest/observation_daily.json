@@ -2548,5 +2548,75 @@
     "formats": "[\"html\",\"xml\",\"txt\"]",
     "verified_share": 1,
     "verified_requests": 24
+  },
+  {
+    "id": 262,
+    "date": "2026-10-28",
+    "entity_id": 1,
+    "requests": 3,
+    "paths": "[\"/sitemap-index.xml\",\"/sitemap-machine.xml\",\"/sitemap.xml\"]",
+    "formats": "[\"xml\"]",
+    "verified_share": 1,
+    "verified_requests": 3
+  },
+  {
+    "id": 263,
+    "date": "2026-10-28",
+    "entity_id": 2,
+    "requests": 6,
+    "paths": "[\"/robots.txt\",\"/\",\"/data\"]",
+    "formats": "[\"txt\",\"html\"]",
+    "verified_share": 1,
+    "verified_requests": 6
+  },
+  {
+    "id": 264,
+    "date": "2026-10-28",
+    "entity_id": 3,
+    "requests": 2,
+    "paths": "[\"/.env.backup\",\"/dashboard\"]",
+    "formats": "[\"html\"]",
+    "verified_share": 0,
+    "verified_requests": 0
+  },
+  {
+    "id": 265,
+    "date": "2026-10-28",
+    "entity_id": 5,
+    "requests": 42,
+    "paths": "[\"/sitemap-index.xml\",\"/robots.txt\",\"/\",\"/sitemap.xml\",\"/sitemap-machine.xml\",\"/changes\"]",
+    "formats": "[\"xml\",\"txt\",\"html\"]",
+    "verified_share": 1,
+    "verified_requests": 42
+  },
+  {
+    "id": 266,
+    "date": "2026-10-28",
+    "entity_id": 10,
+    "requests": 35,
+    "paths": "[\"/robots.txt\",\"/questions/40d40a7e8b7733d1367a9185ae1bd0be486e49d8e0ce8db54a4fb3b737a9527e\",\"/notes\",\"/.docker/config.json\",\"/.env.bak\",\"/questions/988d882b4a74a8b8afb9f2d143bf2c538cecb7af4599cbaaa8260682d6aaf5b5\",\"/crawlers/gptbot\",\"/observed/bingbot\",\"/changes\",\"/observed\",\"/data\",\"/questions/9ee0f4ebae4d73368ef6e2fcd2b9855fdf6193cea50f84f0836280acc79fb436\",\"/snapshots/2026-09.csv\",\"/claims/61\",\"/claims/110\",\"/fields/cites_sources\",\"/claims/144\",\"/questions/017c61ed27755bc71f9927e3dc1b9cedb6883f2e4cc44574a86c9aebb395fb14\",\"/claims/62\",\"/claims/30\",\"/claims/112\"]",
+    "formats": "[\"txt\",\"html\",\"json\",\"csv\"]",
+    "verified_share": 0.9428571428571428,
+    "verified_requests": 33
+  },
+  {
+    "id": 267,
+    "date": "2026-10-28",
+    "entity_id": 11,
+    "requests": 2,
+    "paths": "[\"/snapshots\",\"/compare/claude-searchbot-vs-oai-searchbot\"]",
+    "formats": "[\"html\"]",
+    "verified_share": 1,
+    "verified_requests": 2
+  },
+  {
+    "id": 268,
+    "date": "2026-10-28",
+    "entity_id": 13,
+    "requests": 31,
+    "paths": "[\"/compare/bingbot-vs-googleother\",\"/claims/83\",\"/questions/c9bda3cd18b64dcd629f9501c7c4828409827a87b8cb7c3ebe39c6e0ed4fe655\",\"/claims/48\",\"/crawlers/perplexity-user.md\",\"/crawlers/gptbot.json\",\"/questions/e61346be3fef727db8cefe0257815575a03a33698acfb1e0059140169dbd35ee\",\"/questions.md\",\"/observed\",\"/claims/11\",\"/robots.txt\",\"/claims/17\",\"/fields/opt_out_mechanism.md\",\"/compare/googlebot-vs-googleother\",\"/claims/51\",\"/claims/41\",\"/\",\"/questions/d0b458517fb31268c7f8ec491094d483e38a6c87aa5c27109b3292365351b17c\",\"/claims/76\",\"/claims/105.md\",\"/data/latest/mcp_calls_daily.csv\",\"/claims/60\",\"/fields/what_it_controls\",\"/claims/31.md\",\"/observed/google-extended\",\"/claims/52\",\"/changes\",\"/claims/106\",\"/claims/35\",\"/sitemap.xml\",\"/crawlers/claudebot\"]",
+    "formats": "[\"html\",\"md\",\"json\",\"txt\",\"csv\",\"xml\"]",
+    "verified_share": 1,
+    "verified_requests": 31
   }
 ]
