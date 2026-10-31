@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T03:18:01.644Z",
+  "site": "Rattlesnakes By Mail",
+  "site_url": "https://rattlesnakesbymail.com",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "Rattlesnakes By Mail, rattlesnakesbymail.com",
+  "schema_version": "1",
+  "claim_url_pattern": "https://rattlesnakesbymail.com/claims/{id}",
+  "row_counts": {
+    "entities": 16,
+    "claims": 141,
+    "changes": 141,
+    "observation_daily": 276,
+    "questions": 49,
+    "notes": 2,
+    "mcp_calls_daily": 296
+  },
+  "snapshot_url": "https://261029.rattlesnakesbymail.com/?c=g"
+}

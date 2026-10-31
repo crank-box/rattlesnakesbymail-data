@@ -2698,5 +2698,65 @@
     "formats": "[\"txt\",\"html\"]",
     "verified_share": 1,
     "verified_requests": 2
+  },
+  {
+    "id": 277,
+    "date": "2026-10-30",
+    "entity_id": 1,
+    "requests": 3,
+    "paths": "[\"/sitemap-index.xml\",\"/sitemap.xml\",\"/sitemap-machine.xml\"]",
+    "formats": "[\"xml\"]",
+    "verified_share": 1,
+    "verified_requests": 3
+  },
+  {
+    "id": 278,
+    "date": "2026-10-30",
+    "entity_id": 2,
+    "requests": 7,
+    "paths": "[\"/robots.txt\",\"/data\",\"/observed/oai-searchbot\"]",
+    "formats": "[\"txt\",\"html\"]",
+    "verified_share": 1,
+    "verified_requests": 7
+  },
+  {
+    "id": 279,
+    "date": "2026-10-30",
+    "entity_id": 5,
+    "requests": 231,
+    "paths": "[\"/sitemap-machine.xml\",\"/sitemap-index.xml\",\"/observed/applebot\",\"/observed/bingbot\",\"/sitemap.xml\",\"/questions/f453cacd1535f4700e95bab1b1480233e943644b1baa9857d70aa5001c264ee7.md\",\"/questions/f453cacd1535f4700e95bab1b1480233e943644b1baa9857d70aa5001c264ee7.json\",\"/robots.txt\",\"/claims/75\",\"/claims/26\",\"/claims/69\",\"/claims/45\",\"/questions\",\"/claims/29\",\"/crawlers/perplexity-user\",\"/claims/22\",\"/observed\",\"/questions/4fd26a65bcb4f94d29d2a8ee92f5ec2208426425a69242efd5e4eb6f2daa84d6\",\"/questions/79eecbe2d7bc2af29cfcce69b6efa8c4f7a0ddf030db007febb54b96ecf43744\",\"/questions/9ee0f4ebae4d73368ef6e2fcd2b9855fdf6193cea50f84f0836280acc79fb436\",\"/questions/fa5fdcff6b8a0f1f36241b515fbf6f51d5576026bbc4bd682d8d02f1c7460e1a\",\"/questions/7feb07db1e122a5d282af651c372b074a5316ec9f2a5b3bb7c6ed6f7e941ca59\",\"/questions/ead6f2ea7befe0fc2648df1d7c8f962c9401177a05083ad897c5c091b77e478e\",\"/questions/3163fd879bdf5bb024eaf7d0d19ae5337f04474e1c6bc850ab124990d16e946d\",\"/questions/3008a9cd3da36dbd7db58b640d2b8c4f6e43e6a767ba573d5687bf39beb1bc64\",\"/questions/4fc955e1bb50d394bfad823b87d0b77f017ec05cb522fd90bdd876e7a4946a0b\",\"/questions/ae5ff38e6e254c7f33b7fcaeafdefdd7048c3656a7d00fde8995f34bd3a3d8ae\",\"/questions/988d882b4a74a8b8afb9f2d143bf2c538cecb7af4599cbaaa8260682d6aaf5b5\",\"/questions/62283b8afc52091cd7cc5c2fbea34e6abe849012ec779dd4dfabd0553e908f92\",\"/questions/a800346ce1243a685d6780ae2b5f91c373e30ceeb909dadca8f8eb1c84bfcf06\",\"/questions/017c61ed27755bc71f9927e3dc1b9cedb6883f2e4cc44574a86c9aebb395fb14\",\"/questions/e907942e1bacc44659550c7e988ff69b89006901ce87a91e4889809bbf7c5909\",\"/questions/b4c4d16c062cd8f6b799804db18126194f8bdefe8ee5e5c49c30f49f1ec3a706\",\"/questions/3050a0ef31fe84bc2169c49e6513e17941f48a2c15f4720e45038792c2c8d29d\",\"/questions/40d40a7e8b7733d1367a9185ae1bd0be486e49d8e0ce8db54a4fb3b737a9527e\",\"/questions/1f586f71a0be68ee8ece2002622ee024a39cf4f46b0b8891d41f99a8626f5123\",\"/questions/b35153b6fa9fcd738d70181548629cfc6af43dffe53d915d005f9434c55934e3\",\"/questions/51970f2a642188fdd2973fc74cc4ba88eb887493a2c7bf670b8fd84f326afbb5\",\"/questions/62e5fac0b418c8f526b41170e57e65ea34a46a6278b2d876fc267034103664fc\",\"/questions/c9bda3cd18b64dcd629f9501c7c4828409827a87b8cb7c3ebe39c6e0ed4fe655\",\"/questions/b906094064ac6f4a0b93a1e80f5c08f85bcc55d61e111a7470c0060db6b8a635\",\"/questions/b6282e25de55e809b2fc05b7b3c109a5d7029200175600460ce3a99c0ea2967e\",\"/questions/beb6bbb2d4693f277ef8dc453632449f11e9662a7ba33be712348f73944ce6d4\",\"/questions/b1e41a4bbf179782994c46b459051bcdc8aa89f52103797e09588426375babdd\",\"/questions/ad86eb3ffc87efd1193f2c197e68578302af90fd56f3c3c47c71e1667afc68d6\",\"/questions/f8f07730d83f7ba170bf4d0154a86b78d920a5147e7ca0e03ca8ec8c80a59193\",\"/questions/6aa719abee602154bcfb38fc2c503493d4145501e25912e781b11faaa58f7b96\",\"/questions/e091e35f0332f5c96f5d7a333659479e747c69c8c476931d742210bbbf0e557f\",\"/questions/ff1c6deb90d74278593d6248167ee2547b98b46bb983ee68299165f27051e26e\",\"/questions/c1a2c20f142a7c2d2066ae6d41474c312396a2936a5ee55deb438dc71de7c81a\",\"/questions/5d6dd57f58b6d5635f4b8879d7bbac4209829087fb894e9f82e6c25ac5729768\",\"/questions/44b47f316eb91d7f8193930add0ac1a207a59de7fa38768c9f96d8b21fee11ba\",\"/questions/263a3d5ba9e7e7d8ee555374ecf97a1bae8444842111226d90b1b3c2443761c1\",\"/questions/1b9367705cf69e0948797407e3f39c731987989f41388f692a9d1a8eb8358f83\",\"/questions/04bc3496ca5e873179cdaa0304b17d77da22a5435c83472d0b62f386ed4c1533\",\"/questions/4dea235b81a6d7edc7b8f1f2c105369421c0b89316a0759ba489d8a69d8d4a3b\",\"/questions/a86f29d86c0a795732314404684c110ab915c80ca08d0a4e4ec38527c642d974\",\"/questions/d0b458517fb31268c7f8ec491094d483e38a6c87aa5c27109b3292365351b17c\",\"/questions/28ab4ca1a97b70de471e253e4cc7a86059c59930cb5858e3465b35e48c71ff29\",\"/questions/19831deb9ab128884267ff7b26bb6fb86040e223b214ae652677f916039165f1\",\"/questions/79eecbe2d7bc2af29cfcce69b6efa8c4f7a0ddf030db007febb54b96ecf43744.json\",\"/questions/79eecbe2d7bc2af29cfcce69b6efa8c4f7a0ddf030db007febb54b96ecf43744.md\",\"/questions/4fd26a65bcb4f94d29d2a8ee92f5ec2208426425a69242efd5e4eb6f2daa84d6.json\",\"/questions/fa5fdcff6b8a0f1f36241b515fbf6f51d5576026bbc4bd682d8d02f1c7460e1a.json\",\"/questions/9ee0f4ebae4d73368ef6e2fcd2b9855fdf6193cea50f84f0836280acc79fb436.json\",\"/questions/7feb07db1e122a5d282af651c372b074a5316ec9f2a5b3bb7c6ed6f7e941ca59.json\",\"/questions/ead6f2ea7befe0fc2648df1d7c8f962c9401177a05083ad897c5c091b77e478e.json\",\"/questions/3008a9cd3da36dbd7db58b640d2b8c4f6e43e6a767ba573d5687bf39beb1bc64.json\",\"/questions/3163fd879bdf5bb024eaf7d0d19ae5337f04474e1c6bc850ab124990d16e946d.json\",\"/questions/4fd26a65bcb4f94d29d2a8ee92f5ec2208426425a69242efd5e4eb6f2daa84d6.md\",\"/questions/4fc955e1bb50d394bfad823b87d0b77f017ec05cb522fd90bdd876e7a4946a0b.json\",\"/questions/fa5fdcff6b8a0f1f36241b515fbf6f51d5576026bbc4bd682d8d02f1c7460e1a.md\",\"/questions/ae5ff38e6e254c7f33b7fcaeafdefdd7048c3656a7d00fde8995f34bd3a3d8ae.json\",\"/questions/62283b8afc52091cd7cc5c2fbea34e6abe849012ec779dd4dfabd0553e908f92.json\",\"/questions/a800346ce1243a685d6780ae2b5f91c373e30ceeb909dadca8f8eb1c84bfcf06.json\",\"/questions/988d882b4a74a8b8afb9f2d143bf2c538cecb7af4599cbaaa8260682d6aaf5b5.json\",\"/questions/9ee0f4ebae4d73368ef6e2fcd2b9855fdf6193cea50f84f0836280acc79fb436.md\",\"/questions/017c61ed27755bc71f9927e3dc1b9cedb6883f2e4cc44574a86c9aebb395fb14.json\",\"/questions/7feb07db1e122a5d282af651c372b074a5316ec9f2a5b3bb7c6ed6f7e941ca59.md\",\"/questions/ead6f2ea7befe0fc2648df1d7c8f962c9401177a05083ad897c5c091b77e478e.md\",\"/questions/3008a9cd3da36dbd7db58b640d2b8c4f6e43e6a767ba573d5687bf39beb1bc64.md\",\"/questions/3163fd879bdf5bb024eaf7d0d19ae5337f04474e1c6bc850ab124990d16e946d.md\",\"/questions/e907942e1bacc44659550c7e988ff69b89006901ce87a91e4889809bbf7c5909.json\",\"/questions/4fc955e1bb50d394bfad823b87d0b77f017ec05cb522fd90bdd876e7a4946a0b.md\",\"/questions/3050a0ef31fe84bc2169c49e6513e17941f48a2c15f4720e45038792c2c8d29d.json\",\"/questions/b4c4d16c062cd8f6b799804db18126194f8bdefe8ee5e5c49c30f49f1ec3a706.json\",\"/questions/1f586f71a0be68ee8ece2002622ee024a39cf4f46b0b8891d41f99a8626f5123.json\",\"/questions/40d40a7e8b7733d1367a9185ae1bd0be486e49d8e0ce8db54a4fb3b737a9527e.json\",\"/questions/ae5ff38e6e254c7f33b7fcaeafdefdd7048c3656a7d00fde8995f34bd3a3d8ae.md\",\"/questions/b35153b6fa9fcd738d70181548629cfc6af43dffe53d915d005f9434c55934e3.json\",\"/questions/988d882b4a74a8b8afb9f2d143bf2c538cecb7af4599cbaaa8260682d6aaf5b5.md\",\"/questions/62283b8afc52091cd7cc5c2fbea34e6abe849012ec779dd4dfabd0553e908f92.md\",\"/questions/51970f2a642188fdd2973fc74cc4ba88eb887493a2c7bf670b8fd84f326afbb5.json\",\"/questions/62e5fac0b418c8f526b41170e57e65ea34a46a6278b2d876fc267034103664fc.json\",\"/questions/c9bda3cd18b64dcd629f9501c7c4828409827a87b8cb7c3ebe39c6e0ed4fe655.json\",\"/questions/b906094064ac6f4a0b93a1e80f5c08f85bcc55d61e111a7470c0060db6b8a635.json\",\"/questions/a800346ce1243a685d6780ae2b5f91c373e30ceeb909dadca8f8eb1c84bfcf06.md\",\"/questions/017c61ed27755bc71f9927e3dc1b9cedb6883f2e4cc44574a86c9aebb395fb14.md\",\"/questions/beb6bbb2d4693f277ef8dc453632449f11e9662a7ba33be712348f73944ce6d4.json\",\"/questions/b1e41a4bbf179782994c46b459051bcdc8aa89f52103797e09588426375babdd.json\"]",
+    "formats": "[\"xml\",\"html\",\"md\",\"json\",\"txt\"]",
+    "verified_share": 1,
+    "verified_requests": 231
+  },
+  {
+    "id": 280,
+    "date": "2026-10-30",
+    "entity_id": 10,
+    "requests": 24,
+    "paths": "[\"/robots.txt\",\"/fields/publishes_ip_list\",\"/crawlers/gptbot\",\"/data\",\"/crawlers/reflectionbot\",\"/snapshots/2026-09.csv\",\"/compare/claude-searchbot-vs-perplexity-user\",\"/claims/13\",\"/claims/103\",\"/claims/21\",\"/crawlers/googlebot\",\"/sitemap.xml\",\"/crawlers/claudebot\",\"/observed/reflectionbot\",\"/observed/google-extended\"]",
+    "formats": "[\"txt\",\"html\",\"csv\",\"xml\"]",
+    "verified_share": 1,
+    "verified_requests": 24
+  },
+  {
+    "id": 281,
+    "date": "2026-10-30",
+    "entity_id": 11,
+    "requests": 1,
+    "paths": "[\"/crawlers/reflectionbot\"]",
+    "formats": "[\"html\"]",
+    "verified_share": 1,
+    "verified_requests": 1
+  },
+  {
+    "id": 282,
+    "date": "2026-10-30",
+    "entity_id": 13,
+    "requests": 33,
+    "paths": "[\"/compare/applebot-extended-vs-googleother\",\"/data/latest/questions.csv\",\"/questions/017c61ed27755bc71f9927e3dc1b9cedb6883f2e4cc44574a86c9aebb395fb14\",\"/robots.txt\",\"/questions/79eecbe2d7bc2af29cfcce69b6efa8c4f7a0ddf030db007febb54b96ecf43744\",\"/claims/104\",\"/\",\"/claims/23\",\"/sitemap.xml\",\"/claims/132\",\"/claims/94.md\",\"/changes.xml\",\"/observed/oai-adsbot\",\"/compare/claude-searchbot-vs-perplexitybot\",\"/crawlers/applebot\",\"/observed/google-extended\",\"/questions/9ee0f4ebae4d73368ef6e2fcd2b9855fdf6193cea50f84f0836280acc79fb436\",\"/claims/40.md\",\"/questions/beb6bbb2d4693f277ef8dc453632449f11e9662a7ba33be712348f73944ce6d4\",\"/claims/67\",\"/questions/c1a2c20f142a7c2d2066ae6d41474c312396a2936a5ee55deb438dc71de7c81a\",\"/fields/observed_requested_mcp_endpoint\",\"/claims/26\",\"/claims/7\",\"/claims/52\",\"/claims/106\",\"/claims/35\",\"/claims/4\",\"/claims/21.md\"]",
+    "formats": "[\"html\",\"csv\",\"txt\",\"xml\",\"md\"]",
+    "verified_share": 1,
+    "verified_requests": 33
   }
 ]
