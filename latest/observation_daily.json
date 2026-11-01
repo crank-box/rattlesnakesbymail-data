@@ -2758,5 +2758,65 @@
     "formats": "[\"html\",\"csv\",\"txt\",\"xml\",\"md\"]",
     "verified_share": 1,
     "verified_requests": 33
+  },
+  {
+    "id": 283,
+    "date": "2026-10-31",
+    "entity_id": 1,
+    "requests": 3,
+    "paths": "[\"/sitemap-index.xml\",\"/sitemap.xml\",\"/sitemap-machine.xml\"]",
+    "formats": "[\"xml\"]",
+    "verified_share": 1,
+    "verified_requests": 3
+  },
+  {
+    "id": 284,
+    "date": "2026-10-31",
+    "entity_id": 2,
+    "requests": 6,
+    "paths": "[\"/robots.txt\",\"/observed/oai-searchbot\",\"/\",\"/data\"]",
+    "formats": "[\"txt\",\"html\"]",
+    "verified_share": 1,
+    "verified_requests": 6
+  },
+  {
+    "id": 285,
+    "date": "2026-10-31",
+    "entity_id": 5,
+    "requests": 67,
+    "paths": "[\"/robots.txt\",\"/sitemap-index.xml\",\"/sitemap-machine.xml\",\"/sitemap.xml\",\"/claims/117\"]",
+    "formats": "[\"txt\",\"xml\",\"html\"]",
+    "verified_share": 1,
+    "verified_requests": 67
+  },
+  {
+    "id": 286,
+    "date": "2026-10-31",
+    "entity_id": 10,
+    "requests": 47,
+    "paths": "[\"/compare/gptbot-vs-perplexitybot\",\"/robots.txt\",\"/compare/applebot-extended-vs-claude-searchbot\",\"/crawlers\",\"/compare/applebot-extended-vs-oai-adsbot\",\"/crawlers/chatgpt-user\",\"/crawlers/oai-adsbot\",\"/claims/53\",\"/\",\"/observed/bingbot\",\"/claims/99\",\"/site/\",\"/site/wp-json/\",\"/blog/\",\"/wp/\",\"/news/\",\"/cms/\",\"/wordpress/wp-json/\",\"/claims/51\",\"/claims/59\",\"/compare/claude-user-vs-oai-searchbot\",\"/claims/145\",\"/observed/applebot\",\"/questions/c9bda3cd18b64dcd629f9501c7c4828409827a87b8cb7c3ebe39c6e0ed4fe655\",\"/claims/43\",\"/claims/14\",\"/claims/75\",\"/claims/147\",\"/observed/applebot-extended\",\"/compare/claudebot-vs-oai-searchbot\",\"/claims/78\"]",
+    "formats": "[\"html\",\"txt\"]",
+    "verified_share": 0.8085106382978723,
+    "verified_requests": 38
+  },
+  {
+    "id": 287,
+    "date": "2026-10-31",
+    "entity_id": 13,
+    "requests": 30,
+    "paths": "[\"/data/latest\",\"/observed/oai-searchbot\",\"/compare/bingbot-vs-claude-user\",\"/sitemap.xml\",\"/claims/48\",\"/fields/respects_robots_txt\",\"/\",\"/claims/112\",\"/compare/oai-adsbot-vs-perplexitybot\",\"/claims/78\",\"/claims/11\",\"/fields/fallback_to_googlebot_rules\",\"/compare/bingbot-vs-oai-searchbot\",\"/claims/49\",\"/compare/applebot-vs-claudebot.md\",\"/mcp\",\"/claims/73\",\"/claims/12\",\"/compare/googleother-vs-perplexity-user\",\"/claims/76\",\"/fields/purpose_documented\",\"/changes\",\"/claims/116\",\"/claims/94\",\"/claims/67\",\"/claims/28\",\"/questions/40d40a7e8b7733d1367a9185ae1bd0be486e49d8e0ce8db54a4fb3b737a9527e\"]",
+    "formats": "[\"html\",\"xml\",\"md\",\"json\"]",
+    "verified_share": 1,
+    "verified_requests": 30
+  },
+  {
+    "id": 288,
+    "date": "2026-10-31",
+    "entity_id": 14,
+    "requests": 6,
+    "paths": "[\"/robots.txt\",\"/sitemap.xml\",\"/sitemap-machine.xml\",\"/sitemap-index.xml\",\"/sitemap-snapshots.xml\"]",
+    "formats": "[\"txt\",\"xml\"]",
+    "verified_share": 1,
+    "verified_requests": 6
   }
 ]
