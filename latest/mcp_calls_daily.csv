@@ -303,3 +303,11 @@ date,tool,client_name,calls,avg_latency_ms
 2026-10-31,list_changes,rokmcp-probe,1,140
 2026-10-31,lookup_crawler,BrickBlueBot,1,28
 2026-11-01,__verifymcp_auth_probe_d349f5174e91a608__,verifymcp-probe,1,0
+2026-11-01,get_snapshot,BrickBlueBot,1,7
+2026-11-01,identify_user_agent,BrickBlueBot,1,30
+2026-11-01,list_changes,BrickBlueBot,1,157
+2026-11-01,list_changes,agent-index-prober,1,195
+2026-11-01,list_changes,creora-verified-execution,1,176
+2026-11-01,list_changes,rokmcp-probe,1,154
+2026-11-01,lookup_crawler,BrickBlueBot,1,32
+2026-11-02,__verifymcp_auth_probe_e57db8fb6fe090f7__,verifymcp-probe,1,0
