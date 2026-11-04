@@ -318,6 +318,14 @@ date,tool,client_name,calls,avg_latency_ms
 2026-11-02,list_changes,rokmcp-probe,1,143
 2026-11-02,lookup_crawler,BrickBlueBot,1,29
 2026-11-03,__verifymcp_auth_probe_7aa1535df10d8209__,verifymcp-probe,1,0
+2026-11-03,get_snapshot,BrickBlueBot,1,5
+2026-11-03,identify_user_agent,BrickBlueBot,1,23
 2026-11-03,identify_user_agent,smartbench-use-test,1,120
+2026-11-03,list_changes,BrickBlueBot,1,133
+2026-11-03,list_changes,agent-index-prober,1,229
+2026-11-03,list_changes,rokmcp-probe,1,154
 2026-11-03,list_changes,smartbench-use-test,2,105
+2026-11-03,lookup_crawler,BrickBlueBot,1,24
 2026-11-03,lookup_crawler,smartbench-use-test,1,503
+2026-11-03,lookup_crawler,unknown,1,108
+2026-11-04,__verifymcp_auth_probe_502bc58503ba1f55__,verifymcp-probe,1,0
