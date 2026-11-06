@@ -338,3 +338,10 @@ date,tool,client_name,calls,avg_latency_ms
 2026-11-04,lookup_crawler,BrickBlueBot,1,46
 2026-11-04,lookup_crawler,mcpyp-incremental,1,86
 2026-11-05,__verifymcp_auth_probe_7c995f73409255ed__,verifymcp-probe,1,0
+2026-11-05,get_snapshot,BrickBlueBot,1,3
+2026-11-05,identify_user_agent,BrickBlueBot,1,37
+2026-11-05,list_changes,BrickBlueBot,1,161
+2026-11-05,list_changes,agent-index-prober,1,179
+2026-11-05,list_changes,rokmcp-probe,1,155
+2026-11-05,lookup_crawler,BrickBlueBot,1,87
+2026-11-06,__verifymcp_auth_probe_72eb60ef0a27bec3__,verifymcp-probe,1,0

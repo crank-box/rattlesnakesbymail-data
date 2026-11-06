@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-05",
-  "generated_at": "2026-11-05T03:18:01.607Z",
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T03:18:01.378Z",
   "site": "Rattlesnakes By Mail",
   "site_url": "https://rattlesnakesbymail.com",
   "license": "CC BY 4.0",
@@ -12,10 +12,10 @@
     "entities": 16,
     "claims": 141,
     "changes": 141,
-    "observation_daily": 314,
+    "observation_daily": 321,
     "questions": 49,
     "notes": 2,
-    "mcp_calls_daily": 339
+    "mcp_calls_daily": 346
   },
-  "snapshot_url": "https://261103.rattlesnakesbymail.com/?c=g"
+  "snapshot_url": "https://261104.rattlesnakesbymail.com/?c=g"
 }
