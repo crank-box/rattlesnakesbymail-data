@@ -3208,5 +3208,75 @@
     "formats": "[\"md\",\"json\",\"txt\"]",
     "verified_share": 1,
     "verified_requests": 9
+  },
+  {
+    "id": 328,
+    "date": "2026-11-06",
+    "entity_id": 1,
+    "requests": 4,
+    "paths": "[\"/sitemap-index.xml\",\"/sitemap.xml\",\"/sitemap-machine.xml\",\"/snapshots/2026-10\"]",
+    "formats": "[\"xml\",\"html\"]",
+    "verified_share": 1,
+    "verified_requests": 4
+  },
+  {
+    "id": 329,
+    "date": "2026-11-06",
+    "entity_id": 2,
+    "requests": 5,
+    "paths": "[\"/robots.txt\",\"/\",\"/data\"]",
+    "formats": "[\"txt\",\"html\"]",
+    "verified_share": 1,
+    "verified_requests": 5
+  },
+  {
+    "id": 330,
+    "date": "2026-11-06",
+    "entity_id": 5,
+    "requests": 48,
+    "paths": "[\"/robots.txt\",\"/sitemap-machine.xml\",\"/sitemap.xml\",\"/sitemap-index.xml\",\"/mcp\"]",
+    "formats": "[\"txt\",\"xml\",\"json\"]",
+    "verified_share": 1,
+    "verified_requests": 48
+  },
+  {
+    "id": 331,
+    "date": "2026-11-06",
+    "entity_id": 10,
+    "requests": 84,
+    "paths": "[\"/robots.txt\",\"/claims/50\",\"/fields/what_it_controls\",\"/snapshots/2026-10.json\",\"/claims/28\",\"/snapshots/2026-10\",\"/snapshots/2026-10.md\",\"/fields\",\"/questions/44b47f316eb91d7f8193930add0ac1a207a59de7fa38768c9f96d8b21fee11ba\",\"/claims/4\",\"/claims/23\",\"/crawlers/claude-user\",\"/claims/150\",\"/compare/oai-adsbot-vs-oai-searchbot\",\"/compare/chatgpt-user-vs-perplexitybot\",\"/claims/132\",\"/questions/b906094064ac6f4a0b93a1e80f5c08f85bcc55d61e111a7470c0060db6b8a635\",\"/data/latest/claims.json\",\"/claims/120\",\"/favicon.ico\",\"/changes\",\"/claims/90\",\"/.well-known/glama.json\",\"/sitemap.xml\",\"/fields/observed_requested_mcp_endpoint\",\"/claims/123\",\"/claims/115\",\"/\",\"/claims/38\",\"/claims/49\",\"/questions/40d40a7e8b7733d1367a9185ae1bd0be486e49d8e0ce8db54a4fb3b737a9527e\",\"/data/latest\",\"/fields/cites_sources\",\"/claims/56\",\"/claims/61\",\"/fields/user_fetch_exception_documented\",\"/claims/104\",\"/fields/anti_circumvention_stance\",\"/fields/observed_first_request_path\",\"/compare/chatgpt-user-vs-googlebot\",\"/compare/oai-adsbot-vs-perplexitybot\",\"/fields/observed_format_pass_order\",\"/claims/8\",\"/compare/applebot-extended-vs-googleother\",\"/fields/separate_search_and_training_tokens\",\"/claims/124\",\"/compare/bingbot-vs-perplexity-user\",\"/compare/chatgpt-user-vs-gptbot\",\"/compare/claude-user-vs-googlebot\"]",
+    "formats": "[\"txt\",\"html\",\"json\",\"md\",\"xml\"]",
+    "verified_share": 1,
+    "verified_requests": 84
+  },
+  {
+    "id": 332,
+    "date": "2026-11-06",
+    "entity_id": 13,
+    "requests": 44,
+    "paths": "[\"/data\",\"/claims/48\",\"/questions/eaaa86558b443873916376dc4d0546f60ee5d890631698c41768fb619582451c\",\"/claims/23\",\"/sitemap.xml\",\"/claims/143\",\"/snapshots/2026-10\",\"/snapshots/2026-10.json\",\"/claims/113\",\"/snapshots/2026-10.md\",\"/changes\",\"/claims/27\",\"/\",\"/claims/119\",\"/fields/separate_search_and_training_tokens\",\"/claims/121\",\"/claims/108.md\",\"/claims/106\",\"/claims/146\",\"/claims/116\",\"/compare/claude-searchbot-vs-oai-searchbot.json\",\"/claims/79.json\",\"/snapshots/2026-10.csv\",\"/claims/35\",\"/crawlers/googleother\",\"/compare/bingbot-vs-perplexitybot\",\"/claims/120\",\"/claims/40\",\"/claims/49\",\"/claims/38\",\"/claims/45\"]",
+    "formats": "[\"html\",\"xml\",\"json\",\"md\",\"csv\"]",
+    "verified_share": 1,
+    "verified_requests": 44
+  },
+  {
+    "id": 333,
+    "date": "2026-11-06",
+    "entity_id": 14,
+    "requests": 9,
+    "paths": "[\"/robots.txt\",\"/fields/observed_fetches_robots_txt.json\",\"/snapshots.json\",\"/snapshots/2026-09.md\",\"/compare.json\",\"/observed/oai-adsbot.json\"]",
+    "formats": "[\"txt\",\"json\",\"md\"]",
+    "verified_share": 1,
+    "verified_requests": 9
+  },
+  {
+    "id": 334,
+    "date": "2026-11-06",
+    "entity_id": 16,
+    "requests": 5,
+    "paths": "[\"/robots.txt\",\"/notes\",\"/snapshots/2026-09.md\",\"/snapshots/2026-09.csv\",\"/snapshots/2026-09.json\"]",
+    "formats": "[\"txt\",\"html\",\"md\",\"csv\",\"json\"]",
+    "verified_share": 1,
+    "verified_requests": 5
   }
 ]
