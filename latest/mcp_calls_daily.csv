@@ -365,3 +365,10 @@ date,tool,client_name,calls,avg_latency_ms
 2026-11-07,lookup_crawler,BrickBlueBot,1,35
 2026-11-08,__verifymcp_auth_probe_90a445c3a1a5cc93__,verifymcp-probe,1,0
 2026-11-08,get_snapshot,BrickBlueBot,1,2
+2026-11-08,identify_user_agent,BrickBlueBot,1,89
+2026-11-08,list_changes,BrickBlueBot,1,212
+2026-11-08,list_changes,agent-index-prober,1,222
+2026-11-08,list_changes,creora-verified-execution,1,171
+2026-11-08,list_changes,rokmcp-probe,1,152
+2026-11-08,lookup_crawler,BrickBlueBot,1,57
+2026-11-09,__verifymcp_auth_probe_60aef1057b3fdfc2__,verifymcp-probe,1,0

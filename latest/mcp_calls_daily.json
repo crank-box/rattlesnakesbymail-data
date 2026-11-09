@@ -2560,5 +2560,54 @@
     "client_name": "BrickBlueBot",
     "calls": 1,
     "avg_latency_ms": 2
+  },
+  {
+    "date": "2026-11-08",
+    "tool": "identify_user_agent",
+    "client_name": "BrickBlueBot",
+    "calls": 1,
+    "avg_latency_ms": 89
+  },
+  {
+    "date": "2026-11-08",
+    "tool": "list_changes",
+    "client_name": "BrickBlueBot",
+    "calls": 1,
+    "avg_latency_ms": 212
+  },
+  {
+    "date": "2026-11-08",
+    "tool": "list_changes",
+    "client_name": "agent-index-prober",
+    "calls": 1,
+    "avg_latency_ms": 222
+  },
+  {
+    "date": "2026-11-08",
+    "tool": "list_changes",
+    "client_name": "creora-verified-execution",
+    "calls": 1,
+    "avg_latency_ms": 171
+  },
+  {
+    "date": "2026-11-08",
+    "tool": "list_changes",
+    "client_name": "rokmcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 152
+  },
+  {
+    "date": "2026-11-08",
+    "tool": "lookup_crawler",
+    "client_name": "BrickBlueBot",
+    "calls": 1,
+    "avg_latency_ms": 57
+  },
+  {
+    "date": "2026-11-09",
+    "tool": "__verifymcp_auth_probe_60aef1057b3fdfc2__",
+    "client_name": "verifymcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 0
   }
 ]

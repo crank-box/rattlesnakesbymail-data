@@ -3348,5 +3348,75 @@
     "formats": "[\"txt\",\"html\"]",
     "verified_share": 1,
     "verified_requests": 2
+  },
+  {
+    "id": 342,
+    "date": "2026-11-08",
+    "entity_id": 1,
+    "requests": 4,
+    "paths": "[\"/sitemap-index.xml\",\"/sitemap.xml\",\"/sitemap-machine.xml\",\"/snapshots/2026-10\"]",
+    "formats": "[\"xml\",\"html\"]",
+    "verified_share": 1,
+    "verified_requests": 4
+  },
+  {
+    "id": 343,
+    "date": "2026-11-08",
+    "entity_id": 2,
+    "requests": 5,
+    "paths": "[\"/robots.txt\",\"/\",\"/data\"]",
+    "formats": "[\"txt\",\"html\"]",
+    "verified_share": 1,
+    "verified_requests": 5
+  },
+  {
+    "id": 344,
+    "date": "2026-11-08",
+    "entity_id": 5,
+    "requests": 48,
+    "paths": "[\"/robots.txt\",\"/sitemap-index.xml\",\"/sitemap.xml\",\"/sitemap-machine.xml\"]",
+    "formats": "[\"txt\",\"xml\"]",
+    "verified_share": 1,
+    "verified_requests": 48
+  },
+  {
+    "id": 345,
+    "date": "2026-11-08",
+    "entity_id": 10,
+    "requests": 46,
+    "paths": "[\"/robots.txt\",\"/claims/62\",\"/crawlers/oai-searchbot\",\"/questions/44b47f316eb91d7f8193930add0ac1a207a59de7fa38768c9f96d8b21fee11ba\",\"/compare/oai-adsbot-vs-perplexitybot\",\"/compare/applebot-extended-vs-perplexitybot\",\"/changes\",\"/fields/user_fetch_exception_documented\",\"/snapshots/2026-10\",\"/fields/separate_search_and_training_tokens\",\"/fields/observed_fetches_markdown\",\"/fields\",\"/crawlers/bingbot\",\"/claims/124\",\"/favicon.ico\",\"/observed/googleother\",\"/sitemap.xml\",\"/claims/66\",\"/questions/064f0033dab1091575ab29137f558668ff6193e891221987fd9523c31b4ff78f\",\"/fields/\",\"/crawlers/googleother\",\"/questions/3163fd879bdf5bb024eaf7d0d19ae5337f04474e1c6bc850ab124990d16e946d\",\"/fields/observed_requested_mcp_endpoint\"]",
+    "formats": "[\"txt\",\"html\",\"xml\"]",
+    "verified_share": 1,
+    "verified_requests": 46
+  },
+  {
+    "id": 346,
+    "date": "2026-11-08",
+    "entity_id": 13,
+    "requests": 51,
+    "paths": "[\"/claims/120\",\"/data/latest\",\"/claims/41\",\"/sitemap.xml\",\"/questions/b4c4d16c062cd8f6b799804db18126194f8bdefe8ee5e5c49c30f49f1ec3a706\",\"/claims/49\",\"/snapshots/2026-10\",\"/claims/38\",\"/snapshots/2026-10.csv\",\"/snapshots/2026-10.md\",\"/compare/applebot-vs-applebot-extended\",\"/snapshots/2026-10.json\",\"/claims/15\",\"/data\",\"/claims/101\",\"/claims/23.md\",\"/robots.txt\",\"/claims/78\",\"/compare/gptbot-vs-oai-adsbot\",\"/compare/googlebot-vs-oai-adsbot\",\"/changes\",\"/\",\"/claims/55\",\"/fields/observed_first_request_path\",\"/questions/b35153b6fa9fcd738d70181548629cfc6af43dffe53d915d005f9434c55934e3\",\"/compare/claudebot-vs-gptbot.json\",\"/observed/oai-searchbot\",\"/fields/fallback_to_googlebot_rules\",\"/compare/claudebot-vs-gptbot.md\"]",
+    "formats": "[\"html\",\"xml\",\"csv\",\"md\",\"json\",\"txt\"]",
+    "verified_share": 1,
+    "verified_requests": 51
+  },
+  {
+    "id": 347,
+    "date": "2026-11-08",
+    "entity_id": 14,
+    "requests": 8,
+    "paths": "[\"/robots.txt\",\"/fields/robots_txt_fetch_marker.json\",\"/compare.json\",\"/fields/robots_token_differs_from_ua.md\",\"/snapshots/2026-10.csv\",\"/fields/robots_txt_token.json\",\"/fields/robots_txt_token.md\"]",
+    "formats": "[\"txt\",\"json\",\"md\",\"csv\"]",
+    "verified_share": 1,
+    "verified_requests": 8
+  },
+  {
+    "id": 348,
+    "date": "2026-11-08",
+    "entity_id": 16,
+    "requests": 2,
+    "paths": "[\"/questions/eaaa86558b443873916376dc4d0546f60ee5d890631698c41768fb619582451c\",\"/search\"]",
+    "formats": "[\"html\"]",
+    "verified_share": 1,
+    "verified_requests": 2
   }
 ]
