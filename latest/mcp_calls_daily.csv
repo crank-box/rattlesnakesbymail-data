@@ -371,4 +371,15 @@ date,tool,client_name,calls,avg_latency_ms
 2026-11-08,list_changes,creora-verified-execution,1,171
 2026-11-08,list_changes,rokmcp-probe,1,152
 2026-11-08,lookup_crawler,BrickBlueBot,1,57
+2026-11-09,__mcp_index_nonexistent__,mcp-index,6,0
 2026-11-09,__verifymcp_auth_probe_60aef1057b3fdfc2__,verifymcp-probe,1,0
+2026-11-09,get_snapshot,BrickBlueBot,1,5
+2026-11-09,identify_user_agent,BrickBlueBot,1,57
+2026-11-09,identify_user_agent,mcpyp-incremental,1,102
+2026-11-09,list_changes,BrickBlueBot,1,187
+2026-11-09,list_changes,mcp,2,179
+2026-11-09,list_changes,mcpyp-incremental,1,252
+2026-11-09,list_changes,rokmcp-probe,1,172
+2026-11-09,lookup_crawler,BrickBlueBot,1,52
+2026-11-09,lookup_crawler,mcpyp-incremental,1,117
+2026-11-10,__verifymcp_auth_probe_cfd3a81ffdfe8cc6__,verifymcp-probe,1,0

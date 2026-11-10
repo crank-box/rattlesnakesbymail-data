@@ -1,0 +1,142 @@
+id,claim_id,entity_id,changed_at,kind,old_value,new_value,evidence_url,note
+1,1,15,2026-09-13T00:00:00Z,new,,n/a,https://support.apple.com/en-us/119829,P0.3 seed batch
+2,2,15,2026-09-13T00:00:00Z,new,,n/a,https://support.apple.com/en-us/119829,P0.3 seed batch
+3,3,15,2026-09-13T00:00:00Z,new,,no,https://support.apple.com/en-us/119829,P0.3 seed batch
+4,4,15,2026-09-13T00:00:00Z,new,,n/a,https://support.apple.com/en-us/119829,P0.3 seed batch
+5,5,15,2026-09-13T00:00:00Z,new,,policy_only,https://support.apple.com/en-us/119829,P0.3 seed batch
+6,6,15,2026-09-13T00:00:00Z,new,,yes,https://support.apple.com/en-us/119829,P0.3 seed batch
+7,7,15,2026-09-13T00:00:00Z,new,,"AI training use of content, not search indexing",https://support.apple.com/en-us/119829,P0.3 seed batch
+8,8,15,2026-09-13T00:00:00Z,new,,yes,https://support.apple.com/en-us/119829,P0.3 seed batch
+9,9,14,2026-09-13T00:00:00Z,new,,yes,https://support.apple.com/en-us/119829,P0.3 seed batch
+10,10,14,2026-09-13T00:00:00Z,new,,no,https://support.apple.com/en-us/119829,P0.3 seed batch
+11,11,14,2026-09-13T00:00:00Z,new,,yes,https://search.developer.apple.com/applebot.json,P0.3 seed batch
+12,12,14,2026-09-13T00:00:00Z,new,,yes,https://support.apple.com/en-us/119829,P0.3 seed batch
+13,13,14,2026-09-13T00:00:00Z,new,,mixed,https://support.apple.com/en-us/119829,P0.3 seed batch
+14,14,14,2026-09-13T00:00:00Z,new,,partial,https://support.apple.com/en-us/119829,P0.3 seed batch
+15,15,14,2026-09-13T00:00:00Z,new,,yes,https://support.apple.com/en-us/119829,P0.3 seed batch
+16,16,14,2026-09-13T00:00:00Z,new,,not_documented,https://support.apple.com/en-us/119829,P0.3 seed batch
+17,17,14,2026-09-13T00:00:00Z,new,,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15 (Applebot/0.1; +http://www.apple.com/go/applebot)",https://support.apple.com/en-us/119829,P0.3 seed batch
+18,18,14,2026-09-13T00:00:00Z,new,,yes,https://support.apple.com/en-us/119829,P0.3 seed batch
+19,19,3,2026-09-13T00:00:00Z,new,,partial,https://developers.openai.com/api/docs/bots,P0.3 seed batch
+20,20,3,2026-09-13T00:00:00Z,new,,not_documented,https://developers.openai.com/api/docs/bots,P0.3 seed batch
+21,21,3,2026-09-13T00:00:00Z,new,,yes,https://openai.com/chatgpt-user.json,P0.3 seed batch
+22,22,3,2026-09-13T00:00:00Z,new,,not_documented,https://developers.openai.com/api/docs/bots,P0.3 seed batch
+23,23,3,2026-09-13T00:00:00Z,new,,user_fetch,https://developers.openai.com/api/docs/bots,P0.3 seed batch
+24,24,3,2026-09-13T00:00:00Z,new,,not_documented,https://developers.openai.com/api/docs/bots,P0.3 seed batch
+25,25,3,2026-09-13T00:00:00Z,new,,not_documented,https://developers.openai.com/api/docs/bots,P0.3 seed batch
+26,26,3,2026-09-13T00:00:00Z,new,,not_documented,https://developers.openai.com/api/docs/bots,P0.3 seed batch
+27,27,3,2026-09-13T00:00:00Z,new,,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",https://developers.openai.com/api/docs/bots,P0.3 seed batch
+28,28,6,2026-09-13T00:00:00Z,new,,yes,https://support.claude.com/en/articles/8896518-does-anthropic-crawl-content-from-the-web-and-how-can-site-owners-block-the-crawler,P0.3 seed batch
+29,29,6,2026-09-13T00:00:00Z,new,,yes,https://support.claude.com/en/articles/8896518-does-anthropic-crawl-content-from-the-web-and-how-can-site-owners-block-the-crawler,P0.3 seed batch
+30,30,6,2026-09-13T00:00:00Z,new,,yes,https://claude.com/crawling/bots.json,P0.3 seed batch
+31,31,6,2026-09-13T00:00:00Z,new,,not_documented,https://support.claude.com/en/articles/8896518-does-anthropic-crawl-content-from-the-web-and-how-can-site-owners-block-the-crawler,P0.3 seed batch
+32,32,6,2026-09-13T00:00:00Z,new,,search,https://support.claude.com/en/articles/8896518-does-anthropic-crawl-content-from-the-web-and-how-can-site-owners-block-the-crawler,P0.3 seed batch
+33,33,6,2026-09-13T00:00:00Z,new,,yes,https://support.claude.com/en/articles/8896518-does-anthropic-crawl-content-from-the-web-and-how-can-site-owners-block-the-crawler,P0.3 seed batch
+34,34,6,2026-09-13T00:00:00Z,new,,not_documented,https://support.claude.com/en/articles/8896518-does-anthropic-crawl-content-from-the-web-and-how-can-site-owners-block-the-crawler,P0.3 seed batch
+35,35,6,2026-09-13T00:00:00Z,new,,not_documented,https://support.claude.com/en/articles/8896518-does-anthropic-crawl-content-from-the-web-and-how-can-site-owners-block-the-crawler,P0.3 seed batch
+36,36,6,2026-09-13T00:00:00Z,new,,not_documented,https://support.claude.com/en/articles/8896518-does-anthropic-crawl-content-from-the-web-and-how-can-site-owners-block-the-crawler,P0.3 seed batch
+37,37,7,2026-09-13T00:00:00Z,new,,yes,https://support.claude.com/en/articles/8896518-does-anthropic-crawl-content-from-the-web-and-how-can-site-owners-block-the-crawler,P0.3 seed batch
+38,38,7,2026-09-13T00:00:00Z,new,,no,https://support.claude.com/en/articles/8896518-does-anthropic-crawl-content-from-the-web-and-how-can-site-owners-block-the-crawler,P0.3 seed batch
+39,39,7,2026-09-13T00:00:00Z,new,,yes,https://support.claude.com/en/articles/8896518-does-anthropic-crawl-content-from-the-web-and-how-can-site-owners-block-the-crawler,P0.3 seed batch
+40,40,7,2026-09-13T00:00:00Z,new,,yes,https://claude.com/crawling/bots.json,P0.3 seed batch
+41,41,7,2026-09-13T00:00:00Z,new,,not_documented,https://support.claude.com/en/articles/8896518-does-anthropic-crawl-content-from-the-web-and-how-can-site-owners-block-the-crawler,P0.3 seed batch
+42,42,7,2026-09-13T00:00:00Z,new,,user_fetch,https://support.claude.com/en/articles/8896518-does-anthropic-crawl-content-from-the-web-and-how-can-site-owners-block-the-crawler,P0.3 seed batch
+43,43,7,2026-09-13T00:00:00Z,new,,not_documented,https://support.claude.com/en/articles/8896518-does-anthropic-crawl-content-from-the-web-and-how-can-site-owners-block-the-crawler,P0.3 seed batch
+44,44,7,2026-09-13T00:00:00Z,new,,not_documented,https://support.claude.com/en/articles/8896518-does-anthropic-crawl-content-from-the-web-and-how-can-site-owners-block-the-crawler,P0.3 seed batch
+45,45,7,2026-09-13T00:00:00Z,new,,not_documented,https://support.claude.com/en/articles/8896518-does-anthropic-crawl-content-from-the-web-and-how-can-site-owners-block-the-crawler,P0.3 seed batch
+46,46,7,2026-09-13T00:00:00Z,new,,not_documented,https://support.claude.com/en/articles/8896518-does-anthropic-crawl-content-from-the-web-and-how-can-site-owners-block-the-crawler,P0.3 seed batch
+47,47,5,2026-09-13T00:00:00Z,new,,yes,https://support.claude.com/en/articles/8896518-does-anthropic-crawl-content-from-the-web-and-how-can-site-owners-block-the-crawler,P0.3 seed batch
+48,48,5,2026-09-13T00:00:00Z,new,,yes,https://support.claude.com/en/articles/8896518-does-anthropic-crawl-content-from-the-web-and-how-can-site-owners-block-the-crawler,P0.3 seed batch
+49,49,5,2026-09-13T00:00:00Z,new,,yes,https://claude.com/crawling/bots.json,P0.3 seed batch
+50,50,5,2026-09-13T00:00:00Z,new,,not_documented,https://support.claude.com/en/articles/8896518-does-anthropic-crawl-content-from-the-web-and-how-can-site-owners-block-the-crawler,P0.3 seed batch
+51,51,5,2026-09-13T00:00:00Z,new,,training,https://support.claude.com/en/articles/8896518-does-anthropic-crawl-content-from-the-web-and-how-can-site-owners-block-the-crawler,P0.3 seed batch
+52,52,5,2026-09-13T00:00:00Z,new,,yes,https://support.claude.com/en/articles/8896518-does-anthropic-crawl-content-from-the-web-and-how-can-site-owners-block-the-crawler,P0.3 seed batch
+53,53,5,2026-09-13T00:00:00Z,new,,documented,https://support.claude.com/en/articles/8896518-does-anthropic-crawl-content-from-the-web-and-how-can-site-owners-block-the-crawler,P0.3 seed batch
+54,54,5,2026-09-13T00:00:00Z,new,,not_documented,https://support.claude.com/en/articles/8896518-does-anthropic-crawl-content-from-the-web-and-how-can-site-owners-block-the-crawler,P0.3 seed batch
+55,55,12,2026-09-13T00:00:00Z,new,,n/a,https://developers.google.com/search/docs/crawling-indexing/google-common-crawlers,P0.3 seed batch
+56,56,12,2026-09-13T00:00:00Z,new,,n/a,https://developers.google.com/search/docs/crawling-indexing/google-common-crawlers,P0.3 seed batch
+57,57,12,2026-09-13T00:00:00Z,new,,no,https://developers.google.com/search/docs/crawling-indexing/google-common-crawlers,P0.3 seed batch
+58,58,12,2026-09-13T00:00:00Z,new,,n/a,https://developers.google.com/search/docs/crawling-indexing/google-common-crawlers,P0.3 seed batch
+59,59,12,2026-09-13T00:00:00Z,new,,policy_only,https://developers.google.com/search/docs/crawling-indexing/google-common-crawlers,P0.3 seed batch
+60,60,12,2026-09-13T00:00:00Z,new,,yes,https://developers.google.com/search/docs/crawling-indexing/google-common-crawlers,P0.3 seed batch
+61,61,12,2026-09-13T00:00:00Z,new,,"Gemini model training and grounding, not Search inclusion",https://developers.google.com/search/docs/appearance/ai-features,P0.3 seed batch
+62,62,12,2026-09-13T00:00:00Z,new,,yes,https://developers.google.com/search/docs/crawling-indexing/google-common-crawlers,P0.3 seed batch
+63,63,10,2026-09-13T00:00:00Z,new,,yes,https://developers.google.com/search/docs/crawling-indexing/google-common-crawlers,P0.3 seed batch
+64,64,10,2026-09-13T00:00:00Z,new,,no,https://developers.google.com/search/blog/2019/07/a-note-on-unsupported-rules-in-robotstxt,P0.3 seed batch
+65,65,10,2026-09-13T00:00:00Z,new,,yes,https://developers.google.com/static/crawling/ipranges/common-crawlers.json,P0.3 seed batch
+66,66,10,2026-09-13T00:00:00Z,new,,yes,https://developers.google.com/crawling/docs/crawlers-fetchers/verifying-googlebot,P0.3 seed batch
+67,67,10,2026-09-13T00:00:00Z,new,,search,https://developers.google.com/search/docs/crawling-indexing/google-common-crawlers,P0.3 seed batch
+68,68,10,2026-09-13T00:00:00Z,new,,yes,https://developers.google.com/search/docs/crawling-indexing/google-common-crawlers,P0.3 seed batch
+69,69,10,2026-09-13T00:00:00Z,new,,yes,https://developers.google.com/search/docs/appearance/ai-features,P0.3 seed batch
+70,70,10,2026-09-13T00:00:00Z,new,,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html)",https://developers.google.com/search/docs/crawling-indexing/google-common-crawlers,P0.3 seed batch
+71,71,11,2026-09-13T00:00:00Z,new,,yes,https://developers.google.com/search/docs/crawling-indexing/google-common-crawlers,P0.3 seed batch
+72,72,11,2026-09-13T00:00:00Z,new,,no,https://developers.google.com/search/blog/2019/07/a-note-on-unsupported-rules-in-robotstxt,P0.3 seed batch
+73,73,11,2026-09-13T00:00:00Z,new,,yes,https://developers.google.com/static/crawling/ipranges/common-crawlers.json,P0.3 seed batch
+74,74,11,2026-09-13T00:00:00Z,new,,yes,https://developers.google.com/crawling/docs/crawlers-fetchers/verifying-googlebot,P0.3 seed batch
+75,75,11,2026-09-13T00:00:00Z,new,,mixed,https://developers.google.com/search/docs/crawling-indexing/google-common-crawlers,P0.3 seed batch
+76,76,11,2026-09-13T00:00:00Z,new,,not_documented,https://developers.google.com/search/docs/crawling-indexing/google-common-crawlers,P0.3 seed batch
+77,77,11,2026-09-13T00:00:00Z,new,,GoogleOther,https://developers.google.com/search/docs/crawling-indexing/google-common-crawlers,P0.3 seed batch
+78,78,1,2026-09-13T00:00:00Z,new,,yes,https://developers.openai.com/api/docs/bots,P0.3 seed batch
+79,79,1,2026-09-13T00:00:00Z,new,,not_documented,https://developers.openai.com/api/docs/bots,P0.3 seed batch
+80,80,1,2026-09-13T00:00:00Z,new,,yes,https://openai.com/gptbot.json,P0.3 seed batch
+81,81,1,2026-09-13T00:00:00Z,new,,not_documented,https://developers.openai.com/api/docs/bots,P0.3 seed batch
+82,82,1,2026-09-13T00:00:00Z,new,,training,https://developers.openai.com/api/docs/bots,P0.3 seed batch
+83,83,1,2026-09-13T00:00:00Z,new,,yes,https://developers.openai.com/api/docs/bots,P0.3 seed batch
+84,84,1,2026-09-13T00:00:00Z,new,,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; GPTBot/1.4; +https://openai.com/gptbot",https://developers.openai.com/api/docs/bots,P0.3 seed batch
+85,85,1,2026-09-13T00:00:00Z,new,,yes,https://developers.openai.com/api/docs/bots,P0.3 seed batch
+86,86,4,2026-09-13T00:00:00Z,new,,not_documented,https://developers.openai.com/api/docs/bots,P0.3 seed batch
+87,87,4,2026-09-13T00:00:00Z,new,,not_documented,https://developers.openai.com/api/docs/bots,P0.3 seed batch
+88,88,4,2026-09-13T00:00:00Z,new,,yes,https://openai.com/adsbot.json,P0.3 seed batch
+89,89,4,2026-09-13T00:00:00Z,new,,not_documented,https://developers.openai.com/api/docs/bots,P0.3 seed batch
+90,90,4,2026-09-13T00:00:00Z,new,,ads,https://developers.openai.com/api/docs/bots,P0.3 seed batch
+91,91,4,2026-09-13T00:00:00Z,new,,not_documented,https://developers.openai.com/api/docs/bots,P0.3 seed batch
+92,92,4,2026-09-13T00:00:00Z,new,,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; OAI-AdsBot/1.0; +https://openai.com/adsbot",https://developers.openai.com/api/docs/bots,P0.3 seed batch
+93,93,4,2026-09-13T00:00:00Z,new,,limited to submitted ad landing pages,https://developers.openai.com/api/docs/bots,P0.3 seed batch
+94,94,2,2026-09-13T00:00:00Z,new,,yes,https://developers.openai.com/api/docs/bots,P0.3 seed batch
+95,95,2,2026-09-13T00:00:00Z,new,,not_documented,https://developers.openai.com/api/docs/bots,P0.3 seed batch
+96,96,2,2026-09-13T00:00:00Z,new,,yes,https://openai.com/searchbot.json,P0.3 seed batch
+97,97,2,2026-09-13T00:00:00Z,new,,not_documented,https://developers.openai.com/api/docs/bots,P0.3 seed batch
+98,98,2,2026-09-13T00:00:00Z,new,,search,https://developers.openai.com/api/docs/bots,P0.3 seed batch
+99,99,2,2026-09-13T00:00:00Z,new,,yes,https://developers.openai.com/api/docs/bots,P0.3 seed batch
+100,100,2,2026-09-13T00:00:00Z,new,,yes,https://developers.openai.com/api/docs/bots,P0.3 seed batch
+101,101,2,2026-09-13T00:00:00Z,new,,not_documented,https://developers.openai.com/api/docs/bots,P0.3 seed batch
+102,102,2,2026-09-13T00:00:00Z,new,,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; +https://openai.com/searchbot",https://developers.openai.com/api/docs/bots,P0.3 seed batch
+103,103,9,2026-09-13T00:00:00Z,new,,no,https://docs.perplexity.ai/docs/resources/perplexity-crawlers,P0.3 seed batch
+104,104,9,2026-09-13T00:00:00Z,new,,not_documented,https://docs.perplexity.ai/docs/resources/perplexity-crawlers,P0.3 seed batch
+105,105,9,2026-09-13T00:00:00Z,new,,yes,https://www.perplexity.ai/perplexity-user.json,P0.3 seed batch
+106,106,9,2026-09-13T00:00:00Z,new,,not_documented,https://docs.perplexity.ai/docs/resources/perplexity-crawlers,P0.3 seed batch
+107,107,9,2026-09-13T00:00:00Z,new,,user_fetch,https://docs.perplexity.ai/docs/resources/perplexity-crawlers,P0.3 seed batch
+108,108,9,2026-09-13T00:00:00Z,new,,not_documented,https://docs.perplexity.ai/docs/resources/perplexity-crawlers,P0.3 seed batch
+109,109,9,2026-09-13T00:00:00Z,new,,yes,https://docs.perplexity.ai/docs/resources/perplexity-crawlers,P0.3 seed batch
+110,110,9,2026-09-13T00:00:00Z,new,,not_documented,https://docs.perplexity.ai/docs/resources/perplexity-crawlers,P0.3 seed batch
+111,111,9,2026-09-13T00:00:00Z,new,,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Perplexity-User/1.0; +https://perplexity.ai/perplexity-user)",https://docs.perplexity.ai/docs/resources/perplexity-crawlers,P0.3 seed batch
+112,112,8,2026-09-13T00:00:00Z,new,,yes,https://docs.perplexity.ai/docs/resources/perplexity-crawlers,P0.3 seed batch
+113,113,8,2026-09-13T00:00:00Z,new,,not_documented,https://docs.perplexity.ai/docs/resources/perplexity-crawlers,P0.3 seed batch
+114,114,8,2026-09-13T00:00:00Z,new,,yes,https://www.perplexity.ai/perplexitybot.json,P0.3 seed batch
+115,115,8,2026-09-13T00:00:00Z,new,,not_documented,https://docs.perplexity.ai/docs/resources/perplexity-crawlers,P0.3 seed batch
+116,116,8,2026-09-13T00:00:00Z,new,,search,https://docs.perplexity.ai/docs/resources/perplexity-crawlers,P0.3 seed batch
+117,117,8,2026-09-13T00:00:00Z,new,,not_documented,https://docs.perplexity.ai/docs/resources/perplexity-crawlers,P0.3 seed batch
+118,118,8,2026-09-13T00:00:00Z,new,,yes,https://docs.perplexity.ai/docs/resources/perplexity-crawlers,P0.3 seed batch
+119,119,8,2026-09-13T00:00:00Z,new,,not_documented,https://docs.perplexity.ai/docs/resources/perplexity-crawlers,P0.3 seed batch
+120,120,8,2026-09-13T00:00:00Z,new,,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot)",https://docs.perplexity.ai/docs/resources/perplexity-crawlers,P0.3 seed batch
+121,121,13,2026-09-14T00:00:00Z,new,,yes,https://www.bing.com/webmasters/help/ai-performance-9f8e7d6c,P0.3 bingbot re-source batch
+122,122,13,2026-09-14T00:00:00Z,new,,yes,https://www.bing.com/webmasters/help/crawl-control-55a30303,P0.3 bingbot re-source batch
+123,123,13,2026-09-14T00:00:00Z,new,,yes,https://www.bing.com/toolbox/bingbot.json,P0.3 bingbot re-source batch
+124,124,13,2026-09-14T00:00:00Z,new,,yes,https://www.bing.com/webmasters/help/how-to-verify-bingbot-3905dc26,P0.3 bingbot re-source batch
+125,125,13,2026-09-14T00:00:00Z,new,,yes,https://www.bing.com/webmasters/help/which-crawlers-does-bing-use-8c184ec0,P0.3 bingbot re-source batch
+126,126,13,2026-09-14T00:00:00Z,new,,no,https://www.bing.com/webmasters/help/robots-meta-tags-and-attributes-that-bing-supports-5198d240,P0.3 bingbot re-source batch
+127,127,13,2026-09-14T00:00:00Z,new,,yes,https://blogs.bing.com/search/April-2025/Introducing-Copilot-Search-in-Bing,P0.3 bingbot re-source batch
+128,128,13,2026-09-14T00:00:00Z,new,,not_documented,https://www.bing.com/webmasters/help/which-crawlers-does-bing-use-8c184ec0,P0.3 bingbot re-source batch
+129,129,13,2026-09-14T00:00:00Z,new,,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),https://www.bing.com/webmasters/help/which-crawlers-does-bing-use-8c184ec0,P0.3 bingbot re-source batch
+130,130,13,2026-09-14T00:00:00Z,new,,yes,https://www.bing.com/webmasters/help/robots-meta-tags-and-attributes-that-bing-supports-5198d240,P0.3 bingbot re-source batch
+131,131,13,2026-09-14T00:00:00Z,new,,yes,https://www.bing.com/webmasters/help/robots-meta-tags-and-attributes-that-bing-supports-5198d240,P0.3 bingbot re-source batch
+132,132,10,2026-09-14T00:00:00Z,new,,no,https://developers.google.com/search/docs/fundamentals/ai-optimization-guide,P0.3 googlebot llms.txt re-check batch
+144,142,5,2026-09-17T21:31:41Z,new,,yes,https://rattlesnakesbymail.com/observed/claudebot,"observed_here claim from the September 2026 census (docs/census-2026-09.md), batch p1-observed-here-2026-09-17"
+145,143,5,2026-09-17T21:31:41Z,new,,yes,https://rattlesnakesbymail.com/observed/claudebot,"observed_here claim from the September 2026 census (docs/census-2026-09.md), batch p1-observed-here-2026-09-17"
+146,144,5,2026-09-17T21:31:41Z,new,,/sitemap.xml,https://rattlesnakesbymail.com/observed/claudebot,"observed_here claim from the September 2026 census (docs/census-2026-09.md), batch p1-observed-here-2026-09-17"
+147,145,5,2026-09-17T21:31:41Z,new,,html_json_md,https://rattlesnakesbymail.com/observed/claudebot,"observed_here claim from the September 2026 census (docs/census-2026-09.md), batch p1-observed-here-2026-09-17"
+148,146,11,2026-09-17T21:31:41Z,new,,yes,https://rattlesnakesbymail.com/observed/googleother,"observed_here claim from the September 2026 census (docs/census-2026-09.md), batch p1-observed-here-2026-09-17"
+149,147,11,2026-09-17T21:31:41Z,new,,no,https://rattlesnakesbymail.com/observed/googleother,"observed_here claim from the September 2026 census (docs/census-2026-09.md), batch p1-observed-here-2026-09-17"
+150,148,2,2026-09-17T21:31:41Z,new,,yes,https://rattlesnakesbymail.com/observed/oai-searchbot,"observed_here claim from the September 2026 census (docs/census-2026-09.md), batch p1-observed-here-2026-09-17"
+151,149,10,2026-09-17T21:31:41Z,new,,0.991,https://rattlesnakesbymail.com/observed/googlebot,"observed_here claim from the September 2026 census (docs/census-2026-09.md), batch p1-observed-here-2026-09-17"
+152,150,14,2026-09-17T21:31:41Z,new,,robots_txt_and_home_only,https://rattlesnakesbymail.com/observed/applebot,"observed_here claim from the September 2026 census (docs/census-2026-09.md), batch p1-observed-here-2026-09-17"
