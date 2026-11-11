@@ -382,4 +382,13 @@ date,tool,client_name,calls,avg_latency_ms
 2026-11-09,list_changes,rokmcp-probe,1,172
 2026-11-09,lookup_crawler,BrickBlueBot,1,52
 2026-11-09,lookup_crawler,mcpyp-incremental,1,117
+2026-11-10,__mcp_index_nonexistent__,mcp-index,1,0
 2026-11-10,__verifymcp_auth_probe_cfd3a81ffdfe8cc6__,verifymcp-probe,1,0
+2026-11-10,get_snapshot,BrickBlueBot,1,2
+2026-11-10,identify_user_agent,BrickBlueBot,1,29
+2026-11-10,list_changes,BrickBlueBot,1,154
+2026-11-10,list_changes,mcp,3,175
+2026-11-10,list_changes,rokmcp-probe,1,180
+2026-11-10,list_changes,unknown,1,189
+2026-11-10,lookup_crawler,BrickBlueBot,1,41
+2026-11-11,__verifymcp_auth_probe_fbe9018e83665bf5__,verifymcp-probe,1,0
