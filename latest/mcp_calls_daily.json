@@ -2815,7 +2815,63 @@
   },
   {
     "date": "2026-11-12",
+    "tool": "__mcp_index_nonexistent__",
+    "client_name": "mcp-index",
+    "calls": 1,
+    "avg_latency_ms": 0
+  },
+  {
+    "date": "2026-11-12",
     "tool": "__verifymcp_auth_probe_c52c312720726de3__",
+    "client_name": "verifymcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 0
+  },
+  {
+    "date": "2026-11-12",
+    "tool": "get_snapshot",
+    "client_name": "mcp",
+    "calls": 1,
+    "avg_latency_ms": 3
+  },
+  {
+    "date": "2026-11-12",
+    "tool": "identify_user_agent",
+    "client_name": "mcp",
+    "calls": 1,
+    "avg_latency_ms": 222
+  },
+  {
+    "date": "2026-11-12",
+    "tool": "list_changes",
+    "client_name": "mcp",
+    "calls": 3,
+    "avg_latency_ms": 290
+  },
+  {
+    "date": "2026-11-12",
+    "tool": "list_changes",
+    "client_name": "mcp-discovery-measurement",
+    "calls": 1,
+    "avg_latency_ms": 152
+  },
+  {
+    "date": "2026-11-12",
+    "tool": "list_changes",
+    "client_name": "rokmcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 186
+  },
+  {
+    "date": "2026-11-12",
+    "tool": "lookup_crawler",
+    "client_name": "mcp",
+    "calls": 1,
+    "avg_latency_ms": 474
+  },
+  {
+    "date": "2026-11-13",
+    "tool": "__verifymcp_auth_probe_d0f66b0105d52304__",
     "client_name": "verifymcp-probe",
     "calls": 1,
     "avg_latency_ms": 0
