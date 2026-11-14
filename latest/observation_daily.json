@@ -3678,5 +3678,55 @@
     "formats": "[\"txt\",\"html\"]",
     "verified_share": 1,
     "verified_requests": 2
+  },
+  {
+    "id": 375,
+    "date": "2026-11-13",
+    "entity_id": 1,
+    "requests": 5,
+    "paths": "[\"/sitemap-index.xml\",\"/sitemap-machine.xml\",\"/sitemap.xml\",\"/snapshots/2026-10\"]",
+    "formats": "[\"xml\",\"html\"]",
+    "verified_share": 1,
+    "verified_requests": 5
+  },
+  {
+    "id": 376,
+    "date": "2026-11-13",
+    "entity_id": 2,
+    "requests": 4,
+    "paths": "[\"/robots.txt\",\"/data\"]",
+    "formats": "[\"txt\",\"html\"]",
+    "verified_share": 1,
+    "verified_requests": 4
+  },
+  {
+    "id": 377,
+    "date": "2026-11-13",
+    "entity_id": 5,
+    "requests": 78,
+    "paths": "[\"/sitemap-index.xml\",\"/robots.txt\",\"/sitemap-machine.xml\",\"/sitemap.xml\"]",
+    "formats": "[\"xml\",\"txt\"]",
+    "verified_share": 1,
+    "verified_requests": 78
+  },
+  {
+    "id": 378,
+    "date": "2026-11-13",
+    "entity_id": 10,
+    "requests": 27,
+    "paths": "[\"/robots.txt\",\"/snapshots/2026-10\",\"/\",\"/crawlers/claudebot\",\"/claims/88\",\"/fields/user_agent_string_full\",\"/questions\",\"/crawlers/bingbot\",\"/fields/observed_first_request_path\",\"/data\",\"/fields/anti_circumvention_stance\",\"/questions/3050a0ef31fe84bc2169c49e6513e17941f48a2c15f4720e45038792c2c8d29d\",\"/fields/publishes_ip_list\",\"/compare/claude-searchbot-vs-googlebot\"]",
+    "formats": "[\"txt\",\"html\"]",
+    "verified_share": 1,
+    "verified_requests": 27
+  },
+  {
+    "id": 379,
+    "date": "2026-11-13",
+    "entity_id": 13,
+    "requests": 53,
+    "paths": "[\"/snapshots/2026-10.md\",\"/claims/111\",\"/\",\"/changes\",\"/claims/99\",\"/claims/28\",\"/claims/44\",\"/sitemap.xml\",\"/snapshots/2026-10.json\",\"/robots.txt\",\"/data\",\"/claims/49\",\"/claims/50\",\"/questions/b906094064ac6f4a0b93a1e80f5c08f85bcc55d61e111a7470c0060db6b8a635\",\"/claims/38\",\"/fields/fallback_to_googlebot_rules\",\"/claims/143\",\"/claims/78\",\"/snapshots/2026-10.csv\",\"/claims/24\",\"/snapshots/2026-10\",\"/claims/64\",\"/claims/48\",\"/compare/chatgpt-user-vs-claudebot.json\",\"/claims/146\",\"/fields/observed_verified_request_ratio_census.md\",\"/claims/65.md\",\"/data/latest\",\"/claims/119.md\",\"/claims/41\",\"/crawlers/applebot\",\"/claims/34\",\"/observed/google-extended\",\"/claims/91\",\"/questions/62e5fac0b418c8f526b41170e57e65ea34a46a6278b2d876fc267034103664fc\"]",
+    "formats": "[\"md\",\"html\",\"xml\",\"json\",\"txt\",\"csv\"]",
+    "verified_share": 1,
+    "verified_requests": 53
   }
 ]
