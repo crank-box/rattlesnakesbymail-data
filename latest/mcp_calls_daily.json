@@ -2990,9 +2990,107 @@
   },
   {
     "date": "2026-11-14",
+    "tool": "__mcp_index_nonexistent__",
+    "client_name": "mcp-index",
+    "calls": 1,
+    "avg_latency_ms": 0
+  },
+  {
+    "date": "2026-11-14",
     "tool": "__verifymcp_auth_probe_2e829dc401486581__",
     "client_name": "verifymcp-probe",
     "calls": 1,
     "avg_latency_ms": 0
+  },
+  {
+    "date": "2026-11-14",
+    "tool": "get_snapshot",
+    "client_name": "BrickBlueBot",
+    "calls": 1,
+    "avg_latency_ms": 48
+  },
+  {
+    "date": "2026-11-14",
+    "tool": "get_snapshot",
+    "client_name": "kitscout-live-check",
+    "calls": 1,
+    "avg_latency_ms": 10
+  },
+  {
+    "date": "2026-11-14",
+    "tool": "identify_user_agent",
+    "client_name": "BrickBlueBot",
+    "calls": 1,
+    "avg_latency_ms": 31
+  },
+  {
+    "date": "2026-11-14",
+    "tool": "identify_user_agent",
+    "client_name": "mcpyp-incremental",
+    "calls": 1,
+    "avg_latency_ms": 91
+  },
+  {
+    "date": "2026-11-14",
+    "tool": "list_changes",
+    "client_name": "BrickBlueBot",
+    "calls": 1,
+    "avg_latency_ms": 163
+  },
+  {
+    "date": "2026-11-14",
+    "tool": "list_changes",
+    "client_name": "FaceabotProbe",
+    "calls": 1,
+    "avg_latency_ms": 201
+  },
+  {
+    "date": "2026-11-14",
+    "tool": "list_changes",
+    "client_name": "kitscout-live-check",
+    "calls": 1,
+    "avg_latency_ms": 206
+  },
+  {
+    "date": "2026-11-14",
+    "tool": "list_changes",
+    "client_name": "mcpyp-incremental",
+    "calls": 1,
+    "avg_latency_ms": 186
+  },
+  {
+    "date": "2026-11-14",
+    "tool": "list_changes",
+    "client_name": "rokmcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 170
+  },
+  {
+    "date": "2026-11-14",
+    "tool": "lookup_crawler",
+    "client_name": "kitscout-live-check",
+    "calls": 1,
+    "avg_latency_ms": 187
+  },
+  {
+    "date": "2026-11-14",
+    "tool": "lookup_crawler",
+    "client_name": "mcpyp-incremental",
+    "calls": 1,
+    "avg_latency_ms": 104
+  },
+  {
+    "date": "2026-11-15",
+    "tool": "__verifymcp_auth_probe_7b48b73f4adb1e7e__",
+    "client_name": "verifymcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 0
+  },
+  {
+    "date": "2026-11-15",
+    "tool": "lookup_crawler",
+    "client_name": "BrickBlueBot",
+    "calls": 1,
+    "avg_latency_ms": 30
   }
 ]
