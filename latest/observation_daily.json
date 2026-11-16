@@ -3788,5 +3788,125 @@
     "formats": "[\"html\",\"json\",\"csv\",\"md\",\"xml\"]",
     "verified_share": 1,
     "verified_requests": 52
+  },
+  {
+    "id": 386,
+    "date": "2026-11-15",
+    "entity_id": 1,
+    "requests": 27,
+    "paths": "[\"/sitemap-index.xml\",\"/sitemap-machine.xml\",\"/sitemap.xml\",\"/compare/applebot-vs-oai-searchbot\",\"/compare/applebot-vs-claudebot\",\"/compare/chatgpt-user-vs-googleother\",\"/fields/user_fetch_exception_documented\",\"/compare/applebot-vs-oai-searchbot.json\",\"/compare/applebot-vs-oai-searchbot.md\",\"/compare/applebot-vs-claudebot.md\",\"/compare/applebot-vs-claudebot.json\",\"/compare/chatgpt-user-vs-googleother.md\",\"/compare/chatgpt-user-vs-googleother.json\",\"/fields/user_fetch_exception_documented.json\",\"/fields/user_fetch_exception_documented.md\",\"/snapshots/2026-10\",\"/agent/.env\",\"/static/.env\",\"/....//....//....//..../proc/self/environ\",\"/config.py\",\"/app/.config/gcloud/application_default_credentials.json\",\"/.docker/secrets.json\",\"/.env.keys\",\"/.env.development\",\"/dashboard/_payload.json\",\"/jenkins/credentials/store/system/domain/_/\",\"/api/proc/self/environ\"]",
+    "formats": "[\"xml\",\"html\",\"json\",\"md\"]",
+    "verified_share": 0.5925925925925926,
+    "verified_requests": 16
+  },
+  {
+    "id": 387,
+    "date": "2026-11-15",
+    "entity_id": 2,
+    "requests": 24,
+    "paths": "[\"/robots.txt\",\"/data\",\"/cache/.env\",\"/userfiles/x\",\"/google-credentials.json\",\"/.dockerenv\",\"/config/firebase-admin.json\",\"/gc-service.json\",\"/frontend/.env\",\"/secrets.yml\",\"/.svn/entries\",\"/api/openapi.json\",\"/.github/workflows/ci.yml\",\"/firebase-config.js\",\"/graphql\",\"/.env.preprod\",\"/google-services.json\",\"/_profiler/latest\",\"/test.php\",\"/site/.env\",\"/nacos/v1/auth/users\"]",
+    "formats": "[\"txt\",\"html\",\"json\"]",
+    "verified_share": 0.20833333333333334,
+    "verified_requests": 5
+  },
+  {
+    "id": 388,
+    "date": "2026-11-15",
+    "entity_id": 3,
+    "requests": 20,
+    "paths": "[\"/userfiles\",\"/.env%3Ffoo=bar\",\"/wp-config.old\",\"/docs\",\"/var/run/secrets/kubernetes.io/serviceaccount/token\",\"/laravel../.env\",\"/__/firebase/init.json\",\"/.s3cfg\",\"/.boto\",\"/.bash_profile\",\"/secrets/service-account.json\",\"/.github/workflows/release.yml\",\"/config.json.js\",\"/graphql/console\",\"/.terraform.rc\",\"/v1/.env\",\"/litellm/health\",\"/apps/web/.env\",\"/.env.shared\",\"/apps/docs/.env\"]",
+    "formats": "[\"html\",\"json\"]",
+    "verified_share": 0,
+    "verified_requests": 0
+  },
+  {
+    "id": 389,
+    "date": "2026-11-15",
+    "entity_id": 4,
+    "requests": 12,
+    "paths": "[\"/api%2F.env\",\"/project/local_settings.py\",\"/dashboard/.env\",\"/.env_1\",\"/.git/HEAD\",\"/buildspec.yml\",\"/config/.env.dev\",\"/wrangler.toml\",\"/.env.js\",\"/info.php\",\"/sendgrid.env\",\"/.output/server/index.mjs\"]",
+    "formats": "[\"html\"]",
+    "verified_share": 0,
+    "verified_requests": 0
+  },
+  {
+    "id": 390,
+    "date": "2026-11-15",
+    "entity_id": 5,
+    "requests": 48,
+    "paths": "[\"/robots.txt\",\"/sitemap.xml\",\"/sitemap-machine.xml\",\"/sitemap-index.xml\",\"/_debugbar/open\",\"/img../.env\",\"/app/.env\",\"/core/.env\",\"/secrets.json\",\"/config/env/aws_credentials.env\",\"/.circleci/config.yml\",\"/__env.js\",\"/environment.js\",\"/key.pem\",\"/api/console/api_server\",\"/.netlify/state.json\",\"/cgi-bin/php-cgi.exe\"]",
+    "formats": "[\"txt\",\"xml\",\"html\",\"json\"]",
+    "verified_share": 0.7083333333333334,
+    "verified_requests": 34
+  },
+  {
+    "id": 391,
+    "date": "2026-11-15",
+    "entity_id": 6,
+    "requests": 15,
+    "paths": "[\"/z9x8c7v6b5-debug-trigger-rattlesnakesbymail.com\",\"/wow4jf2t72tuqkk1m5dj\",\"/wp/.env\",\"/assets../.env\",\"/scripts/.env\",\"/server/.env\",\"/laravel../config/database.php\",\"/.idea/WebServers.xml\",\"/rush.json\",\"/railway.toml\",\"/*.auto.tfvars\",\"/api/4/config\",\"/app_dev.php/_profiler\",\"/trace.axd\",\"/index.php\"]",
+    "formats": "[\"html\",\"json\"]",
+    "verified_share": 0,
+    "verified_requests": 0
+  },
+  {
+    "id": 392,
+    "date": "2026-11-15",
+    "entity_id": 7,
+    "requests": 19,
+    "paths": "[\"/telescope/requests\",\"/api/v1/.env\",\"/internal/.env\",\"/.env.stage\",\"/.gitconfig\",\"/localhost.key\",\"/privatekey.key\",\"/api/health\",\"/openapi.json\",\"/compose.yaml\",\"/sw.js\",\"/.env.config\",\"/terraform.tfvars\",\"/.firebaserc\",\"/.terraform.lock.hcl\",\"/config/local.json\",\"/v1/auth/token/lookup-self\",\"/packages/config/.env\",\"/api/fs/read\"]",
+    "formats": "[\"html\",\"json\"]",
+    "verified_share": 0,
+    "verified_requests": 0
+  },
+  {
+    "id": 393,
+    "date": "2026-11-15",
+    "entity_id": 8,
+    "requests": 18,
+    "paths": "[\"/gcp-credentials.json\",\"/panel/.env\",\"/uploads../.env\",\"/google-service-account.json\",\"/model/.env\",\"/api/settings\",\"/docker-compose.yaml\",\"/turbo.json\",\"/.env.key\",\"/application/.env.sample\",\"/config/settings.local.yml\",\"/manage/env\",\"/production/.env\",\"/litellm/key/info\",\"/env.bak\",\"/config.php.bak\",\"/nuxt.config.ts\",\"/api/system/fileView\"]",
+    "formats": "[\"json\",\"html\"]",
+    "verified_share": 0,
+    "verified_requests": 0
+  },
+  {
+    "id": 394,
+    "date": "2026-11-15",
+    "entity_id": 9,
+    "requests": 16,
+    "paths": "[\"/workspace/.env\",\"/dashboard%2F.env\",\"/static//app/.env\",\"/src/.env\",\"/.env.production\",\"/key.json\",\"/serverless.yaml\",\"/.env.sendgrid\",\"/docker-compose.yml\",\"/phpinfo.php\",\"/.env.production.bak\",\"/config/custom-environment-variables.json\",\"/env.old\",\"/litellm/models\",\"/admin/_payload.json\",\"/packages/api/.env\"]",
+    "formats": "[\"html\",\"json\"]",
+    "verified_share": 0,
+    "verified_requests": 0
+  },
+  {
+    "id": 395,
+    "date": "2026-11-15",
+    "entity_id": 10,
+    "requests": 98,
+    "paths": "[\"/robots.txt\",\"/fields/observed_verified_request_ratio_census\",\"/claims/43\",\"/compare/applebot-vs-chatgpt-user\",\"/compare/claude-user-vs-oai-adsbot\",\"/fields/verifiable_by_rdns\",\"/claims/63\",\"/fields/observed_fetches_robots_txt\",\"/compare/claude-user-vs-googleother\",\"/compare/claude-user-vs-claudebot\",\"/questions/e091e35f0332f5c96f5d7a333659479e747c69c8c476931d742210bbbf0e557f\",\"/crawlers/oai-adsbot\",\"/fields/follows_noarchive\",\"/claims/149\",\"/compare/applebot-vs-perplexitybot\",\"/\",\"/compare/claude-user-vs-perplexitybot\",\"/compare/applebot-vs-applebot-extended\",\"/compare/oai-searchbot-vs-perplexitybot\",\"/fields/respects_robots_txt\",\"/fields/separate_search_and_training_tokens\",\"/observed\",\"/fields/observed_fetches_markdown\",\"/claims/12\",\"/data/latest/claims.csv\",\"/fields\",\"/compare/googlebot-vs-oai-adsbot\",\"/snapshots/2026-10\",\"/crawlers/claudebot\",\"/claims/56\",\"/questions/b906094064ac6f4a0b93a1e80f5c08f85bcc55d61e111a7470c0060db6b8a635\",\"/compare/applebot-extended-vs-googlebot\",\"/compare/googleother-vs-gptbot\",\"/compare/applebot-vs-perplexity-user\",\"/fields/purpose_documented\",\"/compare/claude-searchbot-vs-claudebot\",\"/compare/applebot-vs-oai-searchbot\",\"/compare/claude-searchbot-vs-googleother\",\"/sitemap_index.xml\",\"/sitemap-machine.xml\",\"/ju77j2i2v1a7mw4pojdx\",\"/userfiles\",\"/media../.env\",\"/proc/self/cgroup\",\"/deploy/.env\",\"/keys/service-account.json\",\"/.env.bak\",\"//.env\",\"/conf/.env\",\"/build/.env\",\"/api/config\",\"/env.js\",\"/.vscode/launch.json\",\"/api/v2/config\",\"/.well-known/jwks.json\",\"/config/.env.production\",\"/application/.env\",\"/public/env.js\",\"/docker-compose.override.yml\",\"/railway.json\",\"/v1/graphql\",\"/server.key\",\"/actuator/configprops\",\"/.env.test\",\"/server-status\",\"/nacos/v1/console/namespaces\",\"/v1/secret/data/\",\"/next.config.mjs\",\"/apps/dashboard/.env\",\"/.output/nitro.json\",\"/.vercel/project.json\",\"/.env.php.bak\",\"/admin/api-tokens\",\"/data\",\"/fields/reads_llms_txt\",\"/fields/anti_circumvention_stance\",\"/crawlers/claude-user\"]",
+    "formats": "[\"txt\",\"html\",\"csv\",\"xml\",\"json\"]",
+    "verified_share": 0.6428571428571429,
+    "verified_requests": 63
+  },
+  {
+    "id": 396,
+    "date": "2026-11-15",
+    "entity_id": 13,
+    "requests": 74,
+    "paths": "[\"/robots.txt\",\"/claims/122.json\",\"/snapshots/2026-10.csv\",\"/fields/fallback_to_googlebot_rules\",\"/claims/65\",\"/claims/36\",\"/observed/google-extended\",\"/snapshots/2026-10.md\",\"/snapshots/2026-10\",\"/fields/separate_search_and_training_tokens\",\"/fields/observed_first_request_path\",\"/claims/87\",\"/compare/claudebot-vs-googleother.json\",\"/claims/96\",\"/compare\",\"/\",\"/claims/82\",\"/sitemap.xml\",\"/claims/66\",\"/claims/73\",\"/claims/146\",\"/claims/55\",\"/data/latest\",\"/crawlers\",\"/claims/37\",\"/fields/follows_noarchive\",\"/claims/19\",\"/snapshots/2026-10.json\",\"/claims/129\",\"/claims/48\",\"/claims/111\",\"/claims/23\",\"/crawlers/chatgpt-user\",\"/claims/52\",\"/fields/observed_verified_request_ratio_census.json\",\"/.md\",\"/instance/config.py\",\"/firebase-credentials.json\",\"/app/settings.py\",\"/openapi.json\",\"/config/.env\",\"/admin/.env\",\"/.aws/credentials\",\"/.git/config\",\"/.github/workflows/build.yml\",\"/.drone.yml\",\"/.travis.yml\",\"/serverless.yml\",\"/vercel.json\",\"/.dev.vars\",\"/config/default.json\",\"/.env.prod.bak\",\"/_payload.json\",\"/wp-json\",\"/config/.env.php\",\"/.env.common\",\"/compare/claude-user-vs-oai-searchbot.json\",\"/claims/119\",\"/changes\"]",
+    "formats": "[\"txt\",\"json\",\"csv\",\"html\",\"md\",\"xml\"]",
+    "verified_share": 0.7297297297297297,
+    "verified_requests": 54
+  },
+  {
+    "id": 397,
+    "date": "2026-11-15",
+    "entity_id": 14,
+    "requests": 16,
+    "paths": "[\"/userfiles/x\",\"/config/gcp-credentials.json\",\"/llm/.env\",\"/common/.env\",\"/cmd/.env\",\"/push_config.json\",\"/tmp/.env\",\"/var/.env\",\"/backend/.env\",\"/runtime-config.js\",\"/.env.ses\",\"/config/.env.staging\",\"/service-worker.js\",\"/api/config\",\"/server-info\",\"/robots.txt\"]",
+    "formats": "[\"html\",\"json\",\"txt\"]",
+    "verified_share": 0.0625,
+    "verified_requests": 1
   }
 ]
