@@ -4138,5 +4138,55 @@
     "formats": "[\"txt\",\"html\"]",
     "verified_share": 1,
     "verified_requests": 4
+  },
+  {
+    "id": 421,
+    "date": "2026-11-20",
+    "entity_id": 1,
+    "requests": 4,
+    "paths": "[\"/sitemap-index.xml\",\"/sitemap.xml\",\"/sitemap-machine.xml\",\"/snapshots/2026-10\"]",
+    "formats": "[\"xml\",\"html\"]",
+    "verified_share": 1,
+    "verified_requests": 4
+  },
+  {
+    "id": 422,
+    "date": "2026-11-20",
+    "entity_id": 2,
+    "requests": 3,
+    "paths": "[\"/robots.txt\"]",
+    "formats": "[\"txt\"]",
+    "verified_share": 1,
+    "verified_requests": 3
+  },
+  {
+    "id": 423,
+    "date": "2026-11-20",
+    "entity_id": 10,
+    "requests": 40,
+    "paths": "[\"/robots.txt\",\"/data\",\"/claims/16\",\"/questions/ff1c6deb90d74278593d6248167ee2547b98b46bb983ee68299165f27051e26e\",\"/snapshots/2026-10\",\"/claims/25\",\"/fields/follows_noarchive\",\"/fields/verifiable_by_rdns\",\"/fields/observed_verified_request_ratio_census\",\"/fields/observed_fetches_robots_txt\",\"/fields/purpose_documented\",\"/claims/95\",\"/fields\",\"/fields/reads_llms_txt\",\"/claims/39\",\"/compare/applebot-vs-gptbot\",\"/fields/robots_txt_token\",\"/fields/observed_fetches_json\",\"/compare/claude-searchbot-vs-perplexity-user\",\"/claims/82\",\"/fields/observed_fetches_markdown\"]",
+    "formats": "[\"txt\",\"html\"]",
+    "verified_share": 1,
+    "verified_requests": 40
+  },
+  {
+    "id": 424,
+    "date": "2026-11-20",
+    "entity_id": 11,
+    "requests": 2,
+    "paths": "[\"/compare/bingbot-vs-chatgpt-user\",\"/\"]",
+    "formats": "[\"html\"]",
+    "verified_share": 1,
+    "verified_requests": 2
+  },
+  {
+    "id": 425,
+    "date": "2026-11-20",
+    "entity_id": 13,
+    "requests": 21,
+    "paths": "[\"/compare/bingbot-vs-gptbot.md\",\"/fields/observed_fetches_robots_txt\",\"/questions/ead6f2ea7befe0fc2648df1d7c8f962c9401177a05083ad897c5c091b77e478e\",\"/claims/78.json\",\"/data.json\",\"/claims/30.json\",\"/crawlers/chatgpt-user.json\",\"/claims/107\",\"/questions.json\",\"/fields/observed_paths_fetched\",\"/claims/46.json\",\"/robots.txt\",\"/claims/43\",\"/claims/106.json\",\"/claims/48.md\",\"/claims/129\",\"/data.md\",\"/claims/73.json\",\"/compare/applebot-vs-perplexity-user.json\",\"/crawlers/oai-adsbot.md\",\"/observed/applebot-extended.md\"]",
+    "formats": "[\"md\",\"html\",\"json\",\"txt\"]",
+    "verified_share": 1,
+    "verified_requests": 21
   }
 ]
