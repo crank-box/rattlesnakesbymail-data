@@ -3599,6 +3599,13 @@
   },
   {
     "date": "2026-11-22",
+    "tool": "__mcp_index_nonexistent__",
+    "client_name": "mcp-index",
+    "calls": 1,
+    "avg_latency_ms": 0
+  },
+  {
+    "date": "2026-11-22",
     "tool": "__verifymcp_auth_probe_734a92babea3d22d__",
     "client_name": "verifymcp-probe",
     "calls": 1,
@@ -3606,9 +3613,65 @@
   },
   {
     "date": "2026-11-22",
+    "tool": "get_snapshot",
+    "client_name": "BrickBlueBot",
+    "calls": 1,
+    "avg_latency_ms": 5
+  },
+  {
+    "date": "2026-11-22",
+    "tool": "identify_user_agent",
+    "client_name": "BrickBlueBot",
+    "calls": 1,
+    "avg_latency_ms": 27
+  },
+  {
+    "date": "2026-11-22",
+    "tool": "list_changes",
+    "client_name": "BrickBlueBot",
+    "calls": 1,
+    "avg_latency_ms": 147
+  },
+  {
+    "date": "2026-11-22",
     "tool": "list_changes",
     "client_name": "FaceabotProbe",
     "calls": 1,
     "avg_latency_ms": 224
+  },
+  {
+    "date": "2026-11-22",
+    "tool": "list_changes",
+    "client_name": "INITE Atlas Verifier",
+    "calls": 1,
+    "avg_latency_ms": 282
+  },
+  {
+    "date": "2026-11-22",
+    "tool": "list_changes",
+    "client_name": "rokmcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 167
+  },
+  {
+    "date": "2026-11-22",
+    "tool": "lookup_crawler",
+    "client_name": "BrickBlueBot",
+    "calls": 1,
+    "avg_latency_ms": 42
+  },
+  {
+    "date": "2026-11-23",
+    "tool": "__verifymcp_auth_probe_5c5974985b927946__",
+    "client_name": "verifymcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 0
+  },
+  {
+    "date": "2026-11-23",
+    "tool": "lookup_crawler",
+    "client_name": "earmuffin-demo",
+    "calls": 1,
+    "avg_latency_ms": 704
   }
 ]

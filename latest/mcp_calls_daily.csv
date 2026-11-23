@@ -513,5 +513,14 @@ date,tool,client_name,calls,avg_latency_ms
 2026-11-21,list_changes,rokmcp-probe,1,154
 2026-11-21,lookup_crawler,BrickBlueBot,1,36
 2026-11-21,lookup_crawler,kitscout-live-check,1,135
+2026-11-22,__mcp_index_nonexistent__,mcp-index,1,0
 2026-11-22,__verifymcp_auth_probe_734a92babea3d22d__,verifymcp-probe,1,0
+2026-11-22,get_snapshot,BrickBlueBot,1,5
+2026-11-22,identify_user_agent,BrickBlueBot,1,27
+2026-11-22,list_changes,BrickBlueBot,1,147
 2026-11-22,list_changes,FaceabotProbe,1,224
+2026-11-22,list_changes,INITE Atlas Verifier,1,282
+2026-11-22,list_changes,rokmcp-probe,1,167
+2026-11-22,lookup_crawler,BrickBlueBot,1,42
+2026-11-23,__verifymcp_auth_probe_5c5974985b927946__,verifymcp-probe,1,0
+2026-11-23,lookup_crawler,earmuffin-demo,1,704
