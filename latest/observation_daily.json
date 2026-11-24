@@ -4308,5 +4308,65 @@
     "formats": "[\"txt\",\"json\",\"html\",\"md\"]",
     "verified_share": 1,
     "verified_requests": 28
+  },
+  {
+    "id": 438,
+    "date": "2026-11-23",
+    "entity_id": 1,
+    "requests": 4,
+    "paths": "[\"/sitemap-index.xml\",\"/sitemap-machine.xml\",\"/sitemap.xml\",\"/snapshots/2026-10\"]",
+    "formats": "[\"xml\",\"html\"]",
+    "verified_share": 1,
+    "verified_requests": 4
+  },
+  {
+    "id": 439,
+    "date": "2026-11-23",
+    "entity_id": 2,
+    "requests": 3,
+    "paths": "[\"/robots.txt\"]",
+    "formats": "[\"txt\"]",
+    "verified_share": 1,
+    "verified_requests": 3
+  },
+  {
+    "id": 440,
+    "date": "2026-11-23",
+    "entity_id": 3,
+    "requests": 1,
+    "paths": "[\"/.netrc\"]",
+    "formats": "[\"html\"]",
+    "verified_share": 0,
+    "verified_requests": 0
+  },
+  {
+    "id": 441,
+    "date": "2026-11-23",
+    "entity_id": 10,
+    "requests": 41,
+    "paths": "[\"/privacy\",\"/privacy-policy\",\"/legal\",\"/robots.txt\",\"/\",\"/crawlers\",\"/snapshots/2026-10\",\"/docs\",\"/crawlers/claude-searchbot\",\"/fields/observed_fetches_markdown\",\"/observed/bingbot\",\"/claims/119\",\"/.dev.vars\",\"/.env.save\",\"/crawlers/bingbot\",\"/changes\",\"/fields/separate_search_and_training_tokens\",\"/claims/59\",\"/questions/6aa719abee602154bcfb38fc2c503493d4145501e25912e781b11faaa58f7b96\",\"/fields/cites_sources\",\"/observed/claudebot\",\"/fields\",\"/claims/132\",\"/questions/b35153b6fa9fcd738d70181548629cfc6af43dffe53d915d005f9434c55934e3\",\"/claims/31\"]",
+    "formats": "[\"html\",\"txt\"]",
+    "verified_share": 0.8536585365853658,
+    "verified_requests": 35
+  },
+  {
+    "id": 442,
+    "date": "2026-11-23",
+    "entity_id": 13,
+    "requests": 20,
+    "paths": "[\"/claims/105.json\",\"/compare/chatgpt-user-vs-googlebot.md\",\"/fields/anti_circumvention_stance.json\",\"/claims/41.md\",\"/robots.txt\",\"/questions/44b47f316eb91d7f8193930add0ac1a207a59de7fa38768c9f96d8b21fee11ba\",\"/claims/125\",\"/claims/61.md\",\"/questions/04bc3496ca5e873179cdaa0304b17d77da22a5435c83472d0b62f386ed4c1533\",\"/compare/claude-searchbot-vs-oai-adsbot.json\",\"/compare/applebot-extended-vs-oai-adsbot.md\",\"/compare/claudebot-vs-googlebot.md\",\"/compare/applebot-extended-vs-chatgpt-user.json\",\"/claims/36.json\",\"/claims/34.json\",\"/compare/googlebot-vs-perplexitybot.md\",\"/claims/72\",\"/questions/ff1c6deb90d74278593d6248167ee2547b98b46bb983ee68299165f27051e26e\",\"/claims/78.md\",\"/questions/3008a9cd3da36dbd7db58b640d2b8c4f6e43e6a767ba573d5687bf39beb1bc64\"]",
+    "formats": "[\"json\",\"md\",\"txt\",\"html\"]",
+    "verified_share": 1,
+    "verified_requests": 20
+  },
+  {
+    "id": 443,
+    "date": "2026-11-23",
+    "entity_id": 14,
+    "requests": 6,
+    "paths": "[\"/robots.txt\",\"/changes\"]",
+    "formats": "[\"txt\",\"html\"]",
+    "verified_share": 1,
+    "verified_requests": 6
   }
 ]

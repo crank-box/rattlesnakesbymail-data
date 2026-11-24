@@ -3662,6 +3662,13 @@
   },
   {
     "date": "2026-11-23",
+    "tool": "__mcp_index_nonexistent__",
+    "client_name": "mcp-index",
+    "calls": 1,
+    "avg_latency_ms": 0
+  },
+  {
+    "date": "2026-11-23",
     "tool": "__verifymcp_auth_probe_5c5974985b927946__",
     "client_name": "verifymcp-probe",
     "calls": 1,
@@ -3669,9 +3676,121 @@
   },
   {
     "date": "2026-11-23",
+    "tool": "get_snapshot",
+    "client_name": "BrickBlueBot",
+    "calls": 1,
+    "avg_latency_ms": 7
+  },
+  {
+    "date": "2026-11-23",
+    "tool": "get_snapshot",
+    "client_name": "kitscout-live-check",
+    "calls": 1,
+    "avg_latency_ms": 4
+  },
+  {
+    "date": "2026-11-23",
+    "tool": "identify_user_agent",
+    "client_name": "BrickBlueBot",
+    "calls": 1,
+    "avg_latency_ms": 31
+  },
+  {
+    "date": "2026-11-23",
+    "tool": "identify_user_agent",
+    "client_name": "mcpyp-incremental",
+    "calls": 1,
+    "avg_latency_ms": 93
+  },
+  {
+    "date": "2026-11-23",
+    "tool": "list_changes",
+    "client_name": "BrickBlueBot",
+    "calls": 1,
+    "avg_latency_ms": 145
+  },
+  {
+    "date": "2026-11-23",
+    "tool": "list_changes",
+    "client_name": "kitscout-live-check",
+    "calls": 1,
+    "avg_latency_ms": 188
+  },
+  {
+    "date": "2026-11-23",
+    "tool": "list_changes",
+    "client_name": "mcp",
+    "calls": 1,
+    "avg_latency_ms": 146
+  },
+  {
+    "date": "2026-11-23",
+    "tool": "list_changes",
+    "client_name": "mcpyp-incremental",
+    "calls": 1,
+    "avg_latency_ms": 164
+  },
+  {
+    "date": "2026-11-23",
+    "tool": "list_changes",
+    "client_name": "rokmcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 156
+  },
+  {
+    "date": "2026-11-23",
+    "tool": "lookup_crawler",
+    "client_name": "BrickBlueBot",
+    "calls": 1,
+    "avg_latency_ms": 59
+  },
+  {
+    "date": "2026-11-23",
     "tool": "lookup_crawler",
     "client_name": "earmuffin-demo",
     "calls": 1,
     "avg_latency_ms": 704
+  },
+  {
+    "date": "2026-11-23",
+    "tool": "lookup_crawler",
+    "client_name": "kitscout-live-check",
+    "calls": 1,
+    "avg_latency_ms": 132
+  },
+  {
+    "date": "2026-11-23",
+    "tool": "lookup_crawler",
+    "client_name": "mcpyp-incremental",
+    "calls": 1,
+    "avg_latency_ms": 88
+  },
+  {
+    "date": "2026-11-24",
+    "tool": "__verifymcp_auth_probe_4a3b22584194eed1__",
+    "client_name": "verifymcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 0
+  },
+  {
+    "date": "2026-11-24",
+    "tool": "get_snapshot",
+    "client_name": "kitscout-live-check",
+    "calls": 1,
+    "avg_latency_ms": 10
+  },
+  {
+    "date": "2026-11-24",
+    "tool": "list_changes",
+    "client_name": "kitscout-live-check",
+    "calls": 1,
+    "avg_latency_ms": 418
+  },
+  {
+    "date": "2026-11-24",
+    "tool": "lookup_crawler",
+    "client_name": "kitscout-live-check",
+    "calls": 1,
+    "avg_latency_ms": 164
   }
 ]

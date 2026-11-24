@@ -522,5 +522,22 @@ date,tool,client_name,calls,avg_latency_ms
 2026-11-22,list_changes,INITE Atlas Verifier,1,282
 2026-11-22,list_changes,rokmcp-probe,1,167
 2026-11-22,lookup_crawler,BrickBlueBot,1,42
+2026-11-23,__mcp_index_nonexistent__,mcp-index,1,0
 2026-11-23,__verifymcp_auth_probe_5c5974985b927946__,verifymcp-probe,1,0
+2026-11-23,get_snapshot,BrickBlueBot,1,7
+2026-11-23,get_snapshot,kitscout-live-check,1,4
+2026-11-23,identify_user_agent,BrickBlueBot,1,31
+2026-11-23,identify_user_agent,mcpyp-incremental,1,93
+2026-11-23,list_changes,BrickBlueBot,1,145
+2026-11-23,list_changes,kitscout-live-check,1,188
+2026-11-23,list_changes,mcp,1,146
+2026-11-23,list_changes,mcpyp-incremental,1,164
+2026-11-23,list_changes,rokmcp-probe,1,156
+2026-11-23,lookup_crawler,BrickBlueBot,1,59
 2026-11-23,lookup_crawler,earmuffin-demo,1,704
+2026-11-23,lookup_crawler,kitscout-live-check,1,132
+2026-11-23,lookup_crawler,mcpyp-incremental,1,88
+2026-11-24,__verifymcp_auth_probe_4a3b22584194eed1__,verifymcp-probe,1,0
+2026-11-24,get_snapshot,kitscout-live-check,1,10
+2026-11-24,list_changes,kitscout-live-check,1,418
+2026-11-24,lookup_crawler,kitscout-live-check,1,164
