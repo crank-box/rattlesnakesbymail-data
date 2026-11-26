@@ -3851,9 +3851,114 @@
   },
   {
     "date": "2026-11-25",
+    "tool": "__mcp_index_nonexistent__",
+    "client_name": "mcp-index",
+    "calls": 1,
+    "avg_latency_ms": 0
+  },
+  {
+    "date": "2026-11-25",
     "tool": "__verifymcp_auth_probe_6246a5af174a1b5e__",
     "client_name": "verifymcp-probe",
     "calls": 1,
     "avg_latency_ms": 0
+  },
+  {
+    "date": "2026-11-25",
+    "tool": "get_snapshot",
+    "client_name": "BrickBlueBot",
+    "calls": 1,
+    "avg_latency_ms": 5
+  },
+  {
+    "date": "2026-11-25",
+    "tool": "get_snapshot",
+    "client_name": "agent2tool-verify",
+    "calls": 1,
+    "avg_latency_ms": 61
+  },
+  {
+    "date": "2026-11-25",
+    "tool": "identify_user_agent",
+    "client_name": "BrickBlueBot",
+    "calls": 1,
+    "avg_latency_ms": 33
+  },
+  {
+    "date": "2026-11-25",
+    "tool": "identify_user_agent",
+    "client_name": "agent2tool-verify",
+    "calls": 1,
+    "avg_latency_ms": 93
+  },
+  {
+    "date": "2026-11-25",
+    "tool": "list_changes",
+    "client_name": "AlonzioBot",
+    "calls": 1,
+    "avg_latency_ms": 306
+  },
+  {
+    "date": "2026-11-25",
+    "tool": "list_changes",
+    "client_name": "BrickBlueBot",
+    "calls": 1,
+    "avg_latency_ms": 134
+  },
+  {
+    "date": "2026-11-25",
+    "tool": "list_changes",
+    "client_name": "agent2tool-verify",
+    "calls": 1,
+    "avg_latency_ms": 196
+  },
+  {
+    "date": "2026-11-25",
+    "tool": "list_changes",
+    "client_name": "rokmcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 155
+  },
+  {
+    "date": "2026-11-25",
+    "tool": "lookup_crawler",
+    "client_name": "BrickBlueBot",
+    "calls": 1,
+    "avg_latency_ms": 47
+  },
+  {
+    "date": "2026-11-25",
+    "tool": "lookup_crawler",
+    "client_name": "agent2tool-verify",
+    "calls": 1,
+    "avg_latency_ms": 94
+  },
+  {
+    "date": "2026-11-26",
+    "tool": "__verifymcp_auth_probe_08f13f932afef383__",
+    "client_name": "verifymcp-probe",
+    "calls": 1,
+    "avg_latency_ms": 0
+  },
+  {
+    "date": "2026-11-26",
+    "tool": "get_snapshot",
+    "client_name": "kitscout-live-check",
+    "calls": 1,
+    "avg_latency_ms": 3
+  },
+  {
+    "date": "2026-11-26",
+    "tool": "list_changes",
+    "client_name": "kitscout-live-check",
+    "calls": 1,
+    "avg_latency_ms": 214
+  },
+  {
+    "date": "2026-11-26",
+    "tool": "lookup_crawler",
+    "client_name": "kitscout-live-check",
+    "calls": 1,
+    "avg_latency_ms": 156
   }
 ]
