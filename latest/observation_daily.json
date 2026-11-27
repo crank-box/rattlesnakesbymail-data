@@ -4478,5 +4478,55 @@
     "formats": "[\"json\",\"md\",\"html\"]",
     "verified_share": 1,
     "verified_requests": 10
+  },
+  {
+    "id": 455,
+    "date": "2026-11-26",
+    "entity_id": 1,
+    "requests": 23,
+    "paths": "[\"/sitemap-index.xml\",\"/sitemap-machine.xml\",\"/sitemap.xml\",\"/snapshots/2026-10\",\"/\",\"/compare/perplexity-user-vs-perplexitybot\",\"/compare/oai-searchbot-vs-perplexitybot\",\"/fields/cites_sources\",\"/compare/claude-user-vs-googleother\",\"/compare/claude-searchbot-vs-googlebot\",\"/compare/google-extended-vs-googleother\",\"/compare/perplexity-user-vs-perplexitybot.json\",\"/compare/perplexity-user-vs-perplexitybot.md\",\"/compare/oai-searchbot-vs-perplexitybot.md\",\"/compare/oai-searchbot-vs-perplexitybot.json\",\"/fields/cites_sources.md\",\"/fields/cites_sources.json\",\"/compare/claude-user-vs-googleother.json\",\"/compare/claude-user-vs-googleother.md\",\"/compare/claude-searchbot-vs-googlebot.md\",\"/compare/claude-searchbot-vs-googlebot.json\",\"/compare/google-extended-vs-googleother.md\",\"/compare/google-extended-vs-googleother.json\"]",
+    "formats": "[\"xml\",\"html\",\"json\",\"md\"]",
+    "verified_share": 1,
+    "verified_requests": 23
+  },
+  {
+    "id": 456,
+    "date": "2026-11-26",
+    "entity_id": 2,
+    "requests": 2,
+    "paths": "[\"/robots.txt\"]",
+    "formats": "[\"txt\"]",
+    "verified_share": 1,
+    "verified_requests": 2
+  },
+  {
+    "id": 457,
+    "date": "2026-11-26",
+    "entity_id": 7,
+    "requests": 3,
+    "paths": "[\"/robots.txt\",\"/\",\"/sitemap.xml\"]",
+    "formats": "[\"txt\",\"html\",\"xml\"]",
+    "verified_share": 0,
+    "verified_requests": 0
+  },
+  {
+    "id": 458,
+    "date": "2026-11-26",
+    "entity_id": 10,
+    "requests": 35,
+    "paths": "[\"/robots.txt\",\"/observed/perplexity-user\",\"/snapshots/2026-10\",\"/crawlers/applebot\",\"/crawlers/claude-user\",\"/claims/132\",\"/compare/bingbot-vs-claude-user\",\"/fields/observed_arrival_before_sitemap\",\"/compare/applebot-extended-vs-google-extended\",\"/fields/separate_search_and_training_tokens\",\"/data/latest\",\"/claims/104\",\"/data\",\"/fields/observed_fetches_markdown\",\"/claims/41\",\"/claims/22\",\"/fields\"]",
+    "formats": "[\"txt\",\"html\"]",
+    "verified_share": 1,
+    "verified_requests": 35
+  },
+  {
+    "id": 459,
+    "date": "2026-11-26",
+    "entity_id": 13,
+    "requests": 6,
+    "paths": "[\"/compare/claude-searchbot-vs-perplexity-user.md\",\"/claims/13\",\"/compare/claudebot-vs-googleother.md\",\"/claims/144.md\",\"/data\",\"/compare/bingbot-vs-claudebot.md\"]",
+    "formats": "[\"md\",\"html\"]",
+    "verified_share": 1,
+    "verified_requests": 6
   }
 ]
