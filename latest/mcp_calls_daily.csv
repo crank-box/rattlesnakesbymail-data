@@ -573,7 +573,16 @@ date,tool,client_name,calls,avg_latency_ms
 2026-11-26,lookup_crawler,BrickBlueBot,1,49
 2026-11-26,lookup_crawler,agent-index-probe,6,1650
 2026-11-26,lookup_crawler,kitscout-live-check,1,156
+2026-11-27,__mcp_index_nonexistent__,mcp-index,1,0
+2026-11-27,__no_such_tool__,mcp-readiness-check,1,0
+2026-11-27,__radial_auth_probe__,RadialScout,1,0
 2026-11-27,__verifymcp_auth_probe_48acd3eef37cef9f__,verifymcp-probe,1,0
+2026-11-27,get_snapshot,BrickBlueBot,1,5
 2026-11-27,get_snapshot,kitscout-live-check,1,4
+2026-11-27,identify_user_agent,BrickBlueBot,1,40
+2026-11-27,list_changes,BrickBlueBot,1,164
 2026-11-27,list_changes,kitscout-live-check,1,194
+2026-11-27,list_changes,rokmcp-probe,1,144
+2026-11-27,lookup_crawler,BrickBlueBot,1,33
 2026-11-27,lookup_crawler,kitscout-live-check,1,144
+2026-11-28,__verifymcp_auth_probe_1e442cf7f9f67b0c__,verifymcp-probe,1,0

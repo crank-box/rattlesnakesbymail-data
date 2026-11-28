@@ -4528,5 +4528,55 @@
     "formats": "[\"md\",\"html\"]",
     "verified_share": 1,
     "verified_requests": 6
+  },
+  {
+    "id": 460,
+    "date": "2026-11-27",
+    "entity_id": 1,
+    "requests": 4,
+    "paths": "[\"/sitemap-index.xml\",\"/sitemap-machine.xml\",\"/sitemap.xml\",\"/snapshots/2026-10\"]",
+    "formats": "[\"xml\",\"html\"]",
+    "verified_share": 1,
+    "verified_requests": 4
+  },
+  {
+    "id": 461,
+    "date": "2026-11-27",
+    "entity_id": 2,
+    "requests": 4,
+    "paths": "[\"/robots.txt\"]",
+    "formats": "[\"txt\"]",
+    "verified_share": 1,
+    "verified_requests": 4
+  },
+  {
+    "id": 462,
+    "date": "2026-11-27",
+    "entity_id": 8,
+    "requests": 3,
+    "paths": "[\"/robots.txt\",\"/claims/12\",\"/claims/11\"]",
+    "formats": "[\"txt\",\"html\"]",
+    "verified_share": 1,
+    "verified_requests": 3
+  },
+  {
+    "id": 463,
+    "date": "2026-11-27",
+    "entity_id": 10,
+    "requests": 45,
+    "paths": "[\"/robots.txt\",\"/fields/cites_sources\",\"/snapshots/2026-10\",\"/claims/12\",\"/fields/scope_of_crawling\",\"/fields/observed_requested_mcp_endpoint\",\"/fields/what_it_controls\",\"/claims/70\",\"/claims/104\",\"/claims/41\",\"/fields/separate_search_and_training_tokens\",\"/observed\",\"/observed/chatgpt-user\",\"/fields/observed_fetches_markdown\",\"/\",\"/fields\",\"/claims/19\",\"/changes\",\"/claims/23\",\"/claims/74\",\"/questions/e61346be3fef727db8cefe0257815575a03a33698acfb1e0059140169dbd35ee\"]",
+    "formats": "[\"txt\",\"html\"]",
+    "verified_share": 1,
+    "verified_requests": 45
+  },
+  {
+    "id": 464,
+    "date": "2026-11-27",
+    "entity_id": 13,
+    "requests": 5,
+    "paths": "[\"/robots.txt\",\"/compare/bingbot-vs-gptbot.json\",\"/compare/applebot-vs-chatgpt-user\",\"/claims/39.md\",\"/\"]",
+    "formats": "[\"txt\",\"json\",\"html\",\"md\"]",
+    "verified_share": 1,
+    "verified_requests": 5
   }
 ]
